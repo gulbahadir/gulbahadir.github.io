@@ -1,6 +1,6 @@
 +++
 title = 'Sahte Kıyas veya Safsata'
-date = 2024-03-05T22:49:52-04:00
+date = 2024-02-15T22:49:52-04:00
 draft = false
 tags = [
     "akıl",
@@ -69,6 +69,23 @@ Düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken terc
 20. Görecelik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun istisnalarına dikkat çekerek ve buna vurgu yaparak, yani kapsamına karşı koyarak eleştirir.
 
 ## B-Sahte Kıyas Yapan Kendisi Olursa:
+
+1. Kişisel deneyim sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, nesnel verilerin dışına çıkarak doğruluğunu öznel deneyimleri ile gerekçelendirir.
+2. Fark yok sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, bunca zaman yapagelmişim, bir kere daha yapsam yanlış olmaz ki diye doğrulamaya çalışır.
+3. Hatalı benzetme sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konunun bir benzeri üzerinden birebir aynı sonucu çıkarmaya çalışır.
+4. İstisna sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, fikrinin doğruluğunu, konu dışına çıkarak, gerekçesiz bir kısım istisna koşullarına bağlar.
+5. Kaygan zemin sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, fikir kabul görülmediği takdirde ileride olumsuz şeyler olabilir diye suistimal eder.
+6. Savunma pozisyonu sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, yanlış olduğunu görünce, dışardan destek olarak yeni veya ek öncüller ilave eder.
+7. Beğendirme sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, bazı akıllı kişiler de benim gibi düşünüyorlar diyerek, kendi fikrini doğrulamaya çalışır.
+8. Batık maliyet sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, ben bunu kaç yıldır savunuyorum veya yapıyorum diyerek emeğini gerekçe gösterir.
+9. Döngüsel düşünme sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, kendi iddiasını öncül olarak ispatlamada kullanır.
+10. İhtimal sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, doğruluğunu olasıklara bağlar ve tekrarlarla ihtimal kuvvetinin arttığını zanneder.
+11. Özel inanca sığınarak sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, önyargılı olarak kendi özel inancını referans gösterir.
+12. Gösteriş yaparak sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, muhatabına adeta yağcılık yapar.
+13. Acındırma sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, muhatabına kendini acındırır.
+14. Gelenekçiliğe sığınarak sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, kendi özel geleneğini ve yaşadığı toplumda yaygın olan davranışları referans gösterir.
+15. İkilem sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, onu doğru ve yanlış şeklinde iki seçenekten birine zorlar ve sanki üçüncü bir seçenek yokmuş gibi tavır alır.
+16. Tartışmalı sebep sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, bu sonucun öncesinde hep şunlar oluyor diyerek doğrulamayı sadece zamana bağlar.
 
 ## Sonuç
 
