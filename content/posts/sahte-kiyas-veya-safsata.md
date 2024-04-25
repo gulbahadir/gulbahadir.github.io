@@ -47,6 +47,27 @@ Düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken terc
 
 ## A-Sahte Kıyas Yapan Muhatap Olursa:
 
+1. Kişiyi karalayarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun doğrudan kişiliğini eleştirir.
+2. Söylem-Eylem sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun, savunduğu fikir ile hareketlerinin örtüşmediğini ve çelişkiye düştüğünü belirterek eleştirir.
+3. Niteliksel karalayarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu hayat felsefesi olan ideolojisi üzerinden eleştirir.
+4. Benzetmeli karalayarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu herhangi bir sosyal-etnik-kültürel gruba yakınlığından dolayı eleştirir.
+5. Kişisel çıkarı var sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, bu fikrinden şahsi menfaatinin olduğunu ileri sürerek eleştirir.
+6. Geçmişiyle karalama sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun geçmişte bu fikri savunmadığına gönderme yaparak ve önceki durumundan destek alarak şimdiki duruşunu eleştirir.
+7. Otoriteye başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, ünlü, şöhretli, önemli bazı kişiler ile ters düştüğünü ifade ederek eleştirir.
+8. Grup baskısı yaparak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun bu fikrinde yalnız olduğunu, hatta belirli bir çoğunluk ile ters düştüğünü söyleyerek eleştirir.
+9. Duygulara başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, bu fikri savunduğu veya yaptığı takdirde, onu, mutsuz olacaksın argümanı ile eleştirir.
+10. Korkuya başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu doğrudan ya da dolaylı korkutarak eleştirir.
+11. Birleştirme sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrinin bir bölümüne parçacı yaklaşarak, içindeki hatalı bir kısmını bulur ve bunu tamamına genelleyerek eleştirir.
+12. Yeniye başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesine değil, onun fikrinin eski olduğunu ileri sürerek, adeta yeni olmama kartını kullanarak eleştirir.
+13. İndirgeyerek sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, fikrin doğruluğunu, bütüne ait bir özelliğin her bir parçasında da birebir olması gerekir, şartına indirgeyerek eleştirir.
+14. İspat yükü sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, fikrin doğrulanması için delilleri yeterli görmez ve ispatlamasının zorunlu olduğunu söyleyerek eleştirir.
+15. Genelleme sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, yanlış olan başka bir fikri ile irtibatlandırarak eleştirir.
+16. Dikkat dağıtma sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, mevzu dışında başka bir yan ya da alakasız bir konuya geçerek onu eleştirir.
+17. Etimolojik safsatası yapar: Cem, Ali'nin iddia ettiği A düşüncesini değil, önermedeki bazı kelimelerinin anlamlarını ve kökenlerini tartışmaya açarak, konuyu başka mecralara taşıyarak eleştirir.
+18. Sübjektiflik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu objektif olmayan sınırlı bir grubunun istatiksel verileri üzerinden eleştirir.
+19. Doğallık sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrini, alan ihlaline başvurarak, doğadaki fiziki kanunların bir parçası ile test ederek eleştirir.
+20. Görecelik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun istisnalarına dikkat çekerek ve buna vurgu yaparak, yani kapsamına karşı koyarak eleştirir.
+
 ## B-Sahte Kıyas Yapan Kendisi Olursa:
 
 ## Sonuç
