@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Bahadır Gül</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in Markdown on Bahadır Gül</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Wed, 24 Apr 2024 22:49:52 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klasik Mantık Biliminin Bir Özeti</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 24 Apr 2024 22:49:52 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>dsfsdf fsf sd </description>
+    </item>
+  </channel>
+</rss>
