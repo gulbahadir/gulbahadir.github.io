@@ -26,6 +26,7 @@ paginate = 5
   # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
   name = 'Bahadır Gül'
   bio = 'Düşünce dünyamın kapılarını sizlere araladığım bir çalışmadır. Keyifli okumalar…'
+  description = 'Düşünce dünyamın kapılarını sizlere araladığım bir çalışmadır. Keyifli okumalar…'
 
 
   # misc
