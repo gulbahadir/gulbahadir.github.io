@@ -64,7 +64,7 @@ Düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken terc
 15. ***Genelleme sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, yanlış olan başka bir fikri ile irtibatlandırarak eleştirir.
 16. ***Dikkat dağıtma sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, mevzu dışında başka bir yan ya da alakasız bir konuya geçerek onu eleştirir.
 17. ***Etimolojik safsatası yapar:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, önermedeki bazı kelimelerinin anlamlarını ve kökenlerini tartışmaya açarak, konuyu başka mecralara taşıyarak eleştirir.
-18. ***Sübjektiflik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu objektif olmayan sınırlı bir grubunun istatiksel verileri üzerinden eleştirir.
+18. ***Sübjektiflik sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu objektif olmayan sınırlı bir grubunun istatiksel verileri üzerinden eleştirir.
 19. ***Doğallık sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrini, alan ihlaline başvurarak, doğadaki fiziki kanunların bir parçası ile test ederek eleştirir.
 20. ***Görecelik sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun istisnalarına dikkat çekerek ve buna vurgu yaparak, yani kapsamına karşı koyarak eleştirir.
 
