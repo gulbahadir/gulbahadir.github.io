@@ -12,13 +12,13 @@ tags = [
 ]
 +++
 
-# GİRİŞ
+## GİRİŞ
 
 Mantık, aklın doğru düşünmesinin ölçülerini veren bir bilimdir. Ona, zihni hatalardan koruyan insana özel bir istidat denebilir. Aynı zamanda, aklen tutarlı, düzgün ve doğru düşünebilme disiplinlerinin bütününe mantık bilimi denir.
 
 İşte insanın mantıklı çalışabilmesinin ilk adımı, kavramı bilmesi ile başlar.
 
-# KAVRAMLAR
+## KAVRAMLAR
 
 Delalet, kavramı doğru anlamına bağlayan bir işarettir. Delalet ile bilgiye ulaşılır, delil ile bilgi elde edilir. O, lafzı manaya taşıyan bir köprüdür. İki grupta ele alınan bu delalet türlerini birer kısa misallerle hatırlayalım:
 
@@ -33,7 +33,7 @@ Delalet, kavramı doğru anlamına bağlayan bir işarettir. Delalet ile bilgiye
 
 İşte klasik mantığın kullandığı malzeme, sözlü mutabakat kısmına giren bu kavramlardır. Kavramları doğru tanımlamak önemlidir. Tanımlama yapabilmek için ise nesnelerin ontolojik anlamda bir varlık kategorisi gereklidir. Klasik mantıkta kullanılan bu kategorik kabule, Furfuriyus (Porphyrios) ağacı denir.
 
-# FURFURİYUS AĞACI (PORPHYRİOS)
+## FURFURİYUS AĞACI (PORPHYRİOS)
 
 Bu ağaç esasında, fiziki evreni bir sınıflandırmaya tabi tutma gayretinin bir şemasıdır. Cevheri, cismi olan ve cismi olmayan olarak ikiye ayırarak başlar. Cismi olmayan ifadesinden kastı ise metafizik unsurlardır.
 
@@ -41,4 +41,4 @@ Cismi olanı, canlı ve cansız diye böler. Sonra canlı olanı, duygulu ve duy
 
 Bu sınıflandırmaya ilave olarak, kavramların tanımlanabilmesi için Beş Tümel ile birlikte kaplam ve içlemin bilinmesi gerekmektedir.
 
-# BEŞ TÜMEL
+## BEŞ TÜMEL
