@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-![Bilimin Sınırlarına Dair Bir Yaklaşım](images/selective-focus-shot-sparrow-perched-barbed-wire-fence.jpg)
+![Bilimin Sınırlarına Dair Bir Yaklaşım](../../images/selective-focus-shot-sparrow-perched-barbed-wire-fence.jpg)
 
 Bu makalenin amacı, insanlık için aşikar olan bilimlerin önemini anlatmak değildir. Onun hudutlarını belirleme adına sadece bir perspektif sunmaktır. Dahası, bilimler ile nelerin bilinip-bilinemeyeceğini, yine bilimsel argümanları ile anlatma çabasıdır. Esasında bu konu, bilimin alanını ve konumunu inceleyen bilim felsefesinin (1) ve bilim metodolojisinin sahasına girmektedir.
 
