@@ -1,4 +1,4 @@
-baseURL = 'https://bahadirgul.com'
+baseURL = 'https://bahadirgul.com/'
 languageCode = 'tr-TR'
 title = 'Bahadır Gül'
 theme = 'paper'
