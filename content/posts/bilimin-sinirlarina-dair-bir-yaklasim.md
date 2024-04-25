@@ -98,6 +98,6 @@ Dahası; ruh, nefis, irade, hayat, ölüm, ölüm ötesi, melek, Tanrı tasavvur
 2. Prof. Dr. Ayhan Çitil, Gödel Teoremleri, Kualia Analitik Felsefe Dergisi
 3. Prof. Dr. Hilmi Ziya Ülken, Zihin Hakikatleri ve Varlık, Felsefeye Giriş 1
 4. [Felsefi İlkeleri](https://tr.wikipedia.org/wiki/Gottfried_Leibniz)
-5. Imre Lakatos, Bilimsel Araştırma Programlarının Metodolojisi, Alfa yayınları, Çeviri:Duygu Uygun
+5. Imre Lakatos, Bilimsel Araştırma Programlarının Metodolojisi, Alfa yayınları, Çeviri: Duygu Uygun
 6. [Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 7. [Sicim Teorisi](https://tr.wikipedia.org/wiki/Sicim_teorisi)
