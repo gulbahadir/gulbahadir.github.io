@@ -10,7 +10,7 @@ paginate = 5
 
 [params]
   # color style
-  color = 'gray'                           # linen, wheat, gray, light
+  color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
   twitter = 'bg1729'               # twitter.com/YOUR_TWITTER_ID
