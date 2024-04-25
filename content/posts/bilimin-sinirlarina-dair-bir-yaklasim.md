@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-![Bilimin Sınırlarına Dair Bir Yaklaşım](../../images/selective-focus-shot-sparrow-perched-barbed-wire-fence.jpg)
+<img src="https://img.freepik.com/free-photo/selective-focus-shot-sparrow-perched-barbed-wire-fence_181624-54122.jpg?t=st=1714024811~exp=1714028411~hmac=0d06a37e1277f9ba7fd3942c1c64a50f253df82452172f44f8bc3c688cb06d1d&w=2000" alt="Sparrow perched on barbed wire fence">
 
 Bu makalenin amacı, insanlık için aşikar olan bilimlerin önemini anlatmak değildir. Onun hudutlarını belirleme adına sadece bir perspektif sunmaktır. Dahası, bilimler ile nelerin bilinip-bilinemeyeceğini, yine bilimsel argümanları ile anlatma çabasıdır. Esasında bu konu, bilimin alanını ve konumunu inceleyen bilim felsefesinin (1) ve bilim metodolojisinin sahasına girmektedir.
 
