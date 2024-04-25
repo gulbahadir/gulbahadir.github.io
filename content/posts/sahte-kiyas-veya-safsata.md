@@ -47,45 +47,45 @@ Düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken terc
 
 ## A-Sahte Kıyas Yapan Muhatap Olursa:
 
-1. Kişiyi karalayarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun doğrudan kişiliğini eleştirir.
-2. Söylem-Eylem sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun, savunduğu fikir ile hareketlerinin örtüşmediğini ve çelişkiye düştüğünü belirterek eleştirir.
-3. Niteliksel karalayarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu hayat felsefesi olan ideolojisi üzerinden eleştirir.
-4. Benzetmeli karalayarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu herhangi bir sosyal-etnik-kültürel gruba yakınlığından dolayı eleştirir.
-5. Kişisel çıkarı var sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, bu fikrinden şahsi menfaatinin olduğunu ileri sürerek eleştirir.
-6. Geçmişiyle karalama sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun geçmişte bu fikri savunmadığına gönderme yaparak ve önceki durumundan destek alarak şimdiki duruşunu eleştirir.
-7. Otoriteye başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, ünlü, şöhretli, önemli bazı kişiler ile ters düştüğünü ifade ederek eleştirir.
-8. Grup baskısı yaparak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun bu fikrinde yalnız olduğunu, hatta belirli bir çoğunluk ile ters düştüğünü söyleyerek eleştirir.
-9. Duygulara başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, bu fikri savunduğu veya yaptığı takdirde, onu, mutsuz olacaksın argümanı ile eleştirir.
-10. Korkuya başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu doğrudan ya da dolaylı korkutarak eleştirir.
-11. Birleştirme sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrinin bir bölümüne parçacı yaklaşarak, içindeki hatalı bir kısmını bulur ve bunu tamamına genelleyerek eleştirir.
-12. Yeniye başvurarak sy: Cem, Ali'nin iddia ettiği A düşüncesine değil, onun fikrinin eski olduğunu ileri sürerek, adeta yeni olmama kartını kullanarak eleştirir.
-13. İndirgeyerek sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, fikrin doğruluğunu, bütüne ait bir özelliğin her bir parçasında da birebir olması gerekir, şartına indirgeyerek eleştirir.
-14. İspat yükü sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, fikrin doğrulanması için delilleri yeterli görmez ve ispatlamasının zorunlu olduğunu söyleyerek eleştirir.
-15. Genelleme sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, yanlış olan başka bir fikri ile irtibatlandırarak eleştirir.
-16. Dikkat dağıtma sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, mevzu dışında başka bir yan ya da alakasız bir konuya geçerek onu eleştirir.
-17. Etimolojik safsatası yapar: Cem, Ali'nin iddia ettiği A düşüncesini değil, önermedeki bazı kelimelerinin anlamlarını ve kökenlerini tartışmaya açarak, konuyu başka mecralara taşıyarak eleştirir.
-18. Sübjektiflik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu objektif olmayan sınırlı bir grubunun istatiksel verileri üzerinden eleştirir.
-19. Doğallık sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrini, alan ihlaline başvurarak, doğadaki fiziki kanunların bir parçası ile test ederek eleştirir.
-20. Görecelik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onun istisnalarına dikkat çekerek ve buna vurgu yaparak, yani kapsamına karşı koyarak eleştirir.
+1. ***Kişiyi karalayarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun doğrudan kişiliğini eleştirir.
+2. ***Söylem-Eylem sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun, savunduğu fikir ile hareketlerinin örtüşmediğini ve çelişkiye düştüğünü belirterek eleştirir.
+3. ***Niteliksel karalayarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu hayat felsefesi olan ideolojisi üzerinden eleştirir.
+4. ***Benzetmeli karalayarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu herhangi bir sosyal-etnik-kültürel gruba yakınlığından dolayı eleştirir.
+5. ***Kişisel çıkarı var sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, bu fikrinden şahsi menfaatinin olduğunu ileri sürerek eleştirir.
+6. ***Geçmişiyle karalama sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun geçmişte bu fikri savunmadığına gönderme yaparak ve önceki durumundan destek alarak şimdiki duruşunu eleştirir.
+7. ***Otoriteye başvurarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, ünlü, şöhretli, önemli bazı kişiler ile ters düştüğünü ifade ederek eleştirir.
+8. ***Grup baskısı yaparak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun bu fikrinde yalnız olduğunu, hatta belirli bir çoğunluk ile ters düştüğünü söyleyerek eleştirir.
+9. ***Duygulara başvurarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, bu fikri savunduğu veya yaptığı takdirde, onu, mutsuz olacaksın argümanı ile eleştirir.
+10. ***Korkuya başvurarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu doğrudan ya da dolaylı korkutarak eleştirir.
+11. ***Birleştirme sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrinin bir bölümüne parçacı yaklaşarak, içindeki hatalı bir kısmını bulur ve bunu tamamına genelleyerek eleştirir.
+12. ***Yeniye başvurarak sy:*** Cem, Ali'nin iddia ettiği A düşüncesine değil, onun fikrinin eski olduğunu ileri sürerek, adeta yeni olmama kartını kullanarak eleştirir.
+13. ***İndirgeyerek sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, fikrin doğruluğunu, bütüne ait bir özelliğin her bir parçasında da birebir olması gerekir, şartına indirgeyerek eleştirir.
+14. ***İspat yükü sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, fikrin doğrulanması için delilleri yeterli görmez ve ispatlamasının zorunlu olduğunu söyleyerek eleştirir.
+15. ***Genelleme sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onu, yanlış olan başka bir fikri ile irtibatlandırarak eleştirir.
+16. ***Dikkat dağıtma sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, mevzu dışında başka bir yan ya da alakasız bir konuya geçerek onu eleştirir.
+17. ***Etimolojik safsatası yapar:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, önermedeki bazı kelimelerinin anlamlarını ve kökenlerini tartışmaya açarak, konuyu başka mecralara taşıyarak eleştirir.
+18. ***Sübjektiflik sy: Cem, Ali'nin iddia ettiği A düşüncesini değil, onu objektif olmayan sınırlı bir grubunun istatiksel verileri üzerinden eleştirir.
+19. ***Doğallık sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun fikrini, alan ihlaline başvurarak, doğadaki fiziki kanunların bir parçası ile test ederek eleştirir.
+20. ***Görecelik sy:*** Cem, Ali'nin iddia ettiği A düşüncesini değil, onun istisnalarına dikkat çekerek ve buna vurgu yaparak, yani kapsamına karşı koyarak eleştirir.
 
 ## B-Sahte Kıyas Yapan Kendisi Olursa:
 
-1. Kişisel deneyim sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, nesnel verilerin dışına çıkarak doğruluğunu öznel deneyimleri ile gerekçelendirir.
-2. Fark yok sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, bunca zaman yapagelmişim, bir kere daha yapsam yanlış olmaz ki diye doğrulamaya çalışır.
-3. Hatalı benzetme sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konunun bir benzeri üzerinden birebir aynı sonucu çıkarmaya çalışır.
-4. İstisna sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, fikrinin doğruluğunu, konu dışına çıkarak, gerekçesiz bir kısım istisna koşullarına bağlar.
-5. Kaygan zemin sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, fikir kabul görülmediği takdirde ileride olumsuz şeyler olabilir diye suistimal eder.
-6. Savunma pozisyonu sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, yanlış olduğunu görünce, dışardan destek olarak yeni veya ek öncüller ilave eder.
-7. Beğendirme sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, bazı akıllı kişiler de benim gibi düşünüyorlar diyerek, kendi fikrini doğrulamaya çalışır.
-8. Batık maliyet sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, ben bunu kaç yıldır savunuyorum veya yapıyorum diyerek emeğini gerekçe gösterir.
-9. Döngüsel düşünme sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, kendi iddiasını öncül olarak ispatlamada kullanır.
-10. İhtimal sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, doğruluğunu olasıklara bağlar ve tekrarlarla ihtimal kuvvetinin arttığını zanneder.
-11. Özel inanca sığınarak sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, önyargılı olarak kendi özel inancını referans gösterir.
-12. Gösteriş yaparak sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, muhatabına adeta yağcılık yapar.
-13. Acındırma sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, muhatabına kendini acındırır.
-14. Gelenekçiliğe sığınarak sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, kendi özel geleneğini ve yaşadığı toplumda yaygın olan davranışları referans gösterir.
-15. İkilem sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, onu doğru ve yanlış şeklinde iki seçenekten birine zorlar ve sanki üçüncü bir seçenek yokmuş gibi tavır alır.
-16. Tartışmalı sebep sy: Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, bu sonucun öncesinde hep şunlar oluyor diyerek doğrulamayı sadece zamana bağlar.
+1. ***Kişisel deneyim sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, nesnel verilerin dışına çıkarak doğruluğunu öznel deneyimleri ile gerekçelendirir.
+2. ***Fark yok sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, bunca zaman yapagelmişim, bir kere daha yapsam yanlış olmaz ki diye doğrulamaya çalışır.
+3. ***Hatalı benzetme sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konunun bir benzeri üzerinden birebir aynı sonucu çıkarmaya çalışır.
+4. ***İstisna sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, fikrinin doğruluğunu, konu dışına çıkarak, gerekçesiz bir kısım istisna koşullarına bağlar.
+5. ***Kaygan zemin sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, fikir kabul görülmediği takdirde ileride olumsuz şeyler olabilir diye suistimal eder.
+6. ***Savunma pozisyonu sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, yanlış olduğunu görünce, dışardan destek olarak yeni veya ek öncüller ilave eder.
+7. ***Beğendirme sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, bazı akıllı kişiler de benim gibi düşünüyorlar diyerek, kendi fikrini doğrulamaya çalışır.
+8. ***Batık maliyet sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, ben bunu kaç yıldır savunuyorum veya yapıyorum diyerek emeğini gerekçe gösterir.
+9. ***Döngüsel düşünme sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, kendi iddiasını öncül olarak ispatlamada kullanır.
+10. ***İhtimal sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, doğruluğunu olasıklara bağlar ve tekrarlarla ihtimal kuvvetinin arttığını zanneder.
+11. ***Özel inanca sığınarak sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, önyargılı olarak kendi özel inancını referans gösterir.
+12. ***Gösteriş yaparak sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, muhatabına adeta yağcılık yapar.
+13. ***Acındırma sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, muhatabına kendini acındırır.
+14. ***Gelenekçiliğe sığınarak sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, kendi özel geleneğini ve yaşadığı toplumda yaygın olan davranışları referans gösterir.
+15. ***İkilem sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, onu doğru ve yanlış şeklinde iki seçenekten birine zorlar ve sanki üçüncü bir seçenek yokmuş gibi tavır alır.
+16. ***Tartışmalı sebep sy:*** Ali iddia ettiği A düşüncesini Cem’e karşı savunurken, konu dışına çıkarak, bu sonucun öncesinde hep şunlar oluyor diyerek doğrulamayı sadece zamana bağlar.
 
 ## Sonuç
 
