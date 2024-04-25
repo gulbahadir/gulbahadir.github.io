@@ -26,7 +26,7 @@ Delalet, kavramı doğru anlamına bağlayan bir işarettir. Delalet ile bilgiye
   - Başını aşağı doğru sallayan bir insana, onay verdi şeklinde bir anlam yüklenir ki bu, vazi bir delalettir.
   - Duman varsa ateş de vardır, sonucuna varılır ki bu, akli bir delalettir.
   - Kalbi hızlı atan bir insana, heyecanlandı denir ki bu, tabii bir delalettir.
--  Sözlü Delalet:
+- Sözlü Delalet:
   - Bir insan dövüldü dendiğinde, anlaşılır ki bir de döven vardır. Buna, ötekini çağrıştırmasından dolayı iltizam denir.
   - Aslan gibi bir insan denildiğinde, bunun manası, aslandaki sadece cesaret özelliğidir. Buna da bir kısmına işaret etmesinden tazammun denir.
   - Aslan ceylanı yedi denilirse, burada, kendisine işaret edilen gerçek bir anlam vardır. Bu durumda, mutabakat var denir.
