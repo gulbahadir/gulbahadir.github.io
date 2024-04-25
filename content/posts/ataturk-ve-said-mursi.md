@@ -10,3 +10,5 @@ tags = [
     "önerme",   
 ]
 +++
+
+## Atatürk ve Said Nursi
