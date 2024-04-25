@@ -61,7 +61,7 @@ Bediüzzaman, kendi fikirlerinin, Kur’an ve Sünnet’i kastederek, mihenge vu
 
 Bediüzzaman, Afyon mahkemesine 9 maddelik bir şikayette bulunur. Metnin ana ekseninde, ‘adalet talebinde ısrar’ vardır ve sonuçta hakim beraat kararı verir. (14. Şua, 485) Hatta savcının, insaflı olarak, bu hatalı iddiasından vazgeçtiğini de yazar.
 
-9. maddede  geçen bu, ‘kırk sene evvel beyan ettiğim bir hadîsin o şahsa vurduğu tokada binaen’ ibaresinden, Bediüzzaman’ın Atatürk’e ‘Deccal'  isnadında bulunmadığına, o günkü savcı ve hakim kesin kanaatle karar vermişlerdir.
+\9. maddede  geçen bu, ‘kırk sene evvel beyan ettiğim bir hadîsin o şahsa vurduğu tokada binaen’ ibaresinden, Bediüzzaman’ın Atatürk’e ‘Deccal'  isnadında bulunmadığına, o günkü savcı ve hakim kesin kanaatle karar vermişlerdir.
 
 Aynı konuyu, başka bir yerde de, ‘taarruz’ üslubuyla hareket ederek yazdığını (Emirdağ II, 486) söyler. Bu tarzının hata bile olsa, esas suçlayan tarafın hataları yüz katıdır, diyerek savunma yapar. Ayrıca iddiaların kaynağının gerçek değil aksine kuruntu,  yani bir ‘mevhum suç’ olduğu benzetmesini de yapar.
 
