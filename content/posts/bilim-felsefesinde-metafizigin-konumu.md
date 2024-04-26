@@ -168,9 +168,9 @@ Yine kurdele şeklinde devam eden bir eğri düşünelim. Bu eğri normalde sür
 
 Başka bir misal daha verelim. Bir E alanına sahip daire düşünelim. Bu daireyi herhangi bir R kirişi ile ikiye bölelim. A ve B şeklinde 2 alan elde edilir. İnsan, R olmadan, A yı B den veya B yi A dan fark edemez ve ayıramaz. Tekillik şurdadır: R çizgisi adı verilen bu ayrımın/berzahın alanı hem vardır hem yoktur. Oysa bu, mantık ilkesi olan çelişmezliğe ters bir durumdur. Dolayısıyla hem fiziğe hem matematiğe hem mantık yasalarına aykırıdır.
 
-Önce R vardır diyelim. E alanından R alanı çıkarılırsa, R′ işleminin sonucu zorunlu olarak A U B olur.
+Önce R vardır diyelim. E alanından R alanı çıkarılırsa, R′ işleminin sonucu zorunlu olarak $A \cup B$ olur.
 
-Sonra R yoktur diyelim. E alanından R = ∅ alanı çıkarılırsa, sonuç yine zorunlu olarak A U B olmaktadır.
+Sonra R yoktur diyelim. E alanından R = ∅ alanı çıkarılırsa, sonuç yine zorunlu olarak $A \cup B$ olmaktadır.
 
 Görüldüğü üzere R hem var hem yoktur. Yani dikkat edilirse burada mantık çalışmaz. Bir tekillik söz konusudur. Russell paradoksu olarak bilinen bu sınır durumlarında, hep çelişkiler ile karşılaşılır.
 
