@@ -82,11 +82,11 @@ Görüldüğü üzere varlık için mantığın en temel ilkesi olan özdeşlik,
 
 Çelişmezlik aklın en temel ilkesidir. Ona itiraz etmek dahi ancak ‘çelişki ilkesi’ ile mümkündür.
 
-Bir P önermesi kuralım. P: Çelişmezlik ilkesi yanlıştır, olsun.
+Bir P önermesi kuralım. $P$: Çelişmezlik ilkesi yanlıştır, olsun.
 
-P doğru ise, bu ilke kullanılamaz.
+$P$ doğru ise, bu ilke kullanılamaz.
 
-P yanlış ise, bu ilke kullanılır.
+$P$ yanlış ise, bu ilke kullanılır.
 
 Görüldüğü gibi bu ilkeye itiraz etmek de çelişkilidir. Zira doğruysa kullanılmazken, yanlışken kullanılabilir gibi bir tür safsata oluşur.
 
@@ -168,9 +168,9 @@ Yine kurdele şeklinde devam eden bir eğri düşünelim. Bu eğri normalde sür
 
 Başka bir misal daha verelim. Bir E alanına sahip daire düşünelim. Bu daireyi herhangi bir R kirişi ile ikiye bölelim. A ve B şeklinde 2 alan elde edilir. İnsan, R olmadan, A yı B den veya B yi A dan fark edemez ve ayıramaz. Tekillik şurdadır: R çizgisi adı verilen bu ayrımın/berzahın alanı hem vardır hem yoktur. Oysa bu, mantık ilkesi olan çelişmezliğe ters bir durumdur. Dolayısıyla hem fiziğe hem matematiğe hem mantık yasalarına aykırıdır.
 
-Önce R vardır diyelim. E alanından R alanı çıkarılırsa, R′ işleminin sonucu zorunlu olarak $A \cup B$ olur.
+Önce $R$ vardır diyelim. E alanından $R$ alanı çıkarılırsa, R′ işleminin sonucu zorunlu olarak $A \cup B$ olur.
 
-Sonra R yoktur diyelim. E alanından R = ∅ alanı çıkarılırsa, sonuç yine zorunlu olarak $A \cup B$ olmaktadır.
+Sonra $R$ yoktur diyelim. E alanından $R$ = ∅ alanı çıkarılırsa, sonuç yine zorunlu olarak $A \cup B$ olmaktadır.
 
 Görüldüğü üzere R hem var hem yoktur. Yani dikkat edilirse burada mantık çalışmaz. Bir tekillik söz konusudur. Russell paradoksu olarak bilinen bu sınır durumlarında, hep çelişkiler ile karşılaşılır.
 
@@ -234,7 +234,7 @@ Newton’un bu notları, maddede var olan fiziksel kuvvetlerin izahının fizik 
 
 Özel görelilik ile zamanın, genel görelilik ile maddenin izafi olduğu artık bilinmektedir. Zaman, uzayın bükülmesidir. Madde bir enerji, enerji de bir çeşit ışıktır.
 
-Evrenin yaklaşık %5 kısmı madde, %23 oranda karanlık madde ve %72 nispette karanlık enerji olduğu tahmin edilmektedir. Bilimin sahası yani fizik ve matematik ile gerçekliğe ulaşmak bu %5 kısımdan ibarettir. Ötesini anlamada fizik kuralları geçerli değildir. Burada da metafizik bir sınır vardır.
+Evrenin yaklaşık $%5$ kısmı madde, $%23$ oranda karanlık madde ve $%72$ nispette karanlık enerji olduğu tahmin edilmektedir. Bilimin sahası yani fizik ve matematik ile gerçekliğe ulaşmak bu $%5$ kısımdan ibarettir. Ötesini anlamada fizik kuralları geçerli değildir. Burada da metafizik bir sınır vardır.
 
 Benzer bir sınır, atom altı dünyasında da var ve ötesine inilemez. Adeta bilim, iki metafizik hudut arasında yaşar. Bilimin ulaşacağı göreceli gerçeklik sadece bu aralıktadır.
 
@@ -296,17 +296,17 @@ Karmaşık sayılar, metafizik dünyanın işaretçileri olarak düşünülebili
 
 İşte matematik yardımıyla, adeta hayali 8 boyut, 1 boyuta düşürülür. Niceliksel yapay ya da göreceli bir özdeşlik kurulur ve bilimsel yola ancak böyle devam edilebilir.
 
-Akla yaklaştırma adına bir örnek üzerinden izah edilirse: Kompleks sayılar, C = {z: z = a + bi; a, b ∈R ve i² = -1} şeklinde tanımlanır. Sırasıyla, 3+4i,  3-4i, -3+4i,  -3-4i,  4+3i,  4-3i,  -4+3i,  -4-3i şeklinde 8 farklı nokta düşünülebilir. Bunlar farz edelim ki, herhangi bir elektronun mümkün noktalarıdır. Büyük, küçük, sıralama, nicelik düşünülemeyen bir metafizik dünyadan bilgi edinmek mümkün olmaz. Yapılabilecek şey, tıpkı yukarıdaki misalde olduğu gibi, ölçülebilir bir boyuta düşürerek yol almaktır. Burada kompleks, bilinmeyen 8 değişken hayali noktanın, mantığın aynılık ilkesi gereği özdeşliğini temin etmek zaruridir. Mutlak değer, bir büyüklüğe karşılık gelir ve ⏐z⏐ olarak yazılır. Hepsinde bu değer 5 sayısına eşittir. Ölçülebilir bir nicelik elde edilir. Böylelikle 8 farklı değerden, 1 ortak değere ulaşılır. Ama dikkat edilirse burada 8 farklı nokta 1 niceliğe indirgenir. Hasılı belki de başka alemlere işaret eden 7 boyut elenir. Çünkü boyut olarak, geçilemez bir metafizik sınır var burada da. Zira insan zihni sınırlı boyutlar üzerinden kavrar. Ötesi ise esasında Kant felsefesinde olduğu gibi metafiziğe alan açmaktır, yoksa reddetmek değildir.
+Akla yaklaştırma adına bir örnek üzerinden izah edilirse: Kompleks sayılar, C = {z: z = a + bi; a, b ∈R ve i² = -1} şeklinde tanımlanır. Sırasıyla, $3+4i,  3-4i, -3+4i,  -3-4i,  4+3i,  4-3i,  -4+3i,  -4-3i$ şeklinde 8 farklı nokta düşünülebilir. Bunlar farz edelim ki, herhangi bir elektronun mümkün noktalarıdır. Büyük, küçük, sıralama, nicelik düşünülemeyen bir metafizik dünyadan bilgi edinmek mümkün olmaz. Yapılabilecek şey, tıpkı yukarıdaki misalde olduğu gibi, ölçülebilir bir boyuta düşürerek yol almaktır. Burada kompleks, bilinmeyen 8 değişken hayali noktanın, mantığın aynılık ilkesi gereği özdeşliğini temin etmek zaruridir. Mutlak değer, bir büyüklüğe karşılık gelir ve ⏐z⏐ olarak yazılır. Hepsinde bu değer 5 sayısına eşittir. Ölçülebilir bir nicelik elde edilir. Böylelikle 8 farklı değerden, 1 ortak değere ulaşılır. Ama dikkat edilirse burada 8 farklı nokta 1 niceliğe indirgenir. Hasılı belki de başka alemlere işaret eden 7 boyut elenir. Çünkü boyut olarak, geçilemez bir metafizik sınır var burada da. Zira insan zihni sınırlı boyutlar üzerinden kavrar. Ötesi ise esasında Kant felsefesinde olduğu gibi metafiziğe alan açmaktır, yoksa reddetmek değildir.
 
 ### Klasik ve Kuantum Mekanik Farklılığı
 
-Klasik mekanik de uzay ve zaman boyutları belli olduğundan hesaplamalarda pxq = qxp işlemi geçerlidir. Fakat Kuantum mekanikte boyutlar tam bilinemediği için pxq  ≠  qxp durumu söz konusudur.
+Klasik mekanik de uzay ve zaman boyutları belli olduğundan hesaplamalarda pxq = qxp işlemi geçerlidir. Fakat Kuantum mekanikte boyutlar tam bilinemediği için pxq $\neq$ qxp durumu söz konusudur.
 
 Görüldüğü üzere normo alemde geçerli olan eşitlik ya da özdeşlik, mikro alemde geçersiz kalmaktadır.
 
-Demek ki maddeyi anlamada, sınırlı boyutlar içerisinde, zorunlu koşullar kabul çerçevesinde, yani ancak 3 + 1 boyuta indirgenince, gerçekliğin az bir kısmı hesaplanabilir ve bilinebilir.
+Demek ki maddeyi anlamada, sınırlı boyutlar içerisinde, zorunlu koşullar kabul çerçevesinde, yani ancak $3 + 1$ boyuta indirgenince, gerçekliğin az bir kısmı hesaplanabilir ve bilinebilir.
 
-Ya gerçekte 10 + 1 boyut varsa..?  Yukarıda da ifade edildiği gibi belki de akıl, elenen 7 tane boyuta, kendisine çizilen bu metafizik sınırdan dolayı ulaşamıyor da olabilir.
+Ya gerçekte $10 + 1$ boyut varsa..?  Yukarıda da ifade edildiği gibi belki de akıl, elenen $7$ tane boyuta, kendisine çizilen bu metafizik sınırdan dolayı ulaşamıyor da olabilir.
 
 ## Matematik
 
@@ -320,9 +320,9 @@ Bu metafizik duvarın kapısı çalmak gibi bir şeydir. Çünkü, karekök 3 ve
 
 ### Süreklilik ve Süreksizlik
 
-Aynı düzlemde f (x) = y ve g (x) = y fonksiyonlarını düşünelim. Bu grafikler, a ile b aralığında süreklilik arz etsinler. f (a) =  g (a) ve f (b) =  g (b) şeklinde ilk ve son noktaları eşit olsun. Süreklilik dikkate alınmazsa, bu iki farklı f, g fonksiyonları süreksiz kabul edilirse sanki eşit ve özdeş zannedilebilir. Oysa süreklilik dikkate alınca, a ile b noktaları arasındaki güzergahlar farklı olabilir.
+Aynı düzlemde $f(x)=y$ ve $g(x)=y$ fonksiyonlarını düşünelim. Bu grafikler, a ile b aralığında süreklilik arz etsinler. $f(a)=g(a)$ ve $f(b)=g(b)$ şeklinde ilk ve son noktaları eşit olsun. Süreklilik dikkate alınmazsa, bu iki farklı $f$, $g$ fonksiyonları süreksiz kabul edilirse sanki eşit ve özdeş zannedilebilir. Oysa süreklilik dikkate alınca, a ile b noktaları arasındaki güzergahlar farklı olabilir.
 
-İşte hesaplamalar yapılırken bazı noktalarda, benzer kabuller ile yol alınmaktadır. Sadece ilk ve son noktayı dikkate alarak, indirgemeci yaklaşım ile bilim yapılırsa, pek çok şey göz ardı edilir. Oysa f ve g sadece 2 noktada eşit iken, sanki aradaki diğer noktalarda da eşitmiş gibi hareket edilerek tam gerçekliğe ulaşılamaz. Bu esasında bir yanılsamadır. Fakat birçok noktada bu hata payı göze alınmadan da bilim yapılamıyor.
+İşte hesaplamalar yapılırken bazı noktalarda, benzer kabuller ile yol alınmaktadır. Sadece ilk ve son noktayı dikkate alarak, indirgemeci yaklaşım ile bilim yapılırsa, pek çok şey göz ardı edilir. Oysa $f$ ve $g$ sadece 2 noktada eşit iken, sanki aradaki diğer noktalarda da eşitmiş gibi hareket edilerek tam gerçekliğe ulaşılamaz. Bu esasında bir yanılsamadır. Fakat birçok noktada bu hata payı göze alınmadan da bilim yapılamıyor.
 
 Mesela herhangi bir konuda, zaman parametresinde, yılı merkeze alarak hesap yapılabilir. Oysa bu ay veya gün de olabilir. Saat, dakika hatta saniye bile olabilir. Bu devam eder gider. Gerçekliğe yakınlık neyi merkeze alırsan onunla orantılıdır. Sürekli akan zaman durdurulamadığından, sanki  süreksiz durmuş anlar varmış gibi hesaplar yapılır. Bu hesaplamalar doğruya yakındır ama hiçbir zaman mutlak ve tam doğru değildir.
 
