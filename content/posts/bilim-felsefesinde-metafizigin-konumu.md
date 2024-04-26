@@ -469,29 +469,3 @@ Malum madde, bir zamanlar başlangıçta, olma ve olmama imkanları toplamı idi
 Metafizik, fizik krallığının zulmünü haykıran sürgündeki bilge sultandır. Bu sultanın, en yakın zamanda çıkarıldığı akademiye tekrar dönmesi ve hak ettiği yerde olması umuduyla…
 
 **\*Not**: Bu eser, değerli bilim insanları Ayhan Ahmet Çitil ve Baha Zafer hocalarımızın, İstanbul Medeniyet Üniversitesi ile Klasik Düşünce Okulu tarafından paylaşılan derslerinden istifade edilerek kaleme alınmıştır. Kendilerine çok teşekkür ediyorum.
-
-|                 |                 |                    |                      |             |                  |               |
-|-----------------|-----------------|--------------------|----------------------|-------------|------------------|---------------|
-| **1- LAHUT ALEMİ** | **2- ARŞ**        | **3- RAHAMUT ALEMİ** | **4- CEBERUT ALEMİ** | **5- KÜRSİ** | **6- MELEKUT ALEMİ** | **7- MÜLK ALEMİ** |
-| Zatı Baht       | Cennetin Tavanı | Rahmaniyet Tecellisi | Mahiyetler Alemi     | Nurani Taht | Sidretül Münteha  | Adetullah     |
-| Mutlak Gayb     | Alemlerin Kabesi | Rahimiyet Tecellisi | Melekutun Bir Buudu  | Manevi Taht | Beyti Mamur       | Sünnetullah   |
-| Zat Tecellisi   | Evvel Ahir Aynası| Sıfat Tecellisi      | Mülkün Bir Buudu     |             | Mülkün Tavanı     | Teşrii Kanunlar|
-| Uluhiyet Dairesi| Zahir Batın Aynası| Rububiyet Dairesi  | Ayanı Sabite         |             | Kürsi Altında     | Ayanı Saniye  |
-| Ehadiyet Dairesi| Kabı Kavseyn      | Vahidiyet Dairesi   | Ruhu Azam            |             |                   | Tekvini Kanunlar|
-| Taayyün Yok     |                   | Birinci Taayyün     |                      |             | İkinci Taayyün    |               |
-| Hakikatul Hakayık|                 | Haziretül Kuds      | Hakikatı Ahmediye    |             | Hakikatı Muhammediye|             |
-| Levhi Mahfuz    |                   | Kaza ve Kader Alemi | Ruhu Muhammedi      |             | Levhi Mahvu İspat|               |
-| Sır/Hafi/Ahfa İrtibatlı|             | Ruh İrtibatlı       | Kalb İrtibatlı       |             | Beden İrtibatlı  |               |
-| İlahi İsim Yok  | İlahi İsim Var   | Zaman Yok            | Zaman Var            |             |                   |               |
-| İlahi Sıfat Yok | İlahi Sıfat Var  | Mekan Yok            | Mekan Var            |             |                   |               |
-| Celali Alem     | Aklı Küll         | Nefis                | Cemali Alem          |             |                   |               |
-| Fethi Mutlak    |                   |                      | Alemi Ervah          | Alemi Cismani|                   |               |
-| Feyzi Akdes     | Feyzi Mukaddes    | Alemi Emir           | Alemi Halk           |             |                   |               |
-| İmanı Mübin     |                   |                      | Kitabı Mübin         |             |                   |               |
-| Fethi Mutlak    | Fethi Mübin      | Fethi Garip          |                      |             |                   |               |
-|                 |                   |                      | Batın Alemi          | Zahir Alemi |                   |               |
-|                 |                   | Metafizik Alem       | Fiziki Alem          |             |                   |               |
-|                 |                   | Aşkın Alem           | İçkin Alem           |             |                   |               |
-|                 |                   | Alemi Misal          | Alemi Suret          |             |                   |               |
-|                 |                   | Alemi Mana           | Alemi Madde          |             |                   |               |
-|                 |                   | Alemi Gayb           | Alemi Şehadet        |             |                   |               |
