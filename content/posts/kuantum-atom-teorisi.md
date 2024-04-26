@@ -84,3 +84,4 @@ Kuantum Atom Teorisi ve dahi bütün sayısal teoriler, bu evrenimizin, aynı ka
 
 1. [Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
 2. Mustafa Kılavuzoğlu, Neden 114 sure var? web: asronspace.net
+3. deneme
