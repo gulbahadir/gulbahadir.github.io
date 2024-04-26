@@ -3,7 +3,7 @@ languageCode = 'tr-TR'
 title = 'Bahadır Gül'
 theme = 'paper'
 paginate = 5
-
+math = true
 # disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
 
