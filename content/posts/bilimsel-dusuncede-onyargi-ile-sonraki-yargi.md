@@ -62,3 +62,57 @@ Zaman ve uzayın birimlerinin ortak tanımı yapılmadan bilim yapılamaz. Mesaf
 ***Ben*** denen şey, insanın kendinde farazi, itibari bir önyargısı değil midir? Benim şeyler derken, bütün 'şeyleri' çıkarırsam, bana ait olan ne var ki? Benim dediklerim olmazsa, bana kalan 'şey' nedir peki? Duydum, gördüm dediğim şeyler bile, vahidi kıyasi rolünden ibaret bir ön kabul, bir önyargıdır haddizatında. Evet, ben; varlığına şahit olduğum, gösterme imkanı olmasa dahi yok da diyemeyeceğim, varlığı adeta göreceli, izafi bir hattır.
 
 Fransız filozof René Descartes, Yöntem Üzerine Konuşma kitabında, uzunca bir düşünce turundan sonra, en temel ilkesinin, “Düşünüyorum, öyleyse varım” olduğunu ifade ediyor (7). Önce o, şüphenin kendisi dâhil, Kendisinden, varlıklardan, Tanrı’dan kısaca her şeyden şüphe ederek zihinsel yolculuğa çıkıyor. Sonuçta bunların varlığına kendisi ikna oluyor. Oysa burada Descartes’ın bir önyargısı var. Zira araç olarak kullanılan bir öncül var, o da, şüphedir. Evet, dikkatle bakılırsa, şüpheden bile şüphe edebilen bir ‘şüphe’ onun önyargısıdır. Yani şüphelenebilen biri var ki, düşünebiliyor.
+
+## Psikolojik Yararlı Önyargılar
+
+Şimdi de, henüz hipotez ve tez aşamasındaki fiziksel veya metafiziksel bir fikrin doğrulama öncesi dönemdeki, felsefi ya da ideolojik önyargıların fayda ve zararlarını anlamaya çalışalım.
+
+Evet, sadece 'fayda' veya sadece 'zarar' denmiş olsa, kendi içinde tutarsız bir cümle olur. Çünkü önyargıyı anlatırken, ‘sabit fikirli’ olma bağlamında önyargılı düşünülerek, peşinen ona 'faydalı' ya da 'zararlı' demenin hatası aşikârdır. Oysa her iki durumda söz konusu olamaz mı? Tıpkı o, meyvenin lezzetli veya çürük olabilmesi gibidir.
+
+Önyargı, akılların doğru-yanlış, ahlakların iyi-kötü ve sanatların güzel-çirkin olarak tanımladığı genel kabulleri korumaya yardımcı, itibari bir anahtardır. Sanki o, hakikat ateşini tutuşturmada kullanılan, bir düğmeye, bir kontağa basar gibi işlev gören, kıymetli bir araçtır.
+
+Önyargı tohumları, insan zihninde çimlenmeye dursun diye verilen, peşin düşünce ve fikirlerdir.
+
+Yine onun, psikolojik açıdan insanda var olan önyargı eğilimli takıntı ve travmaların, biyolojik bünyenin adeta sağlıklı olup olmadığını haberdar eden belirtiler, semptomlar ve sinyaller tarzında, bir çeşit sigorta işlevi gördüğü de düşünülebilir. Bu yönüyle insan hayatında, belli bir süre, daha büyük hasarları önlemesi adına, faydalı önyargılar kapsamına, takıntı ve travmalar da pekala dâhil edilebilir.
+
+Bir toplumun; örf, adet ve gelenekleri, sanatı, kültürü, ideolojisi sosyolojik birer önyargılardır.
+
+Çekirdeğin bir gün meyveyi netice vereceği önyargısı olmasa, hiç kimse onu toprağın içine emanet etmez.
+
+Önyargının olumlu tarafları elbette artırılabilir. Mesela vücudumuzun bağışıklık sistemi güçlensin diyerek, ona aşı yoluyla öncesinden virüsler tanıtılıyor. Böylelikle bedenimiz, tanıdığı virüslere karşı hem antremanlı oluyor hem de tedbir alıyor. Ayrıca dışarıdan gelebilecek saldırılara karşı savunma sistemini de kuruyor. İşte bu aşılama sistemi, bir çeşit vücuda 'önyargı refleksi' kazandırma işlemidir.
+
+## Psikolojik Zararlı Önyargılar
+
+Önyargı, düşüncenin önündeki perdedir. Perdenin yararı da, faydası da olur. O yüzden perdeyi dengeli kullanmak gerekir.
+
+Bireylerin, kendi fikrini, metodunu, hipotezini, tezini, ideolojisini, duygularını, aklını ve tecrübesini savunması gayet doğaldır. Fakat bunları savunurken, yüzde yüz kati, kesin, mutlak, hatasız doğrular şeklinde kabullenip, bunu başkalarına dayatması negatif, olumsuz, zararlı bir önyargıdır. Bunun adı sabit fikirli hatta ‘sabit fikirci’ olmaktır.
+
+Sabit fikirlilik, önyargının bozulmuş ve dejenere olmuş bir türevidir.
+
+Faydalı ve zararlı önyargıları birbirinden ayıran Fransız filozof Voltaire’in dediği gibi, "Önyargı, akıl yürütmeden kabul edilmiş bir inançtır."(8) O, görgüsüz kalabalıkları idare eden 'yargısız fikir' demektir. Burası önemli bir husustur. Zira yargısızlık, kötüdür, çirkindir. Yoksa bizzat önyargının kendisi, mutlak yanlış değildir.
+
+Çoğunlukla bizlerde; dışarıdaki özgür, hapisteki esirdir algısı vardır. Oysa ya içerideki insan, dışardakinin korkarak söylemeye cesaret edemediği gerçeği, yiğitçe ifade eden kişi ise! İşte önyargıyı, yargısız bırakmayıp onu yargılayabilirsen, sonraki yargılara merdiven olur. Bir yargının güncellenmemesi tabi ki zararlıdır.
+
+Önyargı, ancak ve ancak düşünmeyen kitleleri kontrol etmek için bir tasma olabilir.
+
+İlk yargılar lazımdır. Fakat onların kritik ve kontrolden yoksun ısrarı, geçersiz ve gereksizdir. Mesela bir yazar, bir yerde, yazdığı bir makaleden bazı pasajların derste okunduğunu öğrenmiş olsun. İlk duyduğunda, önyargıyla hemen sevinebilir. Oysa bir strateji olarak, kötü amaçlarla seçilmiş ve yanlış yorumlanmaya açık belli kısımlar, parçacı bir yaklaşımla, metinde yazarında eleştirdiği bölümler olduğu halde, sanki savunuluyor gibi sunulabilir.
+
+## Sonuç
+
+Önyargılarda inat, insanı zorbalığa düşürür ve onu zorba yapar. Oysa zorla kabul edilen inanç veya ideolojiler sahteliği, zorla yapılan eylem veya işler gösterişi netice verir. Sonucu ise beklenilen gerçek inancın tam aksine, onun sahtesine veya taklidine neden olur. Demek ki, bu denklemde zorbalığa kesinlikle yer yoktur.
+
+Halbuki önyargı, başka varlıklarla kıyas yapsın diye insana verilmiş, görevi izafi bir ölçüt olan, ‘benlik’ gibidir. Bu sayede alçak gönüllü insan, kendini, kendine yetmediğini, kendine malik olamayacağını ve haddini bilebilir. Bu zaten benliğin olumlu tarafıdır. Fakat bencil ve gururlu insan, ben bana yeterim ya da ben daha üstünüm şeklinde, yanlış olan öteki yargılara düşebilir, savrulabilir ve kaybedebilir de.
+
+Demek ki, önyargı, esasında bizlere gerek bilimsel araştırmalarda gerekse kendimizi tanımamızda lazım olan ilk yargıdır. Böylesi bir ilk yargıya da müdahale olamaz, belki de hiç olmamalıdır. Sadece onu mecrasına kanalize etmelidir. Zira o, isabetli yargılara ulaşma adına, doğru kıvamı yakalamak için başlangıçta lazım olan ekmeğin, yoğurdun mayası gibidir.
+
+Bu yaklaşımı, kabul veya reddeden farklı düşüncelere elbette saygı duyulur. Ama bence ilk yargılar; içten, vicdani, sezgisel, gönülden, doğal ve tabiidir. Bu açıdan onlar, özgür ve hür dolaşıyorlar, insan vicdanında ve zihninde.
+
+## Kaynaklar
+
+1. Prof. Dr. Ayhan Çitil, Gödel Teoremleri, Kualia Analitik Felsefe Dergisi
+2. Doç. Dr. Seda Özsoy Somuncuoğlu, [https://dergipark.org.tr/tr/download/article-file/298539](https://dergipark.org.tr/tr/download/article-file/298539), Sayfa 273
+3. Prof. Dr. Stephen C. Meyer, Evrenin  Bilinmeyen Tarihi, Sayfa 153,154
+4. [Saniye](https://tr.wikipedia.org/wiki/Saniye)
+5. [Metre](https://tr.wikipedia.org/wiki/Metre)
+6. René Descartes, Yöntem Üzerine Konuşma 1637,  Latincesi: Cogito, ergo sum.
+7. Voltaire, "Önyargılar", Felsefe Sözlüğü, Cilt II, Sayfa 288, 292 ve 293
