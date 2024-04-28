@@ -320,9 +320,9 @@ Bu metafizik duvarın kapısı çalmak gibi bir şeydir. Çünkü, karekök 3 ve
 
 ### Süreklilik ve Süreksizlik
 
-Aynı düzlemde $f(x)=y$ ve $g(x)=y$ fonksiyonlarını düşünelim. Bu grafikler, a ile b aralığında süreklilik arz etsinler. $f(a)=g(a)$ ve $f(b)=g(b)$ şeklinde ilk ve son noktaları eşit olsun. Süreklilik dikkate alınmazsa, bu iki farklı $f$, $g$ fonksiyonları süreksiz kabul edilirse sanki eşit ve özdeş zannedilebilir. Oysa süreklilik dikkate alınca, a ile b noktaları arasındaki güzergahlar farklı olabilir.
+Aynı düzlemde $f(x)=y$ ve $g(x)=y$ fonksiyonlarını düşünelim. Bu grafikler, a ile b aralığında süreklilik arz etsinler. $f(a)=g(a)$ ve $f(b)=g(b)$ şeklinde ilk ve son noktaları eşit olsun. Süreklilik dikkate alınmazsa, bu iki farklı $f(x)$, $g(x)$ fonksiyonları süreksiz kabul edilirse sanki eşit ve özdeş zannedilebilir. Oysa süreklilik dikkate alınca, a ile b noktaları arasındaki güzergahlar farklı olabilir.
 
-İşte hesaplamalar yapılırken bazı noktalarda, benzer kabuller ile yol alınmaktadır. Sadece ilk ve son noktayı dikkate alarak, indirgemeci yaklaşım ile bilim yapılırsa, pek çok şey göz ardı edilir. Oysa $f$ ve $g$ sadece 2 noktada eşit iken, sanki aradaki diğer noktalarda da eşitmiş gibi hareket edilerek tam gerçekliğe ulaşılamaz. Bu esasında bir yanılsamadır. Fakat birçok noktada bu hata payı göze alınmadan da bilim yapılamıyor.
+İşte hesaplamalar yapılırken bazı noktalarda, benzer kabuller ile yol alınmaktadır. Sadece ilk ve son noktayı dikkate alarak, indirgemeci yaklaşım ile bilim yapılırsa, pek çok şey göz ardı edilir. Oysa $f(x)$ ve $g(x)$ sadece 2 noktada eşit iken, sanki aradaki diğer noktalarda da eşitmiş gibi hareket edilerek tam gerçekliğe ulaşılamaz. Bu esasında bir yanılsamadır. Fakat birçok noktada bu hata payı göze alınmadan da bilim yapılamıyor.
 
 Mesela herhangi bir konuda, zaman parametresinde, yılı merkeze alarak hesap yapılabilir. Oysa bu ay veya gün de olabilir. Saat, dakika hatta saniye bile olabilir. Bu devam eder gider. Gerçekliğe yakınlık neyi merkeze alırsan onunla orantılıdır. Sürekli akan zaman durdurulamadığından, sanki  süreksiz durmuş anlar varmış gibi hesaplar yapılır. Bu hesaplamalar doğruya yakındır ama hiçbir zaman mutlak ve tam doğru değildir.
 
