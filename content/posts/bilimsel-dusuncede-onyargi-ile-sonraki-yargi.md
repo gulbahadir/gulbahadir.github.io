@@ -89,7 +89,7 @@ Bireylerin, kendi fikrini, metodunu, hipotezini, tezini, ideolojisini, duygular�
 
 Sabit fikirlilik, önyargının bozulmuş ve dejenere olmuş bir türevidir.
 
-Faydalı ve zararlı önyargıları birbirinden ayıran Fransız filozof Voltaire’in dediği gibi, "Önyargı, akıl yürütmeden kabul edilmiş bir inançtır."(8) O, görgüsüz kalabalıkları idare eden 'yargısız fikir' demektir. Burası önemli bir husustur. Zira yargısızlık, kötüdür, çirkindir. Yoksa bizzat önyargının kendisi, mutlak yanlış değildir.
+Faydalı ve zararlı önyargıları birbirinden ayıran Fransız filozof Voltaire’in dediği gibi, "Önyargı, akıl yürütmeden kabul edilmiş bir inançtır." (8) O, görgüsüz kalabalıkları idare eden 'yargısız fikir' demektir. Burası önemli bir husustur. Zira yargısızlık, kötüdür, çirkindir. Yoksa bizzat önyargının kendisi, mutlak yanlış değildir.
 
 Çoğunlukla bizlerde; dışarıdaki özgür, hapisteki esirdir algısı vardır. Oysa ya içerideki insan, dışardakinin korkarak söylemeye cesaret edemediği gerçeği, yiğitçe ifade eden kişi ise! İşte önyargıyı, yargısız bırakmayıp onu yargılayabilirsen, sonraki yargılara merdiven olur. Bir yargının güncellenmemesi tabi ki zararlıdır.
 
@@ -110,9 +110,10 @@ Bu yaklaşımı, kabul veya reddeden farklı düşüncelere elbette saygı duyul
 ## Kaynaklar
 
 1. Prof. Dr. Ayhan Çitil, Gödel Teoremleri, Kualia Analitik Felsefe Dergisi
-2. Doç. Dr. Seda Özsoy Somuncuoğlu, [https://dergipark.org.tr/tr/download/article-file/298539](https://dergipark.org.tr/tr/download/article-file/298539), Sayfa 273
-3. Prof. Dr. Stephen C. Meyer, Evrenin  Bilinmeyen Tarihi, Sayfa 153,154
-4. [Saniye](https://tr.wikipedia.org/wiki/Saniye)
-5. [Metre](https://tr.wikipedia.org/wiki/Metre)
-6. René Descartes, Yöntem Üzerine Konuşma 1637,  Latincesi: Cogito, ergo sum.
-7. Voltaire, "Önyargılar", Felsefe Sözlüğü, Cilt II, Sayfa 288, 292 ve 293
+2. Imre Lakatos, Bilimsel Araştırma Programlarının Metodolojisi, Alfa yayınları, Çeviri:Duygu Uygun
+3. Doç. Dr. Seda Özsoy Somuncuoğlu, [https://dergipark.org.tr/tr/download/article-file/298539](https://dergipark.org.tr/tr/download/article-file/298539), Sayfa 273
+4. Prof. Dr. Stephen C. Meyer, Evrenin  Bilinmeyen Tarihi, Sayfa 153,154
+5. [Saniye](https://tr.wikipedia.org/wiki/Saniye)
+6. [Metre](https://tr.wikipedia.org/wiki/Metre)
+7. René Descartes, Yöntem Üzerine Konuşma 1637,  Latincesi: Cogito, ergo sum.
+8. Voltaire, "Önyargılar", Felsefe Sözlüğü, Cilt II, Sayfa 288, 292 ve 293
