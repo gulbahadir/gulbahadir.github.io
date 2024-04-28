@@ -41,11 +41,7 @@ Düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken terc
 İlk bölümde 20 adet, ikinci bölümde 16 adet olmak üzere, toplamda 36 tane sahte kıyas türüne yer verildi. İlk kısımda safsata yapan kişi olarak Ali, son kısım ise safsata yapan muhatap kişi olarak Cem temsili bir adlandırmadan ibarettir. Yani:
 
 - Ali: Fikir, düşünce, iddia veya tez sahibi bir insan olsun.
-- deneme
 - Cem: Fikir, düşünce, iddia, tez sahibi diğer bir insan olsun.
-    - alt liste
-    - alt liste 2
-        - alt alt liste
 - Fikirler: Ali’nin fikri A olsun.
 - Safsata Yapmak: sy olsun.
 
