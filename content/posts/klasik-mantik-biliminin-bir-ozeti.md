@@ -160,7 +160,7 @@ A-Düz Döndürme: Bu döndürmede, konu ile yüklem belli kurallarla yer deği�
 
 B-Ters Döndürme: Ters döndürmede ise, konunun zıddı ile yüklemin zıddı belli kurallarla yer değiştirilerek yapılır. Dört türlüsü vardır. Fakat üç tanesi doğru netice verir. Örnek üzerinden gösterelim:
 
-1. Her tam sayı, rasyonel sayıdır. Her rasyonel olmayan sayı, tam sayı olmayandır. Mesela pi sayısı… (Doğru-Doğru) (A-A)
+1. Her tam sayı, rasyonel sayıdır. Her rasyonel olmayan sayı, tam sayı olmayandır. Mesela $\pi$ sayısı… (Doğru-Doğru) (A-A)
 2. Hiçbir tam sayı, irrasyonel olmaz. Bazı irrasyonel olmayan sayılar, tam sayı olmaz. Mesela 11,5 sayısı… (Doğru-Doğru) (E-O)
 3. Bazı pozitif tam sayılar, rakam olmaz. Bazı rakam olmayan sayılar, pozitif tam sayı olmaz. Mesela -10 sayısı… (Doğru-Doğru) (O-O)
 4. Bazı insanlar, doktordur. Bazı doktor olmayanlar, insan olmayandır. (Doğru-Yanlış) (I-$\varnothing$)
