@@ -20,6 +20,14 @@ Mantık, aklın doğru düşünmesinin ölçülerini veren bir bilimdir. Ona, zi
 
 ## Kavramlar
 
+Kavram, bir nesnenin, bir duygunun, bir düşüncenin, bir fikrin ortak özelliklerini içine alan, zihindeki anlamının soyut ve genel tasarımının adıdır. Kavramlar dille, beyanla ifade edilirse buna terim veya sözcük denir.
+
+Kavram genel, hayal özel bir tasarımdır. Tasavvurdan kavarama gidilir. Olumlu-olumsuz, somut-soyut, tümel-tikel-tekil, açık-seçik-bulanık, mutlak-mukayyet, özsel-ilintisel, kolektif-distribütif şeklinde kategorize edilen farklı kavram çeşitleri vardır.
+
+Kavramlar, anlamlara veya manalara taşıyan işaretlerdir. Bu semboller sözlü veya sözsüz olabilir. Mantık, bu delaletlerin sadece sözlü olan kısmıyla ilgilenir.
+
+## Delalet Türleri
+
 Delalet, kavramı doğru anlamına bağlayan bir işarettir. Delalet ile bilgiye ulaşılır, delil ile bilgi elde edilir. O, lafzı manaya taşıyan bir köprüdür. İki grupta ele alınan bu delalet türlerini birer kısa misallerle hatırlayalım:
 
 - Sözsüz Delalet:
