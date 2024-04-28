@@ -236,8 +236,8 @@ Alttaki dört şekle, yüklemli kesin (iktiranlı) kıyas veya kategorik kıyas 
 
 1. Büyük önermenin öznesi ve küçük önermenin yüklemi atılır. Her $X$, $Y$ dir. Her $Z$, $X$ dir. Öyleyse her $Z$, $Y$ dir.
 2. Büyük önermenin öznesi ve küçük önermenin öznesi atılır. Her $X$, $Z$ dir. Her $X$, $Y$ dir. Öyleyse her $Y$, $Z$ dir.
-3. Büyük önermenin yüklemi ve küçük önermenin yüklemi atılır. Her $X$, $Y$ dir. Her $Z, $Y$ dir. Öyleyse her $X$, $Z$ dir.
-4. Büyük önermenin yüklemi ve küçük önermenin öznesi atılır. Her $X$, $Y$ dir. Her $Y$, $Z dir. Öyleyse her $X$, $Z$ dir.
+3. Büyük önermenin yüklemi ve küçük önermenin yüklemi atılır. Her $X$, $Y$ dir. Her $Z$, $Y$ dir. Öyleyse her $X$, $Z$ dir.
+4. Büyük önermenin yüklemi ve küçük önermenin öznesi atılır. Her $X$, $Y$ dir. Her $Y$, $Z$ dir. Öyleyse her $X$, $Z$ dir.
 
 Alttaki iki şekle, koşullu (şartlı) kesin kıyas ismi verilir:
 
