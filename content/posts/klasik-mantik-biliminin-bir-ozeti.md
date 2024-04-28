@@ -262,7 +262,7 @@ Bileşik kıyaslar; zincirleme, sorit ve karma (hulfi) olmak üzere üç türü 
 
 1. Zincirleme kıyas; ikiden daha fazla öncülü olan kıyaslara denir. İleri ve geri iki türü vardır. Genel formatları ise şöyledir;
    - Her $X$, $Y$ dir. Her $Z$, $X$ dir. (Öyleyse her $Z$, $Y$ dir.) Her $S$, $Z$ dir. Öyleyse her $S$, $Y$ dir. (İleri)  Bu şekilde aralarda birçok sonuç bulunabilir.
-   - Her $X$, $Y$ dir. Her $Y$, $Z$ dir. (Öyleyse Her $X$, $Z$ dir.) Her $Z$, $S$ dir. Öyleyse $X$, $S$ dir. (Geri) Bu şekilde aralarda birçok sonuç bulunabilir.
+   - Her $X$, $Y$ dir. Her $Y$, $Z$ dir. (Öyleyse her $X$, $Z$ dir.) Her $Z$, $S$ dir. Öyleyse $X$, $S$ dir. (Geri) Bu şekilde aralarda birçok sonuç bulunabilir.
 2. Sorit kıyas; zincirleme kıyasın en nihai neticesidir. Ortalardaki sonuç önermelerin çıkarılması ile yapılır. İleri ve geri iki türü vardır. Özel bir zincirleme türü olan sorit kıyasın formatları yukarıda ifade edildiği üzere şöyledir;
    - Her $X$, $Y$ dir. Her $Z$, $X$ dir. Her $S$, $Z$ dir. Öyleyse her $S$, $Y$ dir. (İleri)
    - Her $X$, $Y$ dir. Her $Y$, $Z$ dir. Her $Z$, $S$ dir. Öyleyse her $X$, $S$ dir. (Geri)
