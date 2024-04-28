@@ -3,6 +3,7 @@ title = 'Kuantum Atom Teorisi'
 description = "Atomlar, fiziksel evrenin adeta alfabesidir. Bu kimyasal harflerin, belli bir mantık çerçevesinde, Periyodik Tablo'da resmedildiklerini biliyoruz."
 date = 2024-01-25
 draft = false
+math = true
 tags = [
     "kuantum",
     "bozonlar",
