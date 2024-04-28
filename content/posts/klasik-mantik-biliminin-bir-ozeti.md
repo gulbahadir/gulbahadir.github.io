@@ -247,7 +247,7 @@ Alttaki iki şekle, koşullu (şartlı) kesin kıyas ismi verilir:
 Alttaki iki şekle, seçmeli (istisnai) kıyas denir. Seçmeli kıyaslarda, birinci öncül koşullu, ikincisi ise seçmeli olmalıdır:
 
 1. $X$ ise $Y$ dir. $Z$ de $X$ dir. Öyleyse $Z$ de, $Y$ dir. (Bitişik istisnai)
-2. $X$, ya $Y$ ya da $Z$ dir. $Y$, $X$ dir. Öyleyse $Z$, $X$ değildir. (Ayrık istisnai)
+2. $X$ ya $Y$ ya da $Z$ dir. $Y$, $X$ dir. Öyleyse $Z$, $X$ değildir. (Ayrık istisnai)
 
 Ayrıca ikilem (dilemma), bir seçmeli kıyas türüdür. Büyük önerme, 've' eklemiyle birleştirilmiş iki koşullu önermeden oluşur. Küçük önerme ise ayrık koşullu bir önermedir. Formatı ise dört türlüdür:
 
