@@ -12,7 +12,6 @@ paginate = 5
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'bg1729'               # twitter.com/YOUR_TWITTER_ID
   # github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
   # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
   # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
@@ -20,6 +19,7 @@ paginate = 5
   # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
   # rss = true                                # show rss icon
   email = 'iletisim@bahadirgul.com'
+  twitter = 'bg1729'
 
   # home page profile
   # avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
