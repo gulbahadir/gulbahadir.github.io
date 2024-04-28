@@ -312,7 +312,7 @@ Ya gerçekte $10 + 1$ boyut varsa..?  Yukarıda da ifade edildiği gibi belki de
 
 ### Harezmi'nin Keşfi
 
-Matematik yaparken belli sayılar kullanılırdı. Fakat bu durum, ta ki Harezmi'nin yeni keşifleri ile son buluna kadar sürdü. $0$, 'sıfır' rakamını cebirsel işlemlerde kullanmaya başladı. Maalesef bu cazip keşif, bazılarının başını öyle döndürür ki, her sayının kendisine dayandığı 'Bir'in konumunu ve değerini unutmalarına neden oldu. Ayrıca o dönemde $x^2-4-0$, $x^2-9-0$ gibi eşitliklerdeki çözüm kümeleri dolaysız yapılabiliyordu. Ama $x^2-3-0$, $x^2-8-0$ gibi ikinci derece eşitlikler düşünülebilir olsa da çözümü dolaysız henüz bilinmiyordu.
+Matematik yaparken belli sayılar kullanılırdı. Fakat bu durum, ta ki Harezmi'nin yeni keşifleri ile son buluna kadar sürdü. $0$, 'sıfır' rakamını cebirsel işlemlerde kullanmaya başladı. Maalesef bu cazip keşif, bazılarının başını öyle döndürür ki, her sayının kendisine dayandığı 'Bir'in konumunu ve değerini unutmalarına neden oldu. Ayrıca o dönemde $x^2-4=0$, $x^2-9=0$ gibi eşitliklerdeki çözüm kümeleri dolaysız yapılabiliyordu. Ama $x^2-3=0$, $x^2-8=0$ gibi ikinci derece eşitlikler düşünülebilir olsa da çözümü dolaysız henüz bilinmiyordu.
 
 İşte Harezmi bu keşifle, düşünülenlerin var olduğunu ancak onları dolaysız değil de dolaylı yollardan yani geometri gibi şekillere indirgeyerek bilineceğinin yolunu açmış oldu.
 
