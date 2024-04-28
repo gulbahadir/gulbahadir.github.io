@@ -18,7 +18,7 @@ Mantık, aklın doğru düşünmesinin ölçülerini veren bir bilimdir. Ona, zi
 
 İşte insanın mantıklı çalışabilmesinin ilk adımı, kavramı bilmesi ile başlar.
 
-## KAVRAMLAR
+## Kavramlar
 
 Delalet, kavramı doğru anlamına bağlayan bir işarettir. Delalet ile bilgiye ulaşılır, delil ile bilgi elde edilir. O, lafzı manaya taşıyan bir köprüdür. İki grupta ele alınan bu delalet türlerini birer kısa misallerle hatırlayalım:
 
