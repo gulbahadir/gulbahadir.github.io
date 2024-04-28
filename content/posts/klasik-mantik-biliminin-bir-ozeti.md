@@ -230,7 +230,7 @@ Dolaylı kıyasta en az iki önerme bulunur. Basit ise iki önerme, bileşik (m�
 
 **A-Basit Kıyaslar:**
 
-İki önermedeki bağlantıyı kuran, bir ortak terim bulunur ve bu atılarak kıyas yapılır. Her iki öncülde tekrarlanan bu orta terim (el haddül evsat) yoksa çıkarım yapılamaz. Konusu veya yüklemi $$X$$, $Y$, $Z$, $S$ olan temsili önermeler üzerinden izah edelim:
+İki önermedeki bağlantıyı kuran, bir ortak terim bulunur ve bu atılarak kıyas yapılır. Her iki öncülde tekrarlanan bu orta terim (el haddül evsat) yoksa çıkarım yapılamaz. Konusu veya yüklemi $X$, $Y$, $Z$, $S$ olan temsili önermeler üzerinden izah edelim:
  
 Alttaki dört şekle, yüklemli kesin (iktiranlı) kıyas veya kategorik kıyas ismi verilir.
 
