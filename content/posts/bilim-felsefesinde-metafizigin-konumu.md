@@ -286,21 +286,21 @@ Ayrıca güçlü, zayıf ve elektromanyetik kuvvetleri taşıyan Gulonlar ile El
 
 Matematikteki sayılar dünyasında, sadece düşünülen ama görülmeyen, büyük ve küçük gibi niceliklerin geçerli olmadığı kompleks sayılar vardır. Bu sayılar kullanılarak, adeta metafizikten taşan verilerden hareketle, o kuantum alanlarına dair, bazı hesaplamalar yapılır. Bu durum, tamamen metafiziğin fiziğe indirgenmesinden ibarettir.
 
-Akla yaklaştırmak için, bir benzetme ile açıklamak istiyorum. Mesela, f = sin(x) ile g = cos(x) fonksiyonlarının, 0 ile 2π aralığındaki grafikleri farklıdır. Yani özdeş değillerdir. Sadece 2 noktada aynı değeri alırlar. Fakat f ve g fonksiyonlarının x ekseni ile oluşturdukları alanlar eşittir. Alan bakımından adeta özdeşlik var sayılır. Bu eşitlik üzerinden artık bazı bilimsel çıkarımlar yapılabilir. Çünkü böylelikle boyut ve alan devreye girer. Nicelik matematiksel hesaba elverişlidir. Kıyas yapılabilir. Oysa burada gerçeklikten uzaklaşılmış, sadece doğrunun bir kısmı olan, alana indirgenmiş bir hesaplama söz konusudur. Kuantum dünyasının üstatları olan, Born ile Schrödinger arasındaki görüş farkı tam da buradadır ve Born indirgemeyi fark etiği için bu mevzu da haklıdır.
+Akla yaklaştırmak için, bir benzetme ile açıklamak istiyorum. Mesela, f = sin(x) ile g = cos(x) fonksiyonlarının, 0 ile 2$\pi$ aralığındaki grafikleri farklıdır. Yani özdeş değillerdir. Sadece 2 noktada aynı değeri alırlar. Fakat f ve g fonksiyonlarının x ekseni ile oluşturdukları alanlar eşittir. Alan bakımından adeta özdeşlik var sayılır. Bu eşitlik üzerinden artık bazı bilimsel çıkarımlar yapılabilir. Çünkü böylelikle boyut ve alan devreye girer. Nicelik matematiksel hesaba elverişlidir. Kıyas yapılabilir. Oysa burada gerçeklikten uzaklaşılmış, sadece doğrunun bir kısmı olan, alana indirgenmiş bir hesaplama söz konusudur. Kuantum dünyasının üstatları olan, Born ile Schrödinger arasındaki görüş farkı tam da buradadır ve Born indirgemeyi fark etiği için bu mevzu da haklıdır.
 
 ### Elenen Boyutlar
 
-Sicim teorisyenleri uzayda, 7 gizli/saklı ek uzay boyutundan bahsederler. Kuantum dünyasındaki 8 farklı durum, 1 duruma indirgenerek hesaplama yapılır.
+Sicim teorisyenleri uzayda, $7$ gizli/saklı ek uzay boyutundan bahsederler. Kuantum dünyasındaki $8$ farklı durum, $1$ duruma indirgenerek hesaplama yapılır.
 
 Karmaşık sayılar, metafizik dünyanın işaretçileri olarak düşünülebilir. Ulaşılamayan noktaların dolaylı hesaplamaları, onların yardımı ile yapılır. Yani sayelerinde, doğru ama gerçekliğin sadece bir parçası hakkında bilgi sahibi olunur.  Fakat burada da karşımıza aşılmaz bir sınır çıkar. Bu sınırın ötesine gidilemez, ne var ne yok bilinemez.
 
-İşte matematik yardımıyla, adeta hayali 8 boyut, 1 boyuta düşürülür. Niceliksel yapay ya da göreceli bir özdeşlik kurulur ve bilimsel yola ancak böyle devam edilebilir.
+İşte matematik yardımıyla, adeta hayali $8$ boyut, $1$ boyuta düşürülür. Niceliksel yapay ya da göreceli bir özdeşlik kurulur ve bilimsel yola ancak böyle devam edilebilir.
 
-Akla yaklaştırma adına bir örnek üzerinden izah edilirse: Kompleks sayılar, C = {z: z = a + bi; a, b ∈R ve i² = -1} şeklinde tanımlanır. Sırasıyla, $3+4i,  3-4i, -3+4i,  -3-4i,  4+3i,  4-3i,  -4+3i,  -4-3i$ şeklinde 8 farklı nokta düşünülebilir. Bunlar farz edelim ki, herhangi bir elektronun mümkün noktalarıdır. Büyük, küçük, sıralama, nicelik düşünülemeyen bir metafizik dünyadan bilgi edinmek mümkün olmaz. Yapılabilecek şey, tıpkı yukarıdaki misalde olduğu gibi, ölçülebilir bir boyuta düşürerek yol almaktır. Burada kompleks, bilinmeyen 8 değişken hayali noktanın, mantığın aynılık ilkesi gereği özdeşliğini temin etmek zaruridir. Mutlak değer, bir büyüklüğe karşılık gelir ve ⏐z⏐ olarak yazılır. Hepsinde bu değer 5 sayısına eşittir. Ölçülebilir bir nicelik elde edilir. Böylelikle 8 farklı değerden, 1 ortak değere ulaşılır. Ama dikkat edilirse burada 8 farklı nokta 1 niceliğe indirgenir. Hasılı belki de başka alemlere işaret eden 7 boyut elenir. Çünkü boyut olarak, geçilemez bir metafizik sınır var burada da. Zira insan zihni sınırlı boyutlar üzerinden kavrar. Ötesi ise esasında Kant felsefesinde olduğu gibi metafiziğe alan açmaktır, yoksa reddetmek değildir.
+Akla yaklaştırma adına bir örnek üzerinden izah edilirse: Kompleks sayılar, $C = \{z: z = a + bi; a, b \in \mathbb{R} \text{ ve } i^2 = -1\}$ şeklinde tanımlanır. Sırasıyla, $3+4i$, $3-4i$, $-3+4i$, $-3-4i$, $4+3i$, $4-3i$, $-4+3i$, $-4-3i$ şeklinde $8$ farklı nokta düşünülebilir. Bunlar farz edelim ki, herhangi bir elektronun mümkün noktalarıdır. Büyük, küçük, sıralama, nicelik düşünülemeyen bir metafizik dünyadan bilgi edinmek mümkün olmaz. Yapılabilecek şey, tıpkı yukarıdaki misalde olduğu gibi, ölçülebilir bir boyuta düşürerek yol almaktır. Burada kompleks, bilinmeyen $8$ değişken hayali noktanın, mantığın aynılık ilkesi gereği özdeşliğini temin etmek zaruridir. Mutlak değer, bir büyüklüğe karşılık gelir ve $\lvert z \rvert$ olarak yazılır. Hepsinde bu değer $5$ sayısına eşittir. Ölçülebilir bir nicelik elde edilir. Böylelikle $8$ farklı değerden, $1$ ortak değere ulaşılır. Ama dikkat edilirse burada $8$ farklı nokta $1$ niceliğe indirgenir. Hasılı belki de başka alemlere işaret eden $7$ boyut elenir. Çünkü boyut olarak, geçilemez bir metafizik sınır var burada da. Zira insan zihni sınırlı boyutlar üzerinden kavrar. Ötesi ise esasında Kant felsefesinde olduğu gibi metafiziğe alan açmaktır, yoksa reddetmek değildir.
 
 ### Klasik ve Kuantum Mekanik Farklılığı
 
-Klasik mekanik de uzay ve zaman boyutları belli olduğundan hesaplamalarda pxq = qxp işlemi geçerlidir. Fakat Kuantum mekanikte boyutlar tam bilinemediği için pxq $\neq$ qxp durumu söz konusudur.
+Klasik mekanik de uzay ve zaman boyutları belli olduğundan hesaplamalarda $p \times q = q \times p$ işlemi geçerlidir. Fakat Kuantum mekanikte boyutlar tam bilinemediği için $p \times q \neq q \times p$ durumu söz konusudur.
 
 Görüldüğü üzere normo alemde geçerli olan eşitlik ya da özdeşlik, mikro alemde geçersiz kalmaktadır.
 
@@ -312,7 +312,7 @@ Ya gerçekte $10 + 1$ boyut varsa..?  Yukarıda da ifade edildiği gibi belki de
 
 ### Harezmi'nin Keşfi
 
-Matematik yaparken belli sayılar kullanılırdı. Fakat bu durum, ta ki Harezmi'nin yeni keşifleri ile son buluna kadar sürdü. O, 'sıfır' rakamını cebirsel işlemlerde kullanmaya başladı. Maalesef bu cazip keşif, bazılarının başını öyle döndürür ki, her sayının kendisine dayandığı 'Bir'in konumunu ve değerini unutmalarına neden oldu. Ayrıca o dönemde x²- 4 = 0, x²- 9 = 0 gibi eşitliklerdeki çözüm kümeleri dolaysız yapılabiliyordu. Ama x²- 3 = 0, x²- 8 = 0 gibi ikinci derece eşitlikler düşünülebilir olsa da çözümü dolaysız henüz bilinmiyordu.
+Matematik yaparken belli sayılar kullanılırdı. Fakat bu durum, ta ki Harezmi'nin yeni keşifleri ile son buluna kadar sürdü. $0$, 'sıfır' rakamını cebirsel işlemlerde kullanmaya başladı. Maalesef bu cazip keşif, bazılarının başını öyle döndürür ki, her sayının kendisine dayandığı 'Bir'in konumunu ve değerini unutmalarına neden oldu. Ayrıca o dönemde $x^2-4-0$, $x^2-9-0$ gibi eşitliklerdeki çözüm kümeleri dolaysız yapılabiliyordu. Ama $x^2-3-0$, $x^2-8-0$ gibi ikinci derece eşitlikler düşünülebilir olsa da çözümü dolaysız henüz bilinmiyordu.
 
 İşte Harezmi bu keşifle, düşünülenlerin var olduğunu ancak onları dolaysız değil de dolaylı yollardan yani geometri gibi şekillere indirgeyerek bilineceğinin yolunu açmış oldu.
 
@@ -328,11 +328,11 @@ Mesela herhangi bir konuda, zaman parametresinde, yılı merkeze alarak hesap ya
 
 Bütünlük kuşatılamaz. Birimler bütünlükten doğar. Birimler yani 1 saniye ve 1 metre mutlak değil görecelidir, bir kabuldür. Halbuki aksiyom olan bu birimler üzerinden bilim yapılır. Fizik çok az da olsa mukayyet sonuçlar verir ve neticeler yuvarlanır. Çünkü ne kadar geçilirse geçilsin, büyük veya küçük, bir noktadan sonrası geçilemez.
 
-###  Alfa ( α ) Sayısının Gizemi
+###  Alfa ($\alpha$) Sayısının Gizemi
 
 İnce yapı sabitinin en önemli özelliği, fiziksel alemdeki temel sabitlerden elde edilmesidir. Diğer bütün sabiteler bu ince ayar sabitine bağlıdır. Yani bu hassas ayar, fiziksel bir sınırdır. Ötesine geçilemez, bu sayının ya da oranın. Çünkü berisi metafizik ile fizik sınırıdır. Bu sınırın aşılması insanlık için imkansızdır. İmkânsız olan ise çelişik olandır.
 
-Bu, boyutsuz bir sayıdır. 1/137 onun için yaklaşık bir değerdir. Gerçek tanımı ise hidrojen atomunu esas aldığımızda, iki hızın birbirine oranıdır. Bu sabite, elektron hızı ile ışık hızı oranına karşılık gelmektedir.
+Bu, boyutsuz bir sayıdır. $\frac{1}{137}$ onun için yaklaşık bir değerdir. Gerçek tanımı ise hidrojen atomunu esas aldığımızda, iki hızın birbirine oranıdır. Bu sabite, elektron hızı ile ışık hızı oranına karşılık gelmektedir.
 
 Makro alem ile mikro alem arasındaki ilişkiyi ve sınırı bu sabite belirler. Özetle madde enerjiye, enerji ışığa dönüşebilir. Ancak ışık hızı sabittir ve aşılamaz.
 
@@ -340,13 +340,13 @@ Yine evrendeki tüm atom çeşitliliği, elektrona ve elektron hızına bağlıd
 
 Peki bu sınırın, dolaylı olarak ince ayarın keşfi ne demektir? Ötesine geçilememesi, orası hakkında düşünmemeyi gerekli kılmaz. Acaba orası neresidir? Metafizik aşkın bir imza olabilir mi?
 
-###  Pi ( π ) ve İnce Ayar  İlişkisi ( α )
+###  Pi ($\pi$) ve İnce Ayar  İlişkisi ($\alpha$)
 
-İnce ayar ( α ) sabiti ile pi ( π ) sabiti arasında ilginç bir ilişki vardır. Bu bağıntı, Prof. Dr. Ahmet Ayhan Çitil hocanın harika bir sezgisi ve keşfidir:
+İnce ayar ($\alpha$) sabiti ile pi ($\pi$) sabiti arasında ilginç bir ilişki vardır. Bu bağıntı, Prof. Dr. Ahmet Ayhan Çitil hocanın harika bir sezgisi ve keşfidir:
 
-Aynı düzlemde yer alan, belirsiz bir nesne topluluğundan, tek bir ilkeyi kullanarak, bir nesneyi ayırt ederek kurmak istediğinde, bu şekilde kurulacak nesne sayısı π sayısı kadardır.
+Aynı düzlemde yer alan, belirsiz bir nesne topluluğundan, tek bir ilkeyi kullanarak, bir nesneyi ayırt ederek kurmak istediğinde, bu şekilde kurulacak nesne sayısı $\pi$ sayısı kadardır.
 
-Sonsuzdan ilk ayrım, π çeşitlilik veya farklılık olsun. İkinci ayrım veya belirlenme ise, π x π olur. Üçüncü tezahür ise 4 türlü π x π x π çeşitlikte olur. İlginç ve esrarengiz konu, bu 3 ayrımın toplamının, 137 olan boyutsuz ince ayar ( α )  sabitine çok yakın karşılık gelmesidir.
+Sonsuzdan ilk ayrım, $\pi$ çeşitlilik veya farklılık olsun. İkinci ayrım veya belirlenme ise, $\pi \times \pi$ olur. Üçüncü tezahür ise 4 türlü $\pi \times \pi \times \pi$ çeşitlikte olur. İlginç ve esrarengiz konu, bu 3 ayrımın toplamının, 137 olan boyutsuz ince ayar ($\alpha$) sabitine çok yakın karşılık gelmesidir.
 
 Ayrıca yapraklar, bitkilerin sapları etrafında spiral olarak dönüşler yaparken ince ayar sabitine yakın 137.5 derecelik bir açıyla ayrım gerçekleşmektedir. Oksin hormonu bunu yapar denilse bile, bu tam bir izah olmaz. Çünkü bilinçsiz atomlardan oluşan bir hormon, matematiksel bir kodu asla yazamaz. Yaprak ile dal arasında neden bu sayıya karşılık bir açı söz konusudur? Bu durum hala bilinmemektedir.
 
@@ -354,7 +354,7 @@ Ayrıca yapraklar, bitkilerin sapları etrafında spiral olarak dönüşler yapa
 
 ### Nicelik Sınırları
 
-Nasıl ki ince ayar sabiti alfa ( α ), bütün fiziksel nesneleri anlamada bir sınır çizer, benzer şekilde sıcaklık, uzaklık ve zaman birimlerinde de bir noktanın ötesine geçilemez. Kısaca bu sınırları geçmek insan için imkânsızdır.
+Nasıl ki ince ayar sabiti alfa ($\alpha$), bütün fiziksel nesneleri anlamada bir sınır çizer, benzer şekilde sıcaklık, uzaklık ve zaman birimlerinde de bir noktanın ötesine geçilemez. Kısaca bu sınırları geçmek insan için imkânsızdır.
 
 Bu hudutlar, sıcaklıkta en fazla 10 üzeri 32 santigrat derece, uzaklıkta en aşağısı 10 üzeri -35 metre ve zamandan en aşağısı 10 üzeri -43 saniyedir. (Baha Zafer, 4. Seminer)
 
@@ -382,9 +382,9 @@ Her milletin ayrı alfabesi olsa da işaretlerin anlamları aynıdır. Mana özd
 
 Dil, alfabe ile kurulur. Alfabeler işaretler ve harfler ile kurulmaktadır.   Peki bu nasıl mümkün olmaktadır?
 
-Öncelikle, harflerde ve onları sesinde özdeşlik kabul edilir. Burada bir eleme var. Çünkü E, E dir diyoruz. Yani kabul ediyoruz. Oysa, biri önce, diğeri sonra yazıldı. Biri sol da diğeri sağdadır. Biri normal, diğeri italik ve kalın. Birçok farklılığa rağmen, sadece sese indirgeyerek özdeşlik vardır denir. Oysaki sesler bile özdeş değildir.  Bu bir yanılsamadır.
+Öncelikle, harflerde ve onları sesinde özdeşlik kabul edilir. Burada bir eleme var. Çünkü E, ***E*** dir diyoruz. Yani kabul ediyoruz. Oysa, biri önce, diğeri sonra yazıldı. Biri sol da diğeri sağdadır. Biri normal, diğeri italik ve kalın. Birçok farklılığa rağmen, sadece sese indirgeyerek özdeşlik vardır denir. Oysaki sesler bile özdeş değildir.  Bu bir yanılsamadır.
 
-Ayrıca, bir kelimeyi nasıl yazabilir, birlikte düşünelim? Mesela 'CAN' kelimesini ele alalım. Haydi özdeşlik kabul edildi diyelim. Her C, C her A, A her ve her N, N olsun. Bu yetmez ki, bir kelime yazabilmek veya okumak için!
+Ayrıca, bir kelimeyi nasıl yazabilir, birlikte düşünelim? Mesela 'CAN' kelimesini ele alalım. Haydi özdeşlik kabul edildi diyelim. Her C, ***C*** her A, ***A*** her ve her N, ***N*** olsun. Bu yetmez ki, bir kelime yazabilmek veya okumak için!
 
 Zamanı kabul edilmezse kelime yazılamaz. Yani, CNA, NCA, NAC işaretleri, kendilerine kelime bile denemeyen anlamsız sembollerdir. Adeta ölüdür bunlar. Zihinde ve nesnede bir karşılığı yoktur.
 
@@ -392,7 +392,7 @@ Ancak birinci sırada C, ikinci sırada A, üçüncü sırada N yazılırsa, bu 
 
 Uzayı kabul etmezsek yine bir kelime yapılamaz. Bir doğru üzerinde ve bir yönde semboller dizilmelidir. Yoksa, sanal bir eşkenar üçgenin üç köşesine C, A, N yazılırsa, böylesi bir yolla CAN kelimesi kurulamaz.
 
-Sürekliliği kabul etmezsek de kelime kurulamaz. Bir harf yazıp boş bırakılsa, sonra diğer harfleri yazılsa yine hiçbir anlam oluşmaz. Mesela, C…AN yazımı CAN diye okunamaz. Zira dilde süreklilik zorunludur.
+Sürekliliği kabul etmezsek de kelime kurulamaz. Bir harf yazıp boş bırakılsa, sonra diğer harfleri yazılsa yine hiçbir anlam oluşmaz. Mesela, C...AN yazımı CAN diye okunamaz. Zira dilde süreklilik zorunludur.
 
 Demek ki, dil ancak uzay, zaman, süreklilik ve özdeşlik gibi en az 4 temel kabul üzerine kurulur. Dil biliminde, bu postulatlar olmadan, bırakın anlamı, işaret bile tesis edilemez. Özetle metafizik unsurlar olmadan, harf, alfabe, kelime ve dil kurulamaz.
 
