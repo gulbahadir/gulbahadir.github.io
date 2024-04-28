@@ -72,7 +72,7 @@ Ona göre özdeşlik, bir öze dönüş yolculuğudur. Mutlak Var'dan başkası 
 
 Zaten tam anlamıyla, zamanın dışına çıkmadan aynılık yani özdeşlik bilinemez ki!
 
-A, A dır diyebilmek varlık için imkansızdır. Sağdaki A, soldaki A ile aynı değildir, zira uzay var. Önceki A ile sonraki A, özdeş olamaz, zira aralarında az da olsa bir zaman var. Gayet tutarlı bir açıklamadır. İşte, insanlar hem An'a hem de Madde'ye tam nüfuz edemez. Çünkü uzay-zaman kuşatılamaz ama kuşatır.
+$A$, $A$ dır diyebilmek varlık için imkansızdır. Sağdaki $A$, soldaki $A$ ile aynı değildir, zira uzay var. Önceki $A$ ile sonraki $A$, özdeş olamaz, zira aralarında az da olsa bir zaman var. Gayet tutarlı bir açıklamadır. İşte, insanlar hem An'a hem de Madde'ye tam nüfuz edemez. Çünkü uzay-zaman kuşatılamaz ama kuşatır.
 
 Teorik fizikçi John A. Wheeler perspektifinden zaman, her şeyin aynı anda olmasını engellemek için doğanın kullandığı araçtır. Ama ben, doğanın kodu demeyi tercih ederim. Zira o kodun da Bir kodlayanı Var!
 
@@ -100,7 +100,7 @@ Fiziki unsurlar ile varlıktaki gayeyi, hedefi, maksadı, amacı veya ereği bil
 
 Bütünü bilmeden, -yani tümdengelimin esas alınması ile birçok problemin çözüleceği tezi- varlığın bazı parçalarına, gaye tanımlaması icat etmek, sınırlı varlığın sınırsıza anlam arayışı demektir. Bu bir yanılgıdır.
 
-Anlamı yok saymak ise, kendini yok veya hiç saymaktan pek bir farkı yoktur.  O zaman, bu sorunun doğru cevabı fiziksel ve kimyasal unsurlarda değil, bunları bir form olarak kullanan metafizik unsurlarda aramak gerekir.
+Anlamı yok saymak ise, kendini yok veya hiç saymaktan pek bir farkı yoktur. O zaman, bu sorunun doğru cevabı fiziksel ve kimyasal unsurlarda değil, bunları bir form olarak kullanan metafizik unsurlarda aramak gerekir.
 
 Hasılı yukarıdaki bu unsurların, amacına yönelik nihayetinde dayanacağı en temel İlke zorunludur. Kategori üstü bu İlke, olmuş-olan-olacak değil olduran Mutlak Zat'tır. O, İyi'dir. Çünkü İyi hem nasıl hem de niçin sorusunun cevabıdır.
 
@@ -166,13 +166,13 @@ Tekillik durumu metafiziksel noktalardandır. Buralarda, çelişki yasası dolay
 
 Yine kurdele şeklinde devam eden bir eğri düşünelim. Bu eğri normalde süreklidir. Sürekli ise her noktada türevi alınabilir. Fakat kesiştikleri noktada, 'yön' tek olmadığından, bu belirsizlikten dolayı türevi alınamaz. Kısaca sürekli olmayan, süreksiz bir istisna nokta vardır orada. İşte buna da tekillik denir.
 
-Başka bir misal daha verelim. Bir E alanına sahip daire düşünelim. Bu daireyi herhangi bir R kirişi ile ikiye bölelim. A ve B şeklinde 2 alan elde edilir. İnsan, R olmadan, A yı B den veya B yi A dan fark edemez ve ayıramaz. Tekillik şurdadır: R çizgisi adı verilen bu ayrımın/berzahın alanı hem vardır hem yoktur. Oysa bu, mantık ilkesi olan çelişmezliğe ters bir durumdur. Dolayısıyla hem fiziğe hem matematiğe hem mantık yasalarına aykırıdır.
+Başka bir misal daha verelim. Bir $E$ alanına sahip daire düşünelim. Bu daireyi herhangi bir $R$ kirişi ile ikiye bölelim. $A$ ve $B$ şeklinde $2$ alan elde edilir. İnsan, $R$ olmadan, $A$'yı $B$ den veya $B$'yi $A$ dan fark edemez ve ayıramaz. Tekillik şurdadır: $R$ çizgisi adı verilen bu ayrımın/berzahın alanı hem vardır hem yoktur. Oysa bu, mantık ilkesi olan çelişmezliğe ters bir durumdur. Dolayısıyla hem fiziğe hem matematiğe hem mantık yasalarına aykırıdır.
 
-Önce $R$ vardır diyelim. E alanından $R$ alanı çıkarılırsa, R′ işleminin sonucu zorunlu olarak $A \cup B$ olur.
+Önce $R$ vardır diyelim. $E$ alanından $R$ alanı çıkarılırsa, $R'$ işleminin sonucu zorunlu olarak $A \cup B$ olur.
 
-Sonra $R$ yoktur diyelim. E alanından $R$ = ∅ alanı çıkarılırsa, sonuç yine zorunlu olarak $A \cup B$ olmaktadır.
+Sonra $R$ yoktur diyelim. $E$ alanından $R = \varnothing$ alanı çıkarılırsa, sonuç yine zorunlu olarak $A \cup B$ olmaktadır.
 
-Görüldüğü üzere R hem var hem yoktur. Yani dikkat edilirse burada mantık çalışmaz. Bir tekillik söz konusudur. Russell paradoksu olarak bilinen bu sınır durumlarında, hep çelişkiler ile karşılaşılır.
+Görüldüğü üzere $R$ hem var hem yoktur. Yani dikkat edilirse burada mantık çalışmaz. Bir tekillik söz konusudur. Russell paradoksu olarak bilinen bu sınır durumlarında, hep çelişkiler ile karşılaşılır.
 
 Zaman'ın en küçük parçası olan an'ı düşünelim. Şimdi, geçmiş ile gelecek arasında izafi bir noktadır an. Adeta o hem var hem yok, bir başka çelişki durumu değil midir?
 
@@ -286,7 +286,7 @@ Ayrıca güçlü, zayıf ve elektromanyetik kuvvetleri taşıyan Gulonlar ile El
 
 Matematikteki sayılar dünyasında, sadece düşünülen ama görülmeyen, büyük ve küçük gibi niceliklerin geçerli olmadığı kompleks sayılar vardır. Bu sayılar kullanılarak, adeta metafizikten taşan verilerden hareketle, o kuantum alanlarına dair, bazı hesaplamalar yapılır. Bu durum, tamamen metafiziğin fiziğe indirgenmesinden ibarettir.
 
-Akla yaklaştırmak için, bir benzetme ile açıklamak istiyorum. Mesela, f = sin(x) ile g = cos(x) fonksiyonlarının, 0 ile 2$\pi$ aralığındaki grafikleri farklıdır. Yani özdeş değillerdir. Sadece 2 noktada aynı değeri alırlar. Fakat f ve g fonksiyonlarının x ekseni ile oluşturdukları alanlar eşittir. Alan bakımından adeta özdeşlik var sayılır. Bu eşitlik üzerinden artık bazı bilimsel çıkarımlar yapılabilir. Çünkü böylelikle boyut ve alan devreye girer. Nicelik matematiksel hesaba elverişlidir. Kıyas yapılabilir. Oysa burada gerçeklikten uzaklaşılmış, sadece doğrunun bir kısmı olan, alana indirgenmiş bir hesaplama söz konusudur. Kuantum dünyasının üstatları olan, Born ile Schrödinger arasındaki görüş farkı tam da buradadır ve Born indirgemeyi fark etiği için bu mevzu da haklıdır.
+Akla yaklaştırmak için, bir benzetme ile açıklamak istiyorum. Mesela, $f(x) = \sin(x)$ ile $g(x) = \cos(x)$ fonksiyonlarının, $0$ ile $2\pi$ aralığındaki grafikleri farklıdır. Yani özdeş değillerdir. Sadece $2$ noktada aynı değeri alırlar. Fakat $f(x) ve $g(x) fonksiyonlarının $x$ ekseni ile oluşturdukları alanlar eşittir. Alan bakımından adeta özdeşlik var sayılır. Bu eşitlik üzerinden artık bazı bilimsel çıkarımlar yapılabilir. Çünkü böylelikle boyut ve alan devreye girer. Nicelik matematiksel hesaba elverişlidir. Kıyas yapılabilir. Oysa burada gerçeklikten uzaklaşılmış, sadece doğrunun bir kısmı olan, alana indirgenmiş bir hesaplama söz konusudur. Kuantum dünyasının üstatları olan, Born ile Schrödinger arasındaki görüş farkı tam da buradadır ve Born indirgemeyi fark etiği için bu mevzu da haklıdır.
 
 ### Elenen Boyutlar
 
