@@ -53,7 +53,7 @@ Son olarak ise özgün düşünmeye, mantığın kurallarını zorlayarak, düny
 
 İnsanı öteki varlıklardan, bir kişiyi diğerinden ayıran hususlardandır, gelişmek. Okumak ise gelişmenin temelidir. Öyleyse okul ve okumaktan maksat, bu gelişime destek veren, özgün düşünebilen bireyler yetiştirmek olsa gerekir.
 
-Özgün düşünmenin, insanlara eğitimle kazandırılmasının seyrinde, elbette bir dizi süreçler söz konusudur. Bu vetire, sınıflandırabilir ancak her zaman lineer ilerlemez, döngüsel de olabilir.
+Özgün düşünmenin, insanlara eğitimle kazandırılmasının seyrinde, elbette bir dizi süreçler söz konusudur. Bu vetire, sınıflandırılabilir ancak her zaman lineer ilerlemez, döngüsel de olabilir.
 
 Taksonomi konusunda farklı yaklaşımlar olsa da, zihinsel sürecin, en güncel ve yaygın hali, temelde yedi başlığa indirgenebilir.
 
@@ -119,7 +119,7 @@ Altı Şapkalı Düşünme Tekniği kitabında, yazar Edward de Bono, bu metotta
 
 Ayrıca, beyindeki dört bölgeden biri olan ön lobların (frontal) kullanımı ve bunun diğer kısımlar ile senkronize çalışması biyolojik bir etkendir.
 
-Son olarak, cevabı belli olan 'yakınsak' düşünme ile birlikte cevabı belirsiz olan 'ıraksak' düşünmeyi teşvik etme ve hayal gücünü kullanabilme de bu metodu etkileyen faktörlerden sayılabilir.
+Son olarak, cevabı belli olan 'yakınsak' düşünme ile birlikte, cevabı belirsiz olan 'ıraksak' düşünmeyi teşvik etme ve hayal gücünü kullanabilme de bu metodu etkileyen faktörlerden sayılabilir.
 
 ## Hatalı Çıkarımlar
 
@@ -127,13 +127,13 @@ Alan sınırlaması yaparak, dar bir yaklaşımda bulunup, onu, sadece sanat ve 
 
 Yine, üst düzey bir zekâ seviyesindeki insanlara özel bir düşünme metodu olduğu hipotezini savunur, kimileri.
 
-Tuhaf ama bu kişilerin, çalışmayı ve çabayı sevmeyen insanlardan çıktığını iddia edenler bile olmuş.
+Tuhaftır ama bu kişilerin, çalışmayı ve çabayı sevmeyen insanlardan çıktığını iddia edenler bile olmuş.
 
 Başka bir hatalı çıkarım ise, zihni esneklikliğe sebep olduğu için, alkol ve madde kullanan kişilerde daha yaygın görüldüğü iddiasıdır.
 
 ## Sonuç Yerine
 
-Bu kadar soyut açıklamalardan sonra, sonuç yerine ancak bir kısım somut misallerle bağlanırsa, özgün düşünme daha anlaşılır olur ve yazı bir anlam ifade eder:
+Bu kadar soyut açıklamalardan sonra, sonuç yerine ancak bir kısım somut misallerle bağlanırsa, özgün düşünme (yaratıcı düşünme de denebilir) daha anlaşılır olur ve yazı bir anlam ifade eder:
 
 O tarihe kadar herkes denizden yüzdürürken gemileri, Sultan Fatih’in dağlardan süzdürerek, Haliç’e indirtmiş olması, risklidir fakat bir orijinalliktir.
 
@@ -145,7 +145,7 @@ Matematikçilerin prensi kabul edilen Gauss’un zihin yapısı için, karekök 
 
 Harezmî için, sıfır rakamına kimlik kazandırarak, onu cebirsel işlemlerde ilk kez kullanmasına ve bunun geçerliliğini defalarca doğrulayarak, konu üzerine cesaretle eserler yazması, bilim dünyasında çığır açması özgün düşünmeye başka bir misaldir.
 
-İnsanlara bu nazarla bakılsa, her bir bireyin, birbirine benzersiz siması ile biyolojik imzası olan DNA kodunun orijinalliği hemen algılanabilir. İşte sürekli tekrarlanan bu orijinal yapıların, varoluşun, sınırlı bir alandaki sınırsız estetiğini ve etiğini yansıttığı söylenebilir. Dahası bu, özgün düşünebilmenin esas kaynağı ile kökenine işaret etmesi bakımından bizlere hedef gösterilen yüce bir mesaj da olabilir.
+İnsanlara bu nazarla bakılsa, her bir bireyin, birbirine benzersiz siması ile biyolojik imzası olan DNA kodunun orijinalliği hemen algılanabilir. İşte sürekli tekrarlanan bu orijinal yapıların, varoluşun, sınırlı bir alandaki sınırsız estetiğini yansıttığı söylenebilir. Dahası bu, özgün düşünebilmenin esas kaynağına ve kökenine işaret etmesi bakımından bizlere hedef gösterilen yüce bir mesaj da olabilir.
 
 ## Kaynakça
 

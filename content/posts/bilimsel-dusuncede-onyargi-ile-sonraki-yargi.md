@@ -23,9 +23,9 @@ Hem 'varlığın' hem de 'bilginin' kaynağını ve hakikatini anlamak için yap
 
 Mantık; tümdengelim, tümevarım ve analoji gibi temel, sağlam, farklı tasım usulleri yahut çıkarım metotlarını, birer araç olarak kullanan akıl yürütmenin, adeta grameri mesabesindedir.
 
-Mantık kullanılarak yapılan bu akıl yürütme yöntemlerinden, çoğunlukla 'öncüler' olarak bilinen ve uygulanan dört ilke vardır. Bu ilkeler, bilimsel araştırmalarda, ispatsız, şartsız ve sanki 'mutlak doğru gibi' kabul görmüştür. Özellikle de batı aydınlanmasından sonra, modern çağlarda ve dahi günümüzde, 'bilim ile bilim olmayanı' belirlemede, bu analitik öncüller, bir ayraç rolü görmektedirler.
+Mantık kullanılarak yapılan bu akıl yürütme yöntemlerinden, çoğunlukla 'öncüler' olarak bilinen ve uygulanan dört ilke vardır. Bu ilkeler, bilimsel araştırmalarda, ispatsız, şartsız ve sanki 'mutlak doğru gibi' kabul görmüştür. Özellikle de Batı Aydınlanması'ndan sonra, modern çağlarda ve dahi günümüzde, 'bilim ile bilim olmayanı' belirlemede, bu analitik öncüller, bir ayraç rolü görmektedirler.
 
-Terminolojik nüans farkları mahfuz, kendileri ile kanıt yapılan ama kendilerinin kanıtlanamadığı temel prensipler denen bu öncüllere, filozoflar tarafından; aksiyom, postulat veya apriori gibi değişik adlandırma ve isimlendirmeler yapılmıştır. Oysa felsefe açısından, muhteva ve mana bakımından çok önemli bir değişiklik yoktur.
+Terminolojik nüansları mahfuz, kendileri ile kanıt yapılan ama kendilerinin kanıtlanamadığı temel prensipler denen bu öncüllere, filozoflar tarafından; aksiyom, postulat veya apriori gibi değişik adlandırma ve isimlendirmeler yapılmıştır. Oysa felsefe açısından, muhteva ve mana bakımından çok önemli bir değişiklik yoktur.
 
 Peki, nedir bu ön kabuller, ön dayanaklar ya da öncüller? Bunlar; özdeşlik, çelişmezlik, üçüncü halin imkânsızlığı ve sonradan var edilen her şeyin yeterli bir sebebi vardır, diye sıralanmış ve özetlenmiş dört adede indirgenebilen başlıca ilkelerdir. Bu ilkeler, bu öncüller; bugün hala kullanılmaya devam edilmekte olup, bilimsel araştırmalarda, bir nevi bilimin önyargılarıdır.
 
@@ -43,7 +43,7 @@ Yukarıdaki kıssalara bilim tarihi açısından bakınca, akıl yürütme metot
 
 Bilim felsefesi filozoflarından, Amerikalı Larry Laudan ve Kanadalı Michael Ruse’nin görüşleri ise dikkat çekicidir: Gerçek bilimi, sahte bilimden ayırmak için bir dizi gerek ve yeter şartlar sağlayan metodolojik 'sabitler' tayin etme çabaları başarısızlıkla sonuçlanmıştır. Gerçekte, sınır ölçütleri, modern biyologlar tarafından, 'zeki tasarımın' biyolojik kökenlerin teoremi olma imkânını bertaraf etmek için kullanılmaya devam edilmektedir (4).
 
-Demek ki önyargılar, ön kabuller ve ön dayanaklar, bizleri kısmen bir dizi ontolojik ve epistemolojik doğru bilgiye ulaştırsa bile, bu bilgiler zamanla değişebilir, yenilenebilir, gelişebilir ve düzebilir. Öyleyse, her zaman, mekân ve koşullarda, kesin, mutlak, kati doğru bilgiler biliyoruz demek yerine, ancak belli şartlara bağlı kaydıyla, tutarlı ve geçerli bilgiler bilebiliriz denilebilir.
+Demek ki önyargılar, ön kabuller ve ön dayanaklar, bizleri kısmen bir dizi ontolojik ve epistemolojik doğru bilgiye ulaştırsa bile, bu bilgiler zamanla değişebilir, yenilenebilir, gelişebilir ve düzelebilir. Öyleyse, her zaman, mekân ve koşullarda, kesin, mutlak, kati doğru bilgiler biliyoruz demek yerine, ancak belli şartlara bağlı kaydıyla, tutarlı ve geçerli bilgiler bilebiliriz denilebilir.
 
 ## Bilimsel Önyargılar Zorunludur
 
@@ -61,7 +61,7 @@ Zaman ve uzayın birimlerinin ortak tanımı yapılmadan bilim yapılamaz. Mesaf
 
 ***Ben*** denen şey, insanın kendinde farazi, itibari bir önyargısı değil midir? Benim şeyler derken, bütün 'şeyleri' çıkarırsam, bana ait olan ne var ki? Benim dediklerim olmazsa, bana kalan 'şey' nedir peki? Duydum, gördüm dediğim şeyler bile, vahidi kıyasi rolünden ibaret bir ön kabul, bir önyargıdır haddizatında. Evet, ben; varlığına şahit olduğum, gösterme imkanı olmasa dahi yok da diyemeyeceğim, varlığı adeta göreceli, izafi bir hattır.
 
-Fransız filozof René Descartes, Yöntem Üzerine Konuşma kitabında, uzunca bir düşünce turundan sonra, en temel ilkesinin, “Düşünüyorum, öyleyse varım” olduğunu ifade ediyor (7). Önce o, şüphenin kendisi dâhil, Kendisinden, varlıklardan, Tanrı’dan kısaca her şeyden şüphe ederek zihinsel yolculuğa çıkıyor. Sonuçta bunların varlığına kendisi ikna oluyor. Oysa burada Descartes’ın bir önyargısı var. Zira araç olarak kullanılan bir öncül var, o da, şüphedir. Evet, dikkatle bakılırsa, şüpheden bile şüphe edebilen bir ‘şüphe’ onun önyargısıdır. Yani şüphelenebilen biri var ki, düşünebiliyor.
+Fransız filozof René Descartes, Yöntem Üzerine Konuşma kitabında, uzunca bir düşünce turundan sonra, en temel ilkesinin, “Düşünüyorum, öyleyse varım” olduğunu ifade ediyor (7). Önce o, şüphenin kendisi dâhil, kendisinden, varlıklardan, Tanrı’dan kısaca her şeyden şüphe ederek zihinsel yolculuğa çıkıyor. Sonuçta bunların varlığına kendisi ikna oluyor. Oysa burada Descartes’ın bir önyargısı var. Zira araç olarak kullanılan bir öncül var, o da, şüphedir. Evet, dikkatle bakılırsa, şüpheden bile şüphe edebilen bir ‘şüphe’ onun önyargısıdır. Yani şüphelenebilen biri var ki, düşünebiliyor.
 
 ## Psikolojik Yararlı Önyargılar
 
@@ -95,7 +95,7 @@ Faydalı ve zararlı önyargıları birbirinden ayıran Fransız filozof Voltair
 
 Önyargı, ancak ve ancak düşünmeyen kitleleri kontrol etmek için bir tasma olabilir.
 
-İlk yargılar lazımdır. Fakat onların kritik ve kontrolden yoksun ısrarı, geçersiz ve gereksizdir. Mesela bir yazar, bir yerde, yazdığı bir makaleden bazı pasajların derste okunduğunu öğrenmiş olsun. İlk duyduğunda, önyargıyla hemen sevinebilir. Oysa bir strateji olarak, kötü amaçlarla seçilmiş ve yanlış yorumlanmaya açık belli kısımlar, parçacı bir yaklaşımla, metinde yazarında eleştirdiği bölümler olduğu halde, sanki savunuluyor gibi sunulabilir.
+İlk yargılar lazımdır. Fakat onların kritik ve kontrolden yoksun ısrarı, geçersiz ve gereksizdir. Mesela bir yazar, bir yerde, yazdığı bir makaleden bazı pasajların derste okunduğunu öğrenmiş olsun. İlk duyduğunda, önyargıyla hemen sevinebilir. Oysa bir strateji olarak, kötü amaçlarla seçilmiş ve yanlış yorumlanmaya açık belli kısımlar, parçacı bir yaklaşımla, metinde yazarın da eleştirdiği bölümler olduğu halde, sanki savunuluyor gibi sunulabilir.
 
 ## Sonuç
 

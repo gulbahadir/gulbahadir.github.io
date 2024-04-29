@@ -27,7 +27,7 @@ Bizler, bu evrenin fiziksel yapısını, aklımızı kullanarak, mekân ve zaman
 
 Dahası, evrenimizde bir de temel kuvvetler/güçler vardır. Bugün bunların 4 farklı türü biliniyor. Literatürde, güçlü nükleer kuvvet, zayıf nükleer kuvvet, elektromanyetik kuvvet ve kütle çekim kuvveti şeklinde isimlendiriliyor. Bu kuvvetlerin ilk 3 tanesinin adeta adresi, Kuantum Atom modeline göre, atomun içerisinde olduğu tespit edildi. Ancak, yapılan bütün araştırmalara rağmen, kütle çekim kuvveti, sadece sonuçları itibariyle bilinebiliyor. 
 
-Kısaca, fiziksel evrenin yapısı hakkında aklımızla bilebildiklerimiz, sınırlı boyutlar ile kavrayabildiğimiz mekân, zaman, madde ve enerji bağlamındadır. Bu arada malumunuz, maddenin enerjiye olan ilişkisini (5) meşhur Albert Einstein keşfetti. Anti madde ve anti enerji için ise çalışmalar, araştırmalar bütün hızıyla sürüyor. Bunlara, karanlık enerji ve karanlık madde de deniyor.
+Kısaca, fiziksel evrenin yapısı hakkında aklımızla bilebildiklerimiz, sınırlı boyutlar ile kavrayabildiğimiz mekân, zaman, madde ve enerji bağlamındadır. Bu arada malumunuz, maddenin enerjiyle olan ilişkisini (5) meşhur Albert Einstein keşfetti. Anti madde ve anti enerji için ise çalışmalar, araştırmalar bütün hızıyla sürüyor. Bunlara, karanlık enerji ve karanlık madde de deniyor.
 
 ## Parçacıklar Evreni
 
@@ -49,7 +49,7 @@ Leptonlar adı verilen atom altı parçacıklardan Elektronlar ortaya çıkıyor
 
 Bu arada şunu da hatırlayalım ki, Kuantum Alan (9) modeline göre, atomun temel yapıları parçacıklar değil, alanlardır. Bu alanlarda, sürekli var olan ve yok olan anti parçacıkların varlığını, bunların durmadan köpüren çorba gibi bir yapıda olduklarını düşünen bilim insanları da var. 
 
-Peki, atomun içindeki kuvvetler/güçler neredeler? Şimdide bunu anlamaya çalışalım.
+Peki, atomun içindeki kuvvetler/güçler neredeler? Şimdi de bunu anlamaya çalışalım.
 
 ## Kuvvetlerin Dünyası: Bozonlar
 

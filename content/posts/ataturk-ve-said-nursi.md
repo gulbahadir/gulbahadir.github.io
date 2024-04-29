@@ -3,35 +3,35 @@ title = 'Atatürk ve Bediüzzaman'
 date = 2023-10-29T22:49:52-04:00
 draft = false
 tags = [
-    "atatürk",
-    "bediüzzaman",
-    "cumhuriyet",
-    "mustafa kemal",
-    "said nursi",   
+    "Atatürk",
+    "Bediüzzaman",
+    "Cumhuriyet",
+    "Mustafa Kemal",
+    "Said Nursi",   
 ]
 +++
 
 Bu yazının amacı, mümkün mertebe objektif bir duruş ve gayret içerisinde kalarak, rasyonel tarihi verileri ve olayları merkeze  alarak, yakın tarihimize damga vuran bu önemli şahsiyetlerin ilişkisini dikkat ve titizlikle anlamaya çalışma teşebbüsümdür. Olgu ve algılardan uzak ama vaka odaklı, kendi yorumlarımı da yer yer dahil ederek paylaşacağım. Zor, riski yüksek, cesaret isteyen bir konu olduğunun elbette bilincindeyim.
  
-Hissi, subjektif ve ideolojik yaklaşımlardan uzak bir metin olmasına özen göstermenin yanında, aynı zamanda mantıki, bütüncül, sistemli ve bilimsel bir metod takip etmeyi düşünüyorum.
+Hissi, subjektif ve ideolojik yaklaşımlardan uzak bir metin olmasına özen göstermenin yanında, aynı zamanda mantıki, bütüncül, sistemli ve bilimsel bir metot takip etmeyi düşünüyorum.
 
-Olayları, duruşları, yazılı ve sözlü metinleri, şahitlerin beyanlarını aktarırken, bilgi ve yorumu ayrı vermeye çalışacağım. Hem bilginin hem de yorumun, doğruluk ve yanlışlık derecelerini, elimden geldiğince kritik edeceğim, sorgulayacağım. Fakat olasılıklardan sonraki ortaya çıkan nihai kanaatlerimi de yazacak ardından ise bu metni okuyucuların insaflı tenkit ve taktirlerine havale edeceğim.
+Olayları, duruşları, yazılı ve sözlü metinleri, şahitlerin beyanlarını aktarırken, bilgi ve yorumu ayrı vermeye çalışacağım. Hem bilginin hem de yorumun, doğruluk ve yanlışlık derecelerini, elimden geldiğince kritik edeceğim, sorgulayacağım. Fakat olasılıklardan sonraki ortaya çıkan nihai kanaatlerimi de yazacak, ardından ise bu metni okuyucuların insaflı tenkit ve taktirlerine havale edeceğim.
 
-Mustafa Kemal Atatürk ve Bediüzzaman Said Nursi hakkında akademik anlamda bir uzman değilim. Ama bir vatandaş olarak, her iki zatın eserlerini, hayatlarını geç olsa bile biraz araştırdım ve karşılaştırdım. Bu araştırma ve okumalarımın  yeterli olduğunu iddia etmem mümkün olmasa bile, bu durumun, mevcud tesbitlerimi  özgürce yazma girişimine engel  olmaması gerektiğini düşündüm.
+Mustafa Kemal Atatürk ve Bediüzzaman Said Nursi hakkında akademik anlamda bir uzman değilim. Ama bir vatandaş olarak, her iki zatın eserlerini, hayatlarını geç olsa bile biraz araştırdım ve karşılaştırdım. Bu araştırma ve okumalarımın  yeterli olduğunu iddia etmem mümkün olmasa bile, bu durumun, mevcut tesbitlerimi  özgürce yazma girişimine engel  olmaması gerektiğini düşündüm.
 
 ## Risale-i Nur Eserlerinde Deccal ve Süfyan
 
 Bediüzzaman'a nisbet edilen ve uzun süre sıkça tartışılan önemli konulardan biri, onun yazdığı eserlerde, Atatürk için 'Deccal' dediği şeklindedir. Peki onun eserlerine dayandırılan bu  iddia doğru mudur?
 
-Peygamberimizin (as) hadislerinde, ilgili kaynaklardan bilindiği üzere, senetlerin bir kısmının doğruluğu ve orjinalliği tartışmalı olsa dahi, belli bir nicelikte, 'Mehdi, Mesih, Deccal, Süfyan' şeklinde ifade edilen kavramlar mevcuttur. Bu, iyi ve kötü karşılığı olan tanımlamaların, bir 'düşünce' mi ya da bir 'şahıs' mı olduğu konusu yoruma açıktır. Doğrusunu Allah bilir. 
+Hadis kaynaklarıdan bilindiği üzere, senetlerin bir kısmının doğruluğu ve orijinalliği tartışmalı olsa dahi, belli bir nicelikte, 'Mehdi, Mesih, Deccal, Süfyan' şeklinde ifade edilen kavramlar mevcuttur. Bu, iyi ve kötü karşılığı olan tanımlamaların, bir 'düşünce' mi ya da bir 'şahıs' mı olduğu konusu yoruma açıktır. Doğrusunu Allah bilir. 
 
-Ayrıca var olan metinlerden hareketle, bu şahıs veya düşüncenin, ortaya çıkacağı zaman ve mekan hususunda, bazı bilgiler korunarak bugüne kadar intikal etmiştir. Bu bilgilerde, zaman ve mekan konusunda, hakiki değil ama 'işaret' eden,' tasvir' eden bizler açısından yoruma açık benzetmeler ve tavsiyeler vardır. Hatta 'ahirzaman' ifadesi ile net bir tarih belirtilmemiş, bu süre zarfı içerisinde cereyan edecek  olaylar anlatılmıştır.
+Ayrıca var olan metinlerden hareketle, bu şahıs veya düşüncenin, ortaya çıkacağı zaman ve mekan hususunda, bazı bilgiler korunarak bugüne kadar intikal etmiştir. Bu bilgilerde, zaman ve mekan konusunda, hakiki değil ama 'işaret' eden,'tasvir' eden bizler açısından yoruma açık benzetmeler ve tavsiyeler vardır. Hatta 'ahirzaman' ifadesi ile net bir tarih belirtilmemiş, bu süre zarfı içerisinde cereyan edecek  olaylar anlatılmıştır.
 
-Doğru önerme ve öncül kabul ettiğim hadislerin kendisi, insanlara bakan yönüyle zaten yorumlanmaya açık bırakılmıştır. Kritik edilen, uydurma olmayan bu ilgili hadisleri doğru öncüllerimiz kabul edersek - ki ben ediyorum-, yapılacak çıkarımlar da elbette doğru olacaktır. Ancak, lafzi  doğru  öncül hadislerin kendilerinin anlamları, bizce yoruma açık ve  kesin olmadığından, insanların anlamsal çıkarımlarının doğruluk derecesi de ona göre yani nitelik açısından zanni olacaktır. Dolayısıyla varılan sonuçlar da kesinlik ifadesi iddia edilemez . Zaten, bu yorumlara başlarken, alimler çoğunlukla 'Hakikati Allah bilir' kaydını da düşmüşlerdir. İşte Bediüzzaman'ın eserlerinde, ilgili hadisleri yorumlarken takip ettiği metod da  bu şekildedir.
+Doğru önerme ve öncül kabul ettiğim hadislerin kendisi, insanlara bakan yönüyle zaten yorumlanmaya açık bırakılmıştır. Kritik edilen, uydurma olmayan bu ilgili hadisleri doğru öncüllerimiz kabul edersek -ki ben ediyorum-, yapılacak çıkarımlar da elbette doğru olacaktır. Ancak, lafzi açıdan  doğru  öncül olan hadislerin kendilerinin anlamları, bizce yoruma açık ve  kesin olmadığından, insanların anlamsal çıkarımlarının doğruluk derecesi de ona göre yani nitelik açısından zanni olacaktır. Dolayısıyla varılan sonuçlar da kesinlik ifadesi iddia edilemez . Zaten, bu yorumlara başlarken, alimler çoğunlukla 'Hakikati Allah bilir' kaydını da düşmüşlerdir. İşte Bediüzzaman'ın eserlerinde, ilgili hadisleri yorumlarken takip ettiği metotta  bu şekildedir.
 
 Şimdi de, üçüncü şahıslara, şahitlerin beyanlarına, hatıra nevinden anlatılan ve yazılan kaynaklara öncelik vermeden, doğrudan yazarın, objektif, kamuoyu ile paylaştığı eserlerini esas alarak ilerleyeceğim. Zira Bediüzzaman'ın kendi yorumlarının dışında kalan, onun adına söylenen bütün anlatımlar, kendisini bağlamaz. Zaten, bu düşüncelerin O'na  ait olduğunun doğruluk değeri, şahitlerin konuyu doğru anlamalarına ve doğruluklarına paralel bir konudur.
 
-Hasılı, bu konuda aradığımız doğru cevap,  yazarın Risale-i Nur eserindeki bizzat kendisinin beyanları olabilir. Diğer beyanların, bana göre, iddia ve hipotezden öte bir değerliliği söz konusu olamaz. Şimdi [erisale.com](erisale.com) sitesini, ulaşımı kolay olması mülahazasıyla kaynak göstererek yazmaya devam edeceğim.
+Hasılı, bu konuda aradığımız doğru cevap,  yazarın Risale-i Nur eserindeki bizzat kendisinin beyanları olabilir. Diğer beyanların, bana göre, iddia ve hipotezden öte bir değerliliği söz konusu olamaz. Şimdi [erisale.com](http://www.erisale.com/) sitesini, ulaşımı kolay olması mülahazasıyla kaynak göstererek yazmaya devam edeceğim.
 
 Eserlerden hareketle, delil olarak en çok öne sürülen 12 beyanı veya olayı, hem aktaracağım hem de kendi yorumlarım ile  izah etmeye gayret edeceğim.
 
@@ -51,18 +51,17 @@ Dönemin Cumhurbaşkanı İsmet İnönü'ye, Bediüzzaman bir dilekçe yazar. Bu
 
 Beni yazmaya mecbur bıraktılar diye başlar dilekçesine. Bu bir savunma duruşudur. Çünkü, Mustafa Kemal'e Deccal dediğini ve ona 'dost' olmadığını vesile ederek hücum edenler vardır mahkemelerde, hem de yıllarca. O ise bu iddiaya karşı, hadisleri yorumladığını, üstelik bu yorumların 36 sene önce yapıldığını belirterek devam eder açıklamalarına. Herhangi bir şahsı, hatta iddia makamının kastettiği kişiyi düşünerek yazmadığına ve yazamayacağına, rasyonel ve mantıki bir gönderme yapar. Savcılığın, önyargılı ve mahkum etme amaçlı, bu yorumlarını birebir doğru kabul ettikten  ve bunları M.Kemal'in fiilleriyle örtüştürdükten  sonra, 'Deccal' demiş oluyorsun iddialarında bulunmalarından hareketle, Said Nursi kendisinin hukuken sorumlu tutulamayacağını savunuyor.
 
-Bediüzzaman'ın 3 madde ile detaylandırdığı savunmasının özü bence şudur: Deccal'ı, kişiyi, faili, maddesini yazmadım kimse de yazamaz, zaten hadisler buna müsaade etmiyor ki. Fakat kişiliğini, fiillerini, manasını, kendimce kritik ederek, yorum yaparak yazdım diyor. Ayrıca yazdığım ve iradesine yön verdiğim için Kur'an'a zararı dokunamaz ki, beni niye sorumlu tutuyorsunuz diyor. Aksine iddia makamı, 'efali' ve 'manası' ile yazdıklarıma bakarak,  beni suçlama amaçlı ve kasten, onun ismine karşılık getirmişse ve dolaylı olarak birileri tarafından süreç içerisinde örtüştürülüyor ya da örtüşüyor ise bunu  'zaman' gösterdi diyerek, M. Kemal ile 'dost' olamamasının sebebini izah ediyor ve beraatini istiyor.
+Bediüzzaman'ın 3 madde ile detaylandırdığı savunmasının özü bence şudur: Deccal'ı, kişiyi, faili, maddesini yazmadım kimse de yazamaz, zaten hadisler buna müsaade etmiyor ki. Fakat kişiliğini, fiillerini, manasını, kendimce kritik ederek, yorum yaparak yazdım diyor. Ayrıca hem yazdığım hem de iradesine müdehale etmediğim için Kur'an'a zararı dokunamaz ki, beni niye sorumlu tutuyorsunuz diyor. Aksine iddia makamı, 'efali' ve 'manası' ile yazdıklarıma bakarak, beni suçlama amaçlı ve kasten, onun ismine karşılık getirmişse ve dolaylı olarak birileri tarafından süreç içerisinde örtüştürülüyor ya da örtüşüyor ise bunu 'zaman' gösterdi diyerek, M. Kemal ile 'dost' olamamasının sebebini izah ediyor ve beraatini istiyor.
 
 Bu 3 madde, dikkatli okunursa,  'zaman' gösterdi ifadesinin manası daha iyi anlaşılacaktır. Bana göre Bediüzzaman, fail ve kişi olarak bizzat M. Kemal'in şahsını değil, onun putlaştırılmasının, tabulaştırılmasının, o yıllarda henüz adı konulmasa bile, basireti ile sezerek, 'Kemalizm' olarak esasında devlet ideoloji haline getirilmesinin, 'Deccal' tarifiyle örtüşebileceğine dikkat çekiyor. Zaten böylesi bir savunmanın ve gerekçenin ardından, mahkemenin, eserlerine, kendisine ve talebelerine beraat kararı vermesi, benim bu görüşüme bir delil mahiyetindedir. Hakikati Allah bilir.
 
 Bediüzzaman, kendi fikirlerinin, Kur'an ve Sünnet'i kastederek, mihenge vurulmasını (Tarihçe, 96) savunan bir insandır. İlgili hadislerin bizzat kendilerinde açık, objektif, nesnel, somut olarak, bir isim ve bir tarih 'belirtilmemiş' iken, onun bu beyanını hem de ona rağmen, 'hayır belirtmiştir' şeklinde anlamlandırmak, Bediüzzaman'ın dehasını hafife alarak, mantıksal çelişkiye düştüğünü iddia etmek olur.
 
-### Beyan 4: "Vurduğu Tokat veya Attığı Taş"
+### Beyan 4: "Vurduğu tokat veya attığı taş"
 
-Bediüzzaman, Afyon mahkemesine 9 maddelik bir şikayette bulunur. Metnin ana ekseninde, 'adalet talebinde ısrar' vardır ve sonuçta hakim beraat kararı verir. (14. Şua, 485) Hatta savcının, insaflı olarak, bu hatalı iddiasından vazgeçtiğini de yazar.<p>9. maddede  geçen bu, 'kırk sene evvel beyan ettiğim bir hadîsin o şahsa vurduğu tokada binaen' ibaresinden, Bediüzzaman'ın Atatürk'e 'Deccal'  isnadında bulunmadığına, o günkü savcı ve hakim kesin kanaatle karar vermişlerdir.</p>
-Aynı konuyu, başka bir yerde de, 'taarruz' üslubuyla hareket ederek yazdığını (Emirdağ II, 486) söyler. Bu tarzının hata bile olsa, esas suçlayan tarafın hataları yüz katıdır, diyerek savunma yapar. Ayrıca iddiaların kaynağının gerçek değil aksine kuruntu,  yani bir 'mevhum suç' olduğu benzetmesini de yapar.
+Bediüzzaman, Afyon mahkemesine 9 maddelik bir şikayette bulunur. Metnin ana ekseninde, 'adalet talebinde ısrar' vardır ve sonuçta hakim beraat kararı verir. (14. Şua, 485) Hatta savcının, insaflı olarak, bu hatalı iddiasından vazgeçtiğini de yazar. Dokuzuncu maddede  geçen bu, 'kırk sene evvel beyan ettiğim bir hadîsin o şahsa vurduğu tokada binaen' ibaresinden, Bediüzzaman'ın Atatürk'e 'Deccal' isnadında bulunmadığına, o günkü savcı ve hakim kesin kanaatle karar vermişlerdir. Aynı konuyu, başka bir yerde de, 'taarruz' üslubuyla hareket ederek yazdığını (Emirdağ II, 486) söyler. Bu tarzının hata bile olsa, esas suçlayan tarafın hataları yüz katıdır, diyerek savunma yapar. Ayrıca iddiaların kaynağının gerçek değil aksine kuruntu,  yani bir 'mevhum suç' olduğu benzetmesini de yapar.
 
-'Hadisin attığı taş' analojisi üzerinden, 50 yıl önceki bu tevili ile, 20 sene sonraki bir insan kasdedilmiş ya da hedef alınmış olamayacağının mantıki çıkarımını açıklar. 130 kitabın, 1 kitabının, 2 sayfası üzerinden parçacı değil, eserlerine bütüncül bakılmasını savunur. Mahkemenin bunun aksine bir tutumunu 'cinayete' eş değer görür.
+'Hadisin attığı taş' analojisi üzerinden, 50 yıl önceki bu tevili ile, 20 sene sonraki bir insan kasdedilmiş ya da hedef alınmış olamayacağının mantıki çıkarımını açıklar. 130 kitabın, 1 kitabının, 2 sayfası üzerinden parçacı değil, eserlerine bütüncül bakılmasını savunur. Mahkemenin bunun aksine bir tutumunu 'cinayete' eşdeğer görür.
 
 Kısaca, mecazi 'tokat ve taş' kelimelerinden bence, hadisin evrensel olarak ilgili bütün muhatapları şefkatle uyardığı ve ikaz ettiği manası da pekala çıkarılabilir. İkazlar, tek taraflı anlaşılmamalı, yani sadece 'atılanlara' odaklanmamalı, aynı zamanda bu tokat ve taşın 'atanlara' bakan yönününde olabileceği hesaba katılmalıdır. Zira hem aldatmamak hem de aldanmamak bir esastır.
 
@@ -72,9 +71,9 @@ Eskişehir mahkemesinde, 4-5 madde sebebiyle tutuklu olmasına itiraz ederek, 19
 
 Ardından kullandığı,  'Askeri dehayı, gelenek aleyhine çevirmeye maatteessüf bir vesile oldu.' ifadesi önemlidir. Dikkat edilirse burada hem bir beklenmedik 'üzüntüden' hem de açıklanmayan 'vesile' olaydan, bir manipülasyondan bahsetmektedir. 
 
-Bazı kişiler, aşırı yorumlara kapı aralamak için, metin üzerinde tahrifat yaparak,  Bediüzzaman'ın kullandığı 'gelenek/anane' terimini, 'İslam' şeklinde değiştirerek, yazmadığını yazmış gibi çarpıtarak, büyük hata yapmaktadır. Hatadır, çünkü anlamı tamamen değiştirir. Gelenek, kültürdür, insan ürünüdür, içinde hurafe gibi hatalar olabilir. Oysa, İslam hatasızdır, ilahi bir sistemdir.
+Bazı kişiler, aşırı yorumlara kapı aralamak için, metin üzerinde tahrifat yaparak,  Bediüzzaman'ın kullandığı 'gelenek/anane' terimini, 'İslam' şeklinde değiştirerek, yazmadığını yazmış gibi çarpıtarak, büyük bir hata yapmaktadır. Hatadır, çünkü anlamı tamamen değiştirir. Gelenek, kültürdür, insan ürünüdür, içinde hurafe gibi hatalar olabilir. Oysa, İslam hatasızdır, ilahi bir sistemdir.
 
-Bu açıklamalardan hareketle, Bediüzzaman Atatürk hakkında 'Deccal' çıkarımı yapmaya çalışmış ve kalkışmıştır, iddiasında bulunmak, bence mantıksal savrulmadan öteye geçmeyecek bir hipotezdir.
+Bu açıklamalardan hareketle, Bediüzzaman Atatürk hakkında 'Deccal' çıkarımı yapmaya çalışmış ve kalkışmıştır, iddiasında bulunmak, bence mantıksal savrulmadan öteye geçmeyecek bir hipotez hatta bir safsatadır.
 
 ### Beyan 6: "Mahrem tenkitler"
 
@@ -92,7 +91,7 @@ Görüldüğü üzere, bu bölümü aktaran ve yazan talebelerinin de duruşu ve
 
 Dahası, hem kendisi hem de talebeleri, bir başkasına 'Deccal' diyerek, o insana 'nifak' ve dolayısıyla 'küfür' isnadında bulunmanın, usuliddin ilkeleri açısından riskini ve çizgisini bilen zihinlerdir. 
 
-### Beyan 8: Birinci Meclisteki Görüşme
+### Beyan 8: Birinci Meclisteki görüşme
 
 En fazla üzerinde durulan bu görüşmedir. Zira burada karşılıklı diyaloglar vardır. Hatta başa baş görüşme de olmuştur. Birinci Meclis'e, 1922 yılında, defalarca yapılan ısrarlı ve şifreli davet üzerine, eski Van valisi Tahsin beyin de araya girmesiyle Bediüzzaman Ankara'ya gelmiş ve kendisi alkışlarla karşılanmıştır. 9 Kasım 1922 gününde, Bitlis milletvekili Arif beyin teklifiyle meclis kürsüsünde bir konuşma yapar. Bu arada saltanat,  kısa bir süre evvel yani 8 gün önce, 1 Kasım 1922'de Meclis kararıyla kaldırılmıştı.
 
@@ -115,11 +114,11 @@ Said Nursi'nin 'Paşa, Paşa' diye başlayan tepkisi üzerine, M. Kemal zaten ta
 
 Birbirlerinin geçmişini ve kıymetini bilen iki kahraman entelektüelin diyaloglarını çağrıştırır bütün bunlar. Zaten 27 Mart 1916 tarihinde, Ruslara karşı Çapakçur (Bingöl) Savaşı başladığında o bölgede 16. Kolordu komutanı görevinde bulunan Mustafa Kemal'in, Bitlis'te gönüllü alay komutanı olarak talebeleriyle kahramanca çarpışırken Mart 1916'da esir düşen Said Nursi'yi duymamış olması düşünülebilir mi?
 Maalesef bu diyaloglar üzerinden,  bana göre yapılan bazı hatalı yorumlar vardır. Öne çıkan eleştirdiğim bazılarını sizlerle paylaşayım.
-Güya önce M.Kemal, onu korkutmak istemiştir. Aksi olunca da, 'vaizlik' memuriyeti teklifiyle onu kontrol altına almak istemiştir. Hatta, maalesef dedikodulara dayanarak, 'Kukla Hilafet' teklifi yapıldı ama kabul etmeyince de, kendisine rakip olarak Libya'dan Sinnusi davet edildi, yalanına delilsiz sığınanlar vardır.  Bazıları daha da ileri giderek, Trabzon milletvekili Ali Şükrü Bey'in, 27 Nisan 1922 tarihinde siyasi nedenlerle öldürülmesinin, Bediüzzaman'a gözdağı verilmek için yapıldığını iddia ederler. Bu yaklaşımların hepsi uç iddialardır. Her iki kahramanın fıtratları da bu isnatlara uygun değildir. Bence bunlara, ne Atatürk tenezzül eder ne de, Bediüzzaman boyun eğer!
+Güya önce M.Kemal, onu korkutmak istemiştir. Aksi olunca da, 'vaizlik' memuriyeti teklifiyle onu kontrol altına almak istemiştir. Hatta, maalesef dedikodulara dayanarak, 'Kukla Hilafet' teklifi yapıldı ama kabul etmeyince de, kendisine rakip olarak Libya'dan Sinnusi davet edildi, yalanına delilsiz sığınanlar vardır.  Bazıları daha da ileri giderek, Trabzon milletvekili Ali Şükrü Bey'in, 27 Nisan 1922 tarihinde siyasi nedenlerle öldürülmesinin, Bediüzzaman'a gözdağı verilmek için yapıldığını iddia ederler. Bu yaklaşımların hepsi uç iddialardır. Her iki kahramanın fıtratları da bu isnatlara uygun değildir. Bence bunlara, ne Atatürk tenezzül eder ne de Bediüzzaman boyun eğer!
 Dikkat edin, meclisteki ortam, konuların hassasiyeti gereği, doğal olarak gerginlikler olsa bile, esasında bir fikir alışverişidir. İtiraz, zamanlama bakımından doğru veya yanlış dahi olsa, namaza değil, 'en evvel namaz' konusunun ele alınmasına ve bunun 'kılan-kılmayan' şeklinde 'ihtilafa' sebep olmasınadır. Bence buradan, 'Deccal ile mücadele ediyor' çıkarımları yapmaya kalkanları, akıl, mantık, vicdan ve insaf kabul etmez.
 Hasılı, üniversite kurmak için, önce Sultan Mehmet Reşad'dan 20 bin altın alan Bediüzzaman, şimdi de Atatürk'ün de olumlu reyini alarak, Birinci Meclis'ten 163 milletvekilinin (Tarihçe, 181) imzası ile 160 bin banknot alarak, 3 Mayıs 1923 de Ankara'dan Van'a hareket eder. Trenin kalkış saatinde Bediüzzaman'ı uğurlayanlar arasında Atatürk'te vardır.
 
-### Beyan 9: Şüpheli Barla Ziyareti
+### Beyan 9: Şüpheli Barla ziyareti
 
 İkinci bir diyalog iddiası daha vardır, Akrebin Kıskacında kitabında, 2011 yılında yayınlanan. İddia dedim, çünkü kitabın yazarı olan Ahmet Özkılınç "Araştırmaya açıktır, teyit ettirilmesi lazımdır" diyor. Yazarın bile doğrulayamadığını itiraf ettiği, bu kulaktan kulağa duyma hatırayı Üzeyir Şenler anlatmış. Ona da Askeri Yıldız anlatmış. Ona da Kadri Mermutlu anlatmış. Peki buna kim anlatmış? İşte burada ikilik var. Nakledenin, dönemin valisi mi yoksa emniyet müdürü mü olduğu da net değil. Bu ismi meçhul kişi, 1969 senesinde bir tren seyahatinde, aynı kompartmanda yolda tanıştığı insanlara sözlü aktarmış.
 Teyit edilmemiş, Risaleler'de bahsi geçmeyen bu iddiaya göre Atatürk, Bediüzzaman'ı Barla'da ziyarete gider. Peki, birlikte ne konuşmuşlar? Burada da tutarsızlıklar var.
@@ -154,19 +153,19 @@ Bu dergideki makaleden, 27 yıl sonra duyuyoruz bu iddiayı. Üstelik nasıl bir
 
 Düşmandan gelen bilginin doğruluğuna itimat edilir mi? Manipülasyon olamaz mı? Algı operasyonu yapılmış olamaz mı? İngilizler bu beklenti ile oyalanmış olamaz mı? Lahikalara ilave edilen bu gazete makalesinden ötürü, dolaylı olarak da olsa, Bediüzzaman tarafından, Atatürk'e 'Deccal' deniliyor sonucunu çıkarmak absürt olur.
 
-### Beyan 12: "Cifir Hesabı ile Yapılan İşari Yorumlar"
+### Beyan 12: Cifir hesabı ile yapılan işari yorumlar
 
 Yayınlanmayan bir eserinde, esas itibariyle cifir hesapları üzerinden, Kevser suresinin işari ve gaybi yorumları yapılıyor. Ayrıca otoriter askeri yönetim ne kadar devam edecek, sorusu cevaplanıyor. (Rumuzatı Semaniye, 29. Mektup, 8.Kısım, 626) Özellikle üç paşanın isimleri ve o dönemdeki bir kısım faaliyetleri anlatılıyor. Daha sonra, tevafukları, emareleri, delilleri ve işaretleri sıralayarak, bazı çıkarımlarda bulunur.
  
 Fakat bizzat kendisi bu çıkarımlarına belli kayıtlar düşüyor. Bunların bazılarını sıralamak istiyorum. 
 
-Öncelikle kusurlu bir sonuç olma ihtimaline binaen, Bakara Suresi 286 ayetiyle Allah'a sığınıyor. İkincisi, bu yorumlar, Türkçe ezan ve tercüme çalışmalarına öfkeli bir tavır olarak, mukabele amacını taşıyor. Üçüncüsü o, dar bir dairede paylaştığı bu yaklaşımlarının, Risaleler 'e konulmasını ve yayılmasını istemiyor. Elbette korkudan değil, zira hayatı ve cesareti ortadadır. Belki de sebebi, kanaatinin değişmesi ihtimali olabilir. Dördüncüsü, akide ve kader açısından, bu konuların, geleceğe ait olmasından hareketle, mutlak ve kesin bilgi olmadığının altını çiziyor. Beşincisi, herkese açılmayan, dolayısıyla objektif bağlayıcılığı olmayan, bu türlü gizli ve sırlı haberlerin 'levhi mahv ispat' sahifeleri, bazı koşullarda değişebilir diyor. Altıncısı, emareler, bütüne ait parçalardır fakat hakikat iddiası da değildir. Hikmetini ise, münacat, iltica ve dua içindir diyerek vurguluyor. Yedincisi, resullerden başkasına gayb kapısı kesinlikle açılmaz, O bildirir, O bilir diyor. 
+Öncelikle kusurlu bir sonuç olma ihtimaline binaen, Bakara Suresi 286 ayetiyle Allah'a sığınıyor. İkincisi, bu yorumlar, Türkçe ezan ve tercüme çalışmalarına öfkeli bir tavır olarak, mukabele amacını taşıyor. Üçüncüsü o, dar bir dairede paylaştığı bu yaklaşımlarının, Risaleler 'e konulmasını ve yayılmasını istemiyor. Elbette korkudan değil, zira hayatı ve cesareti ortadadır. Belki de sebebi, kanaatinin değişmesi ihtimali olabilir. Dördüncüsü, akide ve kader açısından, bu konuların, geleceğe ait olmasından hareketle, mutlak ve kesin bilgi olmadığının altını çiziyor. Beşincisi, herkese açılmayan, dolayısıyla objektif bağlayıcılığı olmayan, bu türlü gizli ve sırlı haberlerin 'levhi mahv ispat' sahifeleri, bazı koşullarda değişebilir diyor. Altıncısı, emareler, bütüne ait parçalardır fakat hakikat iddiası da değildir. Bunun hikmeti ise, münacat, iltica ve dua içindir diyerek vurguluyor. Yedincisi, Resullerden başkasına gayb kapısı kesinlikle açılmaz, O bildirir, O bilir diyor. 
 
 Zaten böyle düşünülmezse, yayınlanan Risalelerdeki diğer yaklaşımları ve savunmaları ile çelişkili bir durum ortaya çıkar ki, Bediüzzaman tutarsız bir şahsiyet değildir. Daha ne desin!
 
-Bu 12 beyana ilave olarak, aşağıda Atatürk hakkında çok yazılıp çizilen önemli  3 meseleyi de izah etmeye çalışacağım. Zira parçacı yaklaşımla, adeta cımbızlanan bu 3 mesele  ile, bazı insanlar tarafından kendisinin 'dinsiz veya din düşmanı' olduğu delil olarak gösterilmeye çalışılıyor.
+Bu 12 beyana ilave olarak, aşağıda Atatürk hakkında çok yazılıp çizilen önemli 3 meseleyi de izah etmeye çalışacağım. Zira parçacı yaklaşımla, adeta cımbızlanan bu 3 mesele ile, bazı insanlar tarafından kendisinin 'dinsiz veya din düşmanı' olduğuna delil olarak gösterilmeye çalışılıyor.
 
-### Mesele 1: Dr. Rıza Nur'un Notları
+### Mesele 1: Dr. Rıza Nur'un notları
 
 Mustafa  Kemal ve annesi hakkında hakaretler içeren yazıların dayandığı kaynak, Sinop Milletvekili Dr. Rıza Nur beyin bu notlarıdır.
 
@@ -190,7 +189,7 @@ Mustafa Kemal, Türk Tarihi Tetkik Cemiyeti Yüksek Başkanlığına gönderdiğ
 
 Oysa burada bana göre, anlatılmak istenen farklıdır. Önce 'safsata' kelimesinin Osmanlıcadaki o günkü anlamının,  'görünüşte doğru ama hakikatte yanlış' demek olduğunu bilmek gerekir. Yani safsata, bir düşünceyi anlamaya çalışırken yapılan 'yanlış çıkarım veya yanlış anlama' demektir.  
 
-Dolayısıyla, Mustafa Kemal'in anlatmak istediği, "Yaradan Rabbinin Adıyla Oku  ayetini 'yanlış anlayan' bir kısım Araplar, uygar dünyada, bilhassa Türk zengin uygar bölgelerinde bu ilkel ve cahiliyet devrinin simgesi olan ilkeye dayanarak yapmadıkları tahrifat kalmamıştır…" anlamında  düşünmek bana  daha mantıklı duruyor.
+Dolayısıyla, Mustafa Kemal'in anlatmak istediği, "Yaratan Rabbinin Adıyla Oku  ayetini 'yanlış anlayan' bir kısım Araplar, uygar dünyada, bilhassa Türk zengin uygar bölgelerinde bu ilkel ve cahiliyet devrinin simgesi olan ilkeye dayanarak yapmadıkları tahrifat kalmamıştır…" anlamında  düşünmek bana  daha mantıklı duruyor.
 
 ### Sonuç
 
@@ -202,6 +201,6 @@ Hasılı, Kur'an, Peygamber adına ve vatan uğruna yaptığı/yazdığı daha n
 
 Peygamber bile kalplerdeki imanı bilemez. Bu Allah ile insan arasında ilahi bir sırdır. Bu nedenle, mutlak ve kesin bilgi yoksa, herhangi bir insanın imanı konusunda, olumlu düşünerek yanılmayı, olumsuz düşünerek yanılmaya tercih ederim.
 
-Bu yazıyı vatansever birinin, zaten yıllarca devam eden bir gerginliği ve tartışmayı tekrar alevlendirmek maksadıyla değil, genç nesiller tarafından yeni bir zıtlaşmaya sebep olmak için de değil,  eski kuşaklardan süregelen gereksiz çatışmaların gitmesi ve bitmesi arzusu ile  kaleme aldığını bilmenizi isterim.
+Bu yazıyı vatansever birinin, zaten yıllarca devam eden bir gerginliği ve tartışmayı tekrar alevlendirmek maksadıyla değil, genç nesiller tarafından yeni bir zıtlaşmaya sebep olmak için de değil, eski kuşaklardan süregelen gereksiz çatışmaların gitmesi ve bitmesi arzusu ile  kaleme aldığını bilmenizi isterim.
 
 Temennim, her iki kahramanın ve tarihi şahsiyetlerin, kutsallaştırmadan ve putlaştırmadan, olduğu gibi kabullenilmesi ve kucaklanması, nesillerimize  doğru bir şekilde tanıtılması ve bıraktıkları değerli eserlerine sahip çıkılmasından ibarettir.

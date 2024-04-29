@@ -4,8 +4,8 @@ date = 2024-03-05T22:49:52-04:00
 draft = false
 math = true
 tags = [
-    "aristo",
-    "farabi",
+    "Aristo",
+    "Farabi",
     "kıyas",
     "mantık",
     "önerme",   
@@ -18,17 +18,17 @@ Ne var ne yok sorusu, daha özelde ontoloji bilimini doğrudan ilgilendiren en d
 
 Metafizik, özellikle akademik camiada, bilim felsefesi perspektifinden, uzun süreden beri zulme uğramaktadır. Bunun sonucunda, başta topyekün insanlık olmak üzere bütün varlık ağır faturalar ödemektedir.
 
-Acilen yapılması gereken en temel akademik çalışmalardan biri, metafiziğin itibarını iade etmektir.
+Acilen yapılması gereken en temel akademik çalışmalardan biri, yitirilen metafiziğin itibarını iade etmektir.
 
 Bu çalışma, ilgili ehliyetli bütün muhatapları harekete geçirmek için sobaya bırakılan bir çıradan ibarettir.
 
-Okuyacağınız bu metinde sırasıyla; varlık, mantık, fizik, kuantum, matematik ve dil gibi 6 farklı konu üzerinden metafizik noktalara, misaller eşliğinde hem dikkat çekilecek hem de işaret edilecektir.
+Okuyacağınız bu metinde sırasıyla; varlık, mantık, fizik, kuantum, matematik ve dil gibi 6 farklı konu üzerinden metafizik noktalara ve sınırlara, misaller eşliğinde hem dikkat çekilecek hem de işaret edilecektir.
 
 ## Varlık
 
 ### Varlık Kategorileri
 
-Varlık tasnifi, birçok filozof tarafından üzerine düşünülmüş bir konudur.  Sınıflandırmalarında aynı veya ayrı birçok nokta olsa dahi, nihayetinde bütün bu varlığı, büyük bir nispetle, bir noktaya 'bağlama' söz konusudur. Filozofların çoğunluğu, fiziki varlığı, metafizik Bir ve Var ile izah etmektedir. Bu Var'a, felsefenin dilinde, İyi, Güzel, O, Mutlak, Sonsuz, Zorunlu, Gayb veya Zat gibi birçok farklı isim ya da kavram ile karşılaşılır.
+Varlık tasnifi, birçok filozof tarafından üzerine düşünülmüş bir konudur. Sınıflandırmalarında aynı veya ayrı birçok nokta olsa dahi, nihayetinde bütün bu varlığı, büyük bir nispetle, bir noktaya 'bağlama' söz konusudur. Filozofların çoğunluğu, fiziki varlığı, metafizik Bir ve Var ile izah etmektedir. Bu Var'a, felsefenin dilinde, İyi, Güzel, O, Mutlak, Sonsuz, Zorunlu, Gayb veya Zat gibi birçok farklı isim ya da kavram ile karşılaşılır.
 
 Aristoteles, kapalı Evren modelini savunur. Evren, sabit sayıdaki cevherlerin dönüşümünden ibarettir. Ona göre, uzay sınırlı fakat zaman sınırsızdır. Fakat o, bu varlık sınıflandırmasında, cevherlerin hareketini açıklamakta zorlanır. İşte bunun için o varlığı, her neyi kastediyorsa artık, gider 'Bir İlk Hareket Ettirici' ye bağlar. Onun, nihayetinde metafiziği kabul ettiği ya da çaresizce etmek durumunda kaldığı nokta bu kadardır. Aristoteles düşüncesinde madde, olan ve olması mümkün bütün fiziki varlıkların ortak adıdır.
 
@@ -234,7 +234,7 @@ Newton'un bu notları, maddede var olan fiziksel kuvvetlerin izahının fizik il
 
 Özel görelilik ile zamanın, genel görelilik ile maddenin izafi olduğu artık bilinmektedir. Zaman, uzayın bükülmesidir. Madde bir enerji, enerji de bir çeşit ışıktır.
 
-Evrenin yaklaşık $%5$ kısmı madde, $%23$ oranda karanlık madde ve $%72$ nispette karanlık enerji olduğu tahmin edilmektedir. Bilimin sahası yani fizik ve matematik ile gerçekliğe ulaşmak bu $%5$ kısımdan ibarettir. Ötesini anlamada fizik kuralları geçerli değildir. Burada da metafizik bir sınır vardır.
+Evrenin yaklaşık yüzde 5 kısmı madde, yüzde 23 oranda karanlık madde ve yüzde 72 nispette karanlık enerji olduğu tahmin edilmektedir. Bilimin sahası yani fizik ve matematik ile gerçekliğe ulaşmak bu yüzde 5 kısımdan ibarettir. Ötesini anlamada fizik kuralları geçerli değildir. Burada da metafizik bir sınır vardır.
 
 Benzer bir sınır, atom altı dünyasında da var ve ötesine inilemez. Adeta bilim, iki metafizik hudut arasında yaşar. Bilimin ulaşacağı göreceli gerçeklik sadece bu aralıktadır.
 
@@ -270,7 +270,7 @@ Hatta fermiyonlar ailesinden olan, 'aşağı' kuark ile 'yukarı' kuarkın daha 
 
 Kütle çekim kuvveti, sadece çeker. Oysa elektromanyetik kuvvet hem çeker hem iter. Niçin acaba...? Bu sayede boşluk oluşmaz da ondan!
 
-Zayıf nükleer kuvvet ortada yok ama senaryoyu kuran o. Güçlü nükleer kuvvet, kısa bir yerde ama kuvvetlidir. hatta protonu ve nötronu tutan da odur. Nasıl bir iş bölümüdür bu? Madde, görev dağılımı yapamaz ki!
+Zayıf nükleer kuvvet ortada yok ama senaryoyu kuran o. Güçlü nükleer kuvvet, kısa bir yerde ama kuvvetlidir. Hatta protonu ve nötronu tutan da odur. Nasıl bir iş bölümüdür bu? Madde, görev dağılımı yapamaz ki!
 
 Kuvvetler birbirini hissetmezler, iç içedirler. Ama bu fiziki unsurları ayırmak gerektiği durumularda adeta bir metafizik bilinç devreye girer ve hemen tepki gösterirler.
 
@@ -280,9 +280,9 @@ Mikro evren, çamaşır sepetinin içine sıkıştırılan yorgana benzer. Yorga
 
 Canlı organizmayı, sadece fiziksel ve nedensellik mantık ilkesi açısından incelemek nasıl bir yanılsamaysa, benzer bir durum atom altı parçacıklar için de geçerlidir.
 
-Atomların, proton ve nötron parçacıklarını oluşturan unsurların tamamına malum kuarklar denir. Bunlarda, mantığın özdeşlik ilkesi geçerlidir. Fakat elektronları oluşturan leptonlarda ve enerjileri taşıyan galonlarda, bu ilke geçerli değildir. Evrenin ham maddesinde, alt kuark, üst kuark ve elektronlar öncül rol oynarlar.
+Atomların, proton ve nötron parçacıklarını oluşturan unsurların tamamına malum kuarklar denir. Bunlarda, mantığın özdeşlik ilkesi geçerlidir. Fakat elektronları oluşturan Leptonlarda ve enerjileri taşıyan Bozonlarda, bu ilke geçerli değildir. Evrenin ham maddesinde, alt kuark, üst kuark ve elektronlar öncül rol oynarlar.
 
-Ayrıca güçlü, zayıf ve elektromanyetik kuvvetleri taşıyan Gulonlar ile Elektronlar için, aynılık temel yasası bulanıktır. Bu nedenle bunlarla alakalı, doğrudan bir hesap yapılamamaktadır. Fizik yasaları için bu durum bir sınır oluşturmaktadır. Kısaca bu noktanın ötesinde, fizik ve nedensellik tamamıyla artık çalışmamaktadır.
+Ayrıca güçlü, zayıf ve elektromanyetik kuvvetleri taşıyan Bozonlar ile Elektronlar için, aynılık temel yasası bulanıktır. Bu nedenle bunlarla alakalı, doğrudan bir hesap yapılamamaktadır. Fizik yasaları için bu durum bir sınır oluşturmaktadır. Kısaca bu noktanın ötesinde, fizik ve nedensellik tamamıyla artık çalışmamaktadır.
 
 Matematikteki sayılar dünyasında, sadece düşünülen ama görülmeyen, büyük ve küçük gibi niceliklerin geçerli olmadığı kompleks sayılar vardır. Bu sayılar kullanılarak, adeta metafizikten taşan verilerden hareketle, o kuantum alanlarına dair, bazı hesaplamalar yapılır. Bu durum, tamamen metafiziğin fiziğe indirgenmesinden ibarettir.
 
@@ -312,7 +312,7 @@ Ya gerçekte $10 + 1$ boyut varsa..?  Yukarıda da ifade edildiği gibi belki de
 
 ### Harezmi'nin Keşfi
 
-Matematik yaparken belli sayılar kullanılırdı. Fakat bu durum, ta ki Harezmi'nin yeni keşifleri ile son buluna kadar sürdü. $0$, 'sıfır' rakamını cebirsel işlemlerde kullanmaya başladı. Maalesef bu cazip keşif, bazılarının başını öyle döndürür ki, her sayının kendisine dayandığı 'Bir'in konumunu ve değerini unutmalarına neden oldu. Ayrıca o dönemde $x^2-4=0$, $x^2-9=0$ gibi eşitliklerdeki çözüm kümeleri dolaysız yapılabiliyordu. Ama $x^2-3=0$, $x^2-8=0$ gibi ikinci derece eşitlikler düşünülebilir olsa da çözümü dolaysız henüz bilinmiyordu.
+Matematik yaparken belli sayılar kullanılırdı. Fakat bu durum, ta ki Harezmi'nin yeni keşifleri ile son buluna kadar sürdü. Harezmi, $0$ rakamını cebirsel işlemlerde kullanmaya başladı. Maalesef bu cazip keşif, bazılarının başını öyle döndürür ki, her sayının kendisine dayandığı 'Bir'in konumunu ve değerini unutmalarına neden oldu. Ayrıca o dönemde $x^2-4=0$, $x^2-9=0$ gibi eşitliklerdeki çözüm kümeleri dolaysız yapılabiliyordu. Ama $x^2-3=0$, $x^2-8=0$ gibi ikinci derece eşitlikler düşünülebilir olsa da çözümü dolaysız henüz bilinmiyordu.
 
 İşte Harezmi bu keşifle, düşünülenlerin var olduğunu ancak onları dolaysız değil de dolaylı yollardan yani geometri gibi şekillere indirgeyerek bilineceğinin yolunu açmış oldu.
 
@@ -356,7 +356,7 @@ Ayrıca yapraklar, bitkilerin sapları etrafında spiral olarak dönüşler yapa
 
 Nasıl ki ince ayar sabiti alfa ($\alpha$), bütün fiziksel nesneleri anlamada bir sınır çizer, benzer şekilde sıcaklık, uzaklık ve zaman birimlerinde de bir noktanın ötesine geçilemez. Kısaca bu sınırları geçmek insan için imkânsızdır.
 
-Bu hudutlar, sıcaklıkta en fazla 10 üzeri 32 santigrat derece, uzaklıkta en aşağısı 10 üzeri -35 metre ve zamandan en aşağısı 10 üzeri -43 saniyedir. (Baha Zafer, 4. Seminer)
+Bu hudutlar, sıcaklıkta en fazla 10 üzeri 32 santigrat derece, uzaklıkta en aşağısı 10 üzeri -35 metre ve zamanda en aşağısı 10 üzeri -43 saniyedir. (Baha Zafer, 4. Seminer)
 
 Zihin hudutların ötesini merak ettiğinden, oraları ne kadar düşünürse düşünsün artık bir yerden sonra adeta patinaj yapar. Yine madde, insanın bir yerden sonra ilerlemesine imkân sunmaz. Ötesi yok demek değil, ama aşılamaz hudutlar var. Daha doğrusu metafizik buutlar ile komşuluklar başlar. İnsan yok gibi yaşasa da komşular ordalar!
 
@@ -384,7 +384,7 @@ Dil, alfabe ile kurulur. Alfabeler işaretler ve harfler ile kurulmaktadır.   P
 
 Öncelikle, harflerde ve onları sesinde özdeşlik kabul edilir. Burada bir eleme var. Çünkü E, ***E*** dir diyoruz. Yani kabul ediyoruz. Oysa, biri önce, diğeri sonra yazıldı. Biri sol da diğeri sağdadır. Biri normal, diğeri italik ve kalın. Birçok farklılığa rağmen, sadece sese indirgeyerek özdeşlik vardır denir. Oysaki sesler bile özdeş değildir.  Bu bir yanılsamadır.
 
-Ayrıca, bir kelimeyi nasıl yazabilir, birlikte düşünelim? Mesela 'CAN' kelimesini ele alalım. Haydi özdeşlik kabul edildi diyelim. Her C, ***C*** her A, ***A*** her ve her N, ***N*** olsun. Bu yetmez ki, bir kelime yazabilmek veya okumak için!
+Ayrıca, insan bir kelimeyi nasıl yazabilir, birlikte düşünelim? Mesela 'CAN' kelimesini ele alalım. Haydi özdeşlik kabul edildi diyelim. Her C, ***C*** her A, ***A*** her ve her N, ***N*** olsun. Bu yetmez ki, bir kelime yazabilmek veya okumak için!
 
 Zamanı kabul edilmezse kelime yazılamaz. Yani, CNA, NCA, NAC işaretleri, kendilerine kelime bile denemeyen anlamsız sembollerdir. Adeta ölüdür bunlar. Zihinde ve nesnede bir karşılığı yoktur.
 
@@ -440,7 +440,7 @@ Makinaya, bilinç ve zekâ atfedilemez. Ona, yapayda olsa zekâ atfedilse bile i
 
 Ben, çıplaktır.
 
-Hz. Adem ve Havva'nın kendilerini ruhsal çıplak hissetmeleri, ben'in bu yüksek istidadı fark etmeleri olabilir diyen Prof. Dr. Ahmet Ayhan Çitil hoca, çok orijinal bir işari bir yorum daha ortaya koyar.
+Hz. Adem ve Havva'nın kendilerini ruhsal çıplak hissetmeleri, ben'in bu yüksek istidadını fark etmeleri olabilir diyen Prof. Dr. Ahmet Ayhan Çitil hoca, çok orijinal bir işari bir yorum daha ortaya koyar.
 
 Çıplaklık, kendini 'yeterli' görmektir.
 
@@ -452,13 +452,13 @@ Esasında çıplaklık, insan düşüncesinin kalıcılığının sonucundaki im
 
 Esasında bilimin en temel argümanı olan ispat ilkesi, doğruluğu önceden metafiziksel olarak bilinenin veya sezilenin, teorik akıl kullanılarak fizik ve matematik araçları ile daha sonra doğrulama yapmanın ismi ve bilimsel ünvanıdır.
 
-Önce Fransız Descartes bilginin gerçekliği insan düşüncesine indirger. Sonra Alman Kant, o düşünceyi teorik akıl ve kategoriler ile daha da sınırlar. Ardından gelen İngiliz Darwin ise, bırakın insan düşüncesini, insanın kendisini canlı türlerinin bir türevine indiriverir. Bu gayretler maalesef tam anlaşılamadan çarpıtılmaktadır. Hatalı yorumlar üzerinden vuran vurana, indiren indirene sürüp gidiyor. Gerçeklik algısı şimdilerde fenomenlerden ibaret gibi.
+Önce Fransız Descartes bilginin gerçekliği insan düşüncesine indirger. Sonra Alman Kant, o düşünceyi teorik akıl ve kategoriler ile daha da sınırlar. Ardından gelen İngiliz Darwin ise, bırakın insan düşüncesini, insanın kendisini canlı türlerinin bir türevine indiriverir. Bu deha filozoflar maalesef tam anlaşılamadan çarpıtılmaktadır. Hatalı yorumlar üzerinden vuran vurana, indiren indirene sürüp gidiyor. Gerçeklik algısı şimdilerde fenomenlerden ibaret gibi.
 
 Oysaki metafizik ve fizik, birbirini yansıtan iki aynadır.
 
 İnsan, güzeli arzular. Ama aradığı arzusunu bir türlü bulamaz. Sadece izlerine rastlar. O izleri, delilleri takip eder. Hatta izlere âşık olur. Istıraplıdır bu trajedi ve bu yolculuk hali.
 
-Trajedi, kesilen keçinin çıkardığı acı çığlıktır. Bu çığlığın etkisi metafizik alemden ise tepkisi de fiziksel alemdedir. Etki dikey, tepki ise yatay olan sonuçları 4 guruba ayrılabilir: Negatif etkiye olumlu tepki, hamddır. Pozitif etkiye olumlu tepki, şükürdür. Negatif etkiye olumsuz tepki, nankörlüktür. Pozitif etkiye olumsuz tepki ise küfürdür.
+Trajedi, kesilen keçinin çıkardığı acı çığlıktır. Bu çığlığın etkisi metafizik alemden ise tepkisi de fiziksel alemdedir. Etki dikey, tepki ise yatay olan bu sonuçlar, 4 gruba ayrılabilir: Negatif etkiye olumlu tepki, hamddır. Pozitif etkiye olumlu tepki, şükürdür. Negatif etkiye olumsuz tepki, nankörlüktür. Pozitif etkiye olumsuz tepki ise küfürdür.
 
 Ama bütün bunlara rağmen hayatta olmak, sahnede olmak güzeldir. Zaten sahnenin sonunda, her şeye rağmen alkış kopmuyor mu? Bu nedenle var olmak güzeldir. Fakat varlığın en alttaki gölgesi olan madde, güzelliğin kendisi değil sadece malzemesidir. Bu sahnedeki sanatın mürekkebi fizik olsa da asıl güzelliğin imzası metafiziktir.
 

@@ -4,8 +4,8 @@ date = 2024-04-24T22:49:52-04:00
 draft = false
 math = true
 tags = [
-    "aristo",
-    "farabi",
+    "Aristo",
+    "Farabi",
     "kıyas",
     "mantık",
     "önerme",   
@@ -14,7 +14,7 @@ tags = [
 
 ## Giriş
 
-Mantık, aklın doğru düşünmesinin ölçülerini veren bir bilimdir. Ona, zihni hatalardan koruyan insana özel bir istidat denebilir. Aynı zamanda, aklen tutarlı, düzgün ve doğru düşünebilme disiplinlerinin bütününe mantık bilimi denir.
+Mantık, aklın doğru düşünmesinin ölçülerini veren temel bir bilimdir. Ona, zihni hatalardan koruyan insana özel bir istidat denebilir. Aynı zamanda, aklen tutarlı, düzgün ve doğru düşünebilme disiplinlerinin bütününe mantık bilimi denir.
 
 İşte insanın mantıklı çalışabilmesinin ilk adımı, kavramı bilmesi ile başlar.
 
@@ -67,7 +67,7 @@ Bir kavram içine aldığı bireylerin niceliklerini  ifade ederse, o bireyler o
  
 Eğer kavram içine aldığı bireylerin ortak niteliklerini ifade ediyorsa, o nitelikler de kavramın içlemini oluşturur.
  
-İçlem arttıkça kaplam azalır, içlem azaldıkça kaplam artar. Aralarında ters bir orantı vardır. Mesela, kare özel bir dörtgendir. Kare olmayan dikdörtgen de vardır. Dolayısıyla dörtgenin  kaplamı fazladır. Fakat karede, dörtgene ilave olarak daha fazla özellik vardır. Bu yönden de karenin içlemi daha çoktur. 
+İçlem arttıkça kaplam azalır, içlem azaldıkça kaplam artar. Aralarında ters bir orantı vardır. Mesela, kare özel bir dörtgendir. Kare olmayan dikdörtgen de vardır. Dolayısıyla dörtgenin kaplamı fazladır. Fakat karede, dörtgene ilave olarak daha fazla özellik vardır. Bu yönden de karenin içlemi daha çoktur. 
 
 ## Tanımlar
 
@@ -86,7 +86,7 @@ Tanımlama, bir nesnenin bir duygunun bir düşüncenin, hüviyeti, hakikati vey
 
 1. Mahiyet; kavramın zihinde soyut düşünülmesidir. Cennette buluşalım gibi.
 2. Hakikat; kavramın zihnin dışında gösterilmesidir. Kütüphanelerde buluşalım gibi.
-3. Hüviyet; kavramın dışarıda belirtilmesidir. Ankara'daki Milli kütüphanede buluşalım gibi.
+3. Hüviyet; kavramın dışarıda belirtilmesidir. Ankara'daki Milli Kütüphane'de buluşalım gibi.
 
 ## Kategoriler
 
@@ -124,7 +124,7 @@ Hakkında, doğru ve yanlış gibi bir yargıya varılan cümlelere önerme deni
 
 ## Önermenin Türleri
 
-Önermeler; kiplik, varlık, modalite (müveccih), nitelik, nicelik ve yargı sayısı bakımından altı türlü incelenir.
+Önermeler; kiplik, varlık, modalite (müveccih), nitelik, nicelik ve yargı sayısı bakımından genellikle altı türlü incelenir.
 
 1. Kiplik açısından bir önerme; geçmiş, şimdiki, gelecek veya geniş zaman olabilir.
 2. Varlık açısından bir önermenin konusu; mümkün (problematik), imkânsız veya zorunlu (apodiktik)  olabilir.
@@ -133,7 +133,7 @@ Hakkında, doğru ve yanlış gibi bir yargıya varılan cümlelere önerme deni
 5. Nicelik açısından bir önermenin konusu; tikel, tekil, tümel, belirsiz veya karmaşık olabilir.
 6. Yargı sayısı açısından bir önerme; basit veya bileşik olabilir.
 
-A-Basit Önermeler: Bir önerme bulunur. Yani konu, yüklem ve bağlaç üç bölümden oluşur. Sadece doğru ya da yanlış şeklinde tek bir yargı söz konusudur. Taş, meyve değildir, önermesi gibi.
+A-Basit Önermeler: Bir önerme bulunur. Yani konu, yüklem ve bağlaç şeklinde üç bölümden oluşur. Sadece doğru ya da yanlış şeklinde tek bir yargı söz konusudur. Taş, meyve değildir, önermesi gibi.
 
 B-Bileşik Önermeler: Şekil bakımından en az iki önerme bulunur. Önce bileşiği açık olan önermeleri birer misalle sıralayalım:
 
@@ -157,7 +157,7 @@ B-Bileşik Önermeler: Şekil bakımından en az iki önerme bulunur. Önce bile
 
 ## Önermeyi Döndürmek
 
-Tümel olumlu (A), tümel olumsuz (E), tikel olumlusuz (O), tikel olumlu (I) yapılardan oluşan önermeler arasında bazı doğruluk ilişkileri vardır. Karşı Olum Karesi adıyla bilinen bu tablo sayesinde, belli çıkarımlar yapılır. Önermelerden yeni önerme üretilirken ilgili tablodaki bu, çelişik olma (A-O ve E-I), karşıt olma (A-E ve I-O) ve altlık olma (A-I ve E-O) durumları dikkate alınır. Önermeler üzerinde, düz ve ters döndürme işlemi yapılırken bu yapılar değerlendirilir. Döndürme, mevcut önermeden hareketle, yeni bir doğru önerme elde etmek için yapılır. Doğruluk bozulmadan, önermenin konu ile yüklemi yer değiştirilir. Düz ve ters döndürmek şeklinde iki türlü yolla elde edilir.
+Tümel olumlu (A), tümel olumsuz (E), tikel olumlusuz (O), tikel olumlu (I) yapılardan oluşan önermeler arasında bazı doğruluk ilişkileri vardır. Karşı Olum Karesi adıyla bilinen bu tablo sayesinde, belli çıkarımlar yapılır. Önermelerden yeni önerme üretilirken ilgili tablodaki bu, çelişik olma (A-O ve E-I), karşıt olma (A-E ve I-O) ve altlık olma (A-I ve E-O) durumları dikkate alınır. Önermeler üzerinde, düz ve ters döndürme işlemi yapılırken, bu yapılar değerlendirilir. Döndürme, mevcut önermeden hareketle, yeni bir doğru önerme elde etmek için yapılır. Doğruluk bozulmadan, önermenin konu ile yüklemi yer değiştirilir. Düz ve ters döndürmek şeklinde, iki türlü yolla elde edilir.
 
 A-Düz Döndürme: Bu döndürmede, konu ile yüklem belli kurallarla yer değiştirilerek yapılır. Dört türlüsü vardır. Fakat üç tanesi doğru netice verir. Örnek üzerinden gösterelim:
 
@@ -186,35 +186,35 @@ Mantık ilkeleri; özdeşlik, çelişmezlik, üçüncü şıkkın imkânsızlı�
 1. Her kavram kendi kendisiyle özdeştir.
 2. İki çelişik yargı aynı zamanda doğru olamaz.
 3. Bir yargı ya doğrudur ya yanlıştır, üçüncü bir durum yoktur.
-4. Bir şeyin var olabilmesi için yeterli sebebinin olması gerekir. Korelasyon nedenselliği düşündürür ama kozalite değildir.
+4. Bir şeyin var olabilmesi için yeterli sebebinin olması gerekir. Korelasyon, nedenselliği düşündürür ama o, kozalite değildir.
 
 Bilim insanları, bu ilkelerin rehberliğinde ve akıl yürütme yöntemleriyle, var olan bilgilerine yeni bilgiler eklerler. Yani ispat için delil ararlar. Öyleyse şimdi de muhakeme veya istidlal denen bu metotları hatırlayalım.
 
 ## Akıl Yürütme Metodları
 
-Klasik mantıkta akıl yürütme, bilinen bilgi yardımıyla yeni bilgiye ulaşılması yöntemidir. Akıl yürütmenin temelde  üç türü vardır.
+Klasik mantıkta akıl yürütme, bilinen bilgi yardımıyla yeni bilgiye ulaşılması yöntemidir. Akıl yürütmenin temelde  dört türü vardır.
 
 1. Tümdengelim (talil): Klasik mantığın temelinde bu metot vardır. Tümel, kabul edilmiş öncül bilgilerden, yeni kesin sonuçlar çıkarmaktır. Yönü bütünden parçaya doğrudur.
 2. Tümevarım (istikra): Özelden yola çıkılarak genel hakkında bilgi elde etme metodudur. Gözlemlenebilen tikel bilgi kullanılarak tümel bilgi doğrulanır. Ancak kesin bir sonuca götürmez. Yönü parçadan bütüne doğrudur.
 3. Analoji (temsil): İki şey arasındaki benzerliğe dayanarak, birisi hakkında verilen bir hükmü diğeri hakkında da vererek yeni bilgi elde etme metodudur. Analoji ile verilen hüküm, zorunluluk değil ancak bir ihtimal olabilir. Yönü parçadan parçaya doğrudur.
 
-Ayrıca, salt bir akıl yürütme çeşidi olmasa bile, belli koşullara uyan hadiseleri en iyi şekilde açıklama gayretine, geriçıkarım metodu denmektedir.
+Ayrıca, salt bir akıl yürütme çeşidi olmasa bile, belli koşullara uyan hadiseleri en iyi şekilde açıklama gayretine de, Geriçıkarım metodu denmektedir.
 
-## Düșünme Metodları
+## Düșünme Metotları
 
 İnsan bazen zihinsel olarak muhakeme yapar. Bazen de belli koşullarda deney yaparak veya doğal gözlem yoluyla tecrübe eder. O, bu bağlamda yeni bilgilere ulaşmak için akıl yürütmeleri yaparken, farklı düşünme metotlarından faydalanır.
  
-Bu düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken tercih ettiği farklı yollar da denilebilir. Bunların başlıca sekiz tanesi ise, analitik, bütüncül, eleştirel, lateral/alternatif, metabilişsel, özgün, sistemli ve yansıtıcı düşünme metotları olarak bilinir ve öğretilir.
+Bu düşünme türlerine ise, aklın yörüngeleri veya aklın seyahat ederken tercih ettiği farklı yollar da denilebilir. Bunların başlıca sekiz tanesi ise, analitik, bütüncül, eleştirel, lateral/alternatif, metabilişsel, özgün/yaratıcı, sistemli ve yansıtıcı düşünme metotları olarak bilinir ve öğretilir.
  
 Ayrıca insan, bilgi edinmek için, aklen bazı adımlar gerçekleştirir. Bunlar; tahayyül, tasavvur, taakkul, tasdik, izan, iltizam ve itikat olarak sıralanabilir. 
  
-Yani daha sade bir ifade ile yukarıdaki bu yedi hususu; hayal etmek, kavramlaştırmak, akıl yürütmek, cümle kurmak, yargılamak, taraftar olmak ve akit yapmak şeklinde de anlamak mümkündür.
+Yani daha sade bir ifadeyle yukarıdaki bu yedi hususu; hayal etmek, kavramlaştırmak, akıl yürütmek, cümle kurmak, yargılamak, taraftar olmak ve akit yapmak şeklinde anlamak mümkündür.
  
 Dahası bilmenin de üç mertebesi vardır:
 
-1. Bilginin delili zihninde ise, bu kesin bilgi sadece nazari planda bir bilmedir ve adı ilmelyakin mertebesidir.
-2. Bilginin delilini görülmüş ise, bu kesin bilgi gözlem veya deney ile bir bilmedir ve adı aynelyakin mertebesidir.
-3. Bilginin delili bizzat tecrübe edilmiş ise, bu kesin bilgi bir pratik veya irfani bilgidir ve adı hakkalyakin mertebesidir.
+1. Bilginin delili zihninde ise, bu kesin bilgi, sadece nazari planda bir bilmedir ve adı ilmelyakin mertebesidir.
+2. Bilginin delili görülmüş ise, bu kesin bilgi, gözlem veya deney ile bir bilmedir ve adı aynelyakin mertebesidir.
+3. Bilginin delili bizzat tecrübe edilmiş ise, bu kesin bilgi, bir pratik veya irfani bilgidir ve adı hakkalyakin mertebesidir.
 
 Buraya kadar verilen bilgiler, bilimsel ve insani bilgiyi artırma adına kıyas (tasım) yöntemini kullanmak için bir alt yapı niteliğindedir.
 
@@ -287,11 +287,11 @@ Düzensiz kıyaslar, kısaltılmış (örtük, entinem) ve delilli kıyas olmak 
 
 Düşünme süreçtir. Düşünce ise sonuçtur. Süreçten sonuca kadar uzanan bölüm, akıl yürütmedir. Akıl, insanın özel bir aracıdır. Dahası o, varlıkla konuşma dilidir. Bu dilin grameri ise mantıktır.
  
-Mantık, aklın yazılımıdır. Bu yazılımın da temel kodları vardır. Kodlar, adeta zihnin kriptolojisidir. Aklın yol haritası perspektifinden mantık, bilginin sağlamlılığını koruyan güvenli şeritler gibidir. Bilimsel bilgi, mantık sayesinde, doğrulanmış, geçerli ve tutarlı olur.
+Mantık, aklın yazılımıdır. Bu yazılımın da temel kodları vardır. Kodlar, adeta zihnin kriptolojisidir. Aklın yol haritası perspektifinden mantık, bilginin sağlamlılığını koruyan güvenli şeritler gibidir. Bilimsel bilgi, mantık sayesinde doğrulanır, geçerli ve tutarlı olur.
  
-İnsanın hakikati arayışında, burhan, beyan ve irfan üç temel doğru yoldur.
+İnsanın hakikat arayışında, burhan, beyan ve irfan üç temel doğru yoldur.
  
-Beyan, toplumların kültüründen, tarihlerinden, dillerinden etkilenen lokal bir yoldur. İrfan, bireysel gelişmeye bağlı, özel ve sübjektif bir usuldür. Fakat burhan hem global hem de objektif olan bir bilgi edinme yöntemidir.
+Beyan, toplumların kültüründen, tarihlerinden, dillerinden etkilenen lokal bir yoldur. İrfan, bireysel gelişmeye bağlı, özel ve sübjektif bir usuldür. Fakat burhan, hem global hem de objektif olan bir bilgi edinme yöntemidir.
  
 Burhana kısaca, akıl, mantık, zihin ve tecrübe araçlarıyla bilimsel bilgiyi genişletme sistemi de denilebilir. 
  
