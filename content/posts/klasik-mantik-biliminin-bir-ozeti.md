@@ -4,8 +4,8 @@ date = 2024-04-24T22:49:52-04:00
 draft = false
 math = true
 tags = [
-    "Aristo",
-    "Farabi",
+    "aristo",
+    "farabi",
     "kıyas",
     "mantık",
     "önerme",   
