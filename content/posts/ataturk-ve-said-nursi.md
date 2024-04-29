@@ -3,11 +3,11 @@ title = 'Atatürk ve Bediüzzaman'
 date = 2023-10-29T22:49:52-04:00
 draft = false
 tags = [
-    "Atatürk",
-    "Bediüzzaman",
-    "Cumhuriyet",
-    "Mustafa Kemal",
-    "Said Nursi",   
+    "atatürk",
+    "bediüzzaman",
+    "cumhuriyet",
+    "mustafa kemal",
+    "said nursi",   
 ]
 +++
 
