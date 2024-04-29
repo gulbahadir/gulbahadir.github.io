@@ -264,7 +264,7 @@ Ayrıca ikilem (dilemma), bir seçmeli kıyas türüdür. Büyük önerme, 've' 
 3. $X$ ise $Y$ dir. $Z$ ise $S$ dir. Hem $X$ dir hem de $Z$ dir. Öyleyse hem $Y$ dir hem de $S$ dir. (Karmaşık yapıcı)
 4. $X$ ise $Y$ dir. $Z$ ise $S$ dir. Hem $Y$ değildir hem de $S$ değildir. Öyleyse hem $X$ değildir hem de $Z$ değildir. (Karmaşık yıkıcı)
 
-**B-Basit Kıyaslar:**
+**B-Bileşik Kıyaslar:**
 
 Bileşik kıyaslar; zincirleme, sorit ve karma (hulfi) olmak üzere üç türü vardır.
 
