@@ -470,4 +470,4 @@ Metafizik, fizik krallığının zulmünü haykıran sürgündeki bilge sultand�
 
 **\*Not**: Bu eser, değerli bilim insanları Ayhan Ahmet Çitil ve Baha Zafer hocalarımızın, İstanbul Medeniyet Üniversitesi ile Klasik Düşünce Okulu tarafından paylaşılan derslerinden istifade edilerek kaleme alınmıştır. Kendilerine çok teşekkür ediyorum.
 
-<iframe width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQogdiKiylahMkxGLyXWO1xgN5mniRB3xzDxfm7p70Cv4VGrhYkHlSiMlA_9iddg/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQogdiKiylahMkxGLyXWO1xgN5mniRB3xzDxfm7p70Cv4VGrhYkHlSiMlA_9iddg/pubhtml?widget=false&amp;headers=false"></iframe>
