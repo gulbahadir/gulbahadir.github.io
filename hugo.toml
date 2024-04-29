@@ -5,7 +5,8 @@ theme = 'paper'
 paginate = 5
 # disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
-
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
 
 [params]
   # color style
