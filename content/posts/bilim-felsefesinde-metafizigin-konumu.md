@@ -469,3 +469,5 @@ Malum madde, bir zamanlar başlangıçta, olma ve olmama imkanları toplamı idi
 Metafizik, fizik krallığının zulmünü haykıran sürgündeki bilge sultandır. Bu sultanın, en yakın zamanda çıkarıldığı akademiye tekrar dönmesi ve hak ettiği yerde olması umuduyla…
 
 **\*Not**: Bu eser, değerli bilim insanları Ayhan Ahmet Çitil ve Baha Zafer hocalarımızın, İstanbul Medeniyet Üniversitesi ile Klasik Düşünce Okulu tarafından paylaşılan derslerinden istifade edilerek kaleme alınmıştır. Kendilerine çok teşekkür ediyorum.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQogdiKiylahMkxGLyXWO1xgN5mniRB3xzDxfm7p70Cv4VGrhYkHlSiMlA_9iddg/pubhtml?widget=true&amp;headers=false"></iframe>
