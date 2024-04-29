@@ -234,7 +234,7 @@ Newton'un bu notları, maddede var olan fiziksel kuvvetlerin izahının fizik il
 
 Özel görelilik ile zamanın, genel görelilik ile maddenin izafi olduğu artık bilinmektedir. Zaman, uzayın bükülmesidir. Madde bir enerji, enerji de bir çeşit ışıktır.
 
-Evrenin yaklaşık $\%5$ kısmı madde, $\%23$ oranda karanlık madde ve $\%72$ nispette karanlık enerji olduğu tahmin edilmektedir. Bilimin sahası yani fizik ve matematik ile gerçekliğe ulaşmak bu $\%5$ kısımdan ibarettir. Ötesini anlamada fizik kuralları geçerli değildir. Burada da metafizik bir sınır vardır.
+Evrenin yaklaşık $5$ kısmı madde, $\%23$ oranda karanlık madde ve $\%72$ nispette karanlık enerji olduğu tahmin edilmektedir. Bilimin sahası yani fizik ve matematik ile gerçekliğe ulaşmak bu $\%5$ kısımdan ibarettir. Ötesini anlamada fizik kuralları geçerli değildir. Burada da metafizik bir sınır vardır.
 
 Benzer bir sınır, atom altı dünyasında da var ve ötesine inilemez. Adeta bilim, iki metafizik hudut arasında yaşar. Bilimin ulaşacağı göreceli gerçeklik sadece bu aralıktadır.
 
