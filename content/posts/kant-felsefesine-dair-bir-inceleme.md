@@ -7,7 +7,7 @@ tags = [
     "bilim",
     "düşünce",
     "felsefe",
-    "Kant",   
+    "kant",   
 ]
 +++
 
