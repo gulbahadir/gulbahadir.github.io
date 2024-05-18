@@ -71,7 +71,7 @@ Michigan State Üniversitesi’nden Elaine Blakey ile Sheila Spence’in yaptı�
 - Hangi tür bir düşünme stratejisi ile hareket edileceğinin seçilmesi, ikinci merhaledir.
 - Süreç boyunca planlama, izleme ve değerlendirme yapılma aşamaları ise üçüncü ve üçlü döngüsel merhaledir.
 
-Hartman ve  Sternberg Modeli
+D. Hartman ve Sternberg Modeli
 
 Psikolog Prof. Dr. Robert J. Sternberg (1949-...) ile Hope J. Hartman daha geniş bir model sunar. Onlar düşünme için gerekli faktörleri, iç ve dış unsurlar diye iki gruba ayırır. Bir iç faktör olan metabiliş düşünmeyi besleyen 4 kısım şu şekildedir:
 
