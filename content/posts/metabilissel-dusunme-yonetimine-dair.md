@@ -1,6 +1,6 @@
 +++
 title = 'Metabilişsel Düşünme Yöntemine Dair'
-date = 2023-05-09T22:49:52-04:00
+date = 2024-05-09T22:49:52-04:00
 draft = false
 tags = [
     "düşünce",
