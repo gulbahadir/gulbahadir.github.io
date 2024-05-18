@@ -1,3 +1,15 @@
++++
+title = 'Sistemli Düșünme Metodu'
+date = 2024-05-02T22:49:52-04:00
+draft = false
+tags = [
+    "düşünce",
+    "düşünme",
+    "düşünme metodu",
+    "sistem",
+    "tefekkür",   
+]
++++
 
 Türkçe de düzen, Arapça da nizam kelimelerinin karşılığı olarak kullanılan, Yunanca ile Latince’ deki türediği köken itibariyle birleşme, oluşma, yerleşme, bir araya gelme, bir arada durma anlamlarına gelen sistem; İngilizce, Fransızca, Almanca, İspanyolca, Portekizce, Farsça ve Rusça gibi dünya dillerine, yazılım ve seslendirme nüanslarıyla girmiş, adeta global bir hüviyet kazanarak insanlığa mâl olmuş değerli bir sözcük ve kavramdır.
 
