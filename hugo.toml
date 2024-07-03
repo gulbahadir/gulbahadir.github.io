@@ -2,7 +2,7 @@ baseURL = 'https://bahadirgul.com/'
 languageCode = 'tr-TR'
 title = 'Bahadır Gül'
 theme = 'paper'
-paginate = 5
+paginate = 10
 # disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
 [markup.goldmark.renderer]
