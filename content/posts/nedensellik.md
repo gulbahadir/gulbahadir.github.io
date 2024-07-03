@@ -2,6 +2,7 @@
 title = "Nedensellik İlkesinin Bilim Felsefesindeki Yeri"
 date = 2024-06-26T22:49:52-04:00
 draft = false
+math = true
 tags = [
     "nedensellik",
     "bilim felsefesi",
