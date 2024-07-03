@@ -104,11 +104,11 @@ Ve son olarak da, metafizik bir ilkenin yorumundan hareketle, onları fiziksel d
 
 ## 7. Bilimsel Denklemler
 
-Fiziksel anlamda, mekanik nedensellikler, matematiksel denklemler ile ifade edilir. Mesela, A olayı ile B olayı arasında bir sebep ve sonuç bağıntısı kurulu olsun. Uzay ve zaman formlarında, madde ve enerji arasındaki düzenli ilişkiler bilinebilir. Bu ilişkilerde, *'1 metre ve 1 saniye'* gibi ortak bilimsel kabullerden hareketle, fiziksel nicelikler üzerinden *'eşittir, büyüktür, küçüktür'* şeklinde denklemler tanımlanabilir.
+Fiziksel anlamda, mekanik nedensellikler, matematiksel denklemler ile ifade edilir. Mesela, $A$ olayı ile $B$ olayı arasında bir sebep ve sonuç bağıntısı kurulu olsun. Uzay ve zaman formlarında, madde ve enerji arasındaki düzenli ilişkiler bilinebilir. Bu ilişkilerde, *'1 metre ve 1 saniye'* gibi ortak bilimsel kabullerden hareketle, fiziksel nicelikler üzerinden *'eşittir, büyüktür, küçüktür'* şeklinde denklemler tanımlanabilir.
 
-Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve süreklidir. Mesela, *Empirik anlamda*, maddenin kütlesinin, ışık hızının karesiyle çarpımı belli bir enerjiye eşittir. $(E = m \times c^2)$ *Rasyonel anlamda* ise kenarları a, b, c olan bir üçgenin, iki kenarının toplamı öteki kenardan büyüktür. $(a + b  > c)$
+Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve süreklidir. Mesela, *Empirik anlamda*, maddenin kütlesinin, ışık hızının karesiyle çarpımı belli bir enerjiye eşittir. $(E = m \times c^2)$ *Rasyonel anlamda* ise kenarları $a$, $b$, $c$ olan bir üçgenin, iki kenarının toplamı öteki kenardan büyüktür. $(a + b  > c)$
 
-Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve süreklidir. Mesela, *Empirik anlamda*, maddenin kütlesinin, ışık hızının karesiyle çarpımı belli bir enerjiye eşittir. $(E = m \times c^2) *Rasyonel anlamda* ise kenarları a, b, c olan bir üçgenin, iki kenarının toplamı öteki kenardan büyüktür. $(a + b  > c)$
+Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve süreklidir. Mesela, *Empirik anlamda*, maddenin kütlesinin, ışık hızının karesiyle çarpımı belli bir enerjiye eşittir. $(E = m \times c^2)$ *Rasyonel anlamda* ise kenarları $a$, $b$, $c$ olan bir üçgenin, iki kenarının toplamı öteki kenardan büyüktür. $(a + b  > c)$
 
  Nedensellik zinciri sonucunda kurulan bu ve benzeri denklemler, *'zihinsel ve deneysel'* olarak, kritik edilebilir, test edilebilir ve ölçülebilir. *'Kritisizm düşüncesinin'* özü de zaten budur. Etkili olmasının arka planı da buraya dayanır. Çünkü *'standart birimler'* vardır. Uzunluk, alan, hacim, basınç, momentum, hız, kuvvet gibi birimlerin tamamı, belli nicelikleri olan fiziksel birimlerdir. Bu birimler, insanın alışkanlıklarından bağımsızdır. Fakat metafizik alanlarda, gerekli olan böylesi *'birimler'* kurulamaz.
 
