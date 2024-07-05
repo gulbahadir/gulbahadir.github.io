@@ -108,8 +108,6 @@ Fiziksel anlamda, mekanik nedensellikler, matematiksel denklemler ile ifade edil
 
 Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve süreklidir. Mesela, *Empirik anlamda*, maddenin kütlesinin, ışık hızının karesiyle çarpımı belli bir enerjiye eşittir. $(E = m \times c^2)$ *Rasyonel anlamda* ise kenarları $a$, $b$, $c$ olan bir üçgenin, iki kenarının toplamı öteki kenardan büyüktür. $(a + b  > c)$
 
-Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve süreklidir. Mesela, *Empirik anlamda*, maddenin kütlesinin, ışık hızının karesiyle çarpımı belli bir enerjiye eşittir. $(E = m \times c^2)$ *Rasyonel anlamda* ise kenarları $a$, $b$, $c$ olan bir üçgenin, iki kenarının toplamı öteki kenardan büyüktür. $(a + b  > c)$
-
  Nedensellik zinciri sonucunda kurulan bu ve benzeri denklemler, *'zihinsel ve deneysel'* olarak, kritik edilebilir, test edilebilir ve ölçülebilir. *'Kritisizm düşüncesinin'* özü de zaten budur. Etkili olmasının arka planı da buraya dayanır. Çünkü *'standart birimler'* vardır. Uzunluk, alan, hacim, basınç, momentum, hız, kuvvet gibi birimlerin tamamı, belli nicelikleri olan fiziksel birimlerdir. Bu birimler, insanın alışkanlıklarından bağımsızdır. Fakat metafizik alanlarda, gerekli olan böylesi *'birimler'* kurulamaz.
 
 ## 8. Metafizik ve Birimler
