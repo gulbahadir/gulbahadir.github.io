@@ -158,7 +158,7 @@ Peki bu neden, esasında yasa olmayıp, sadece bir alışkanlıktan ibaret olabi
 
 İşte kimi filozoflar, 'Hakiki Faile' vurgu yapmak için bu nedenselliği *'ikincil ele alır'*  ve onlara insanların 'alışkanlıkları' adını verir. Kimileri de, bu kanunlar, insanlara kanunun Sahibini düşündürür, sonucunun önünü almak için, nedenselliği *'hafife alır'* ve bunlar da 'alışkanlıklar' ismini koyar geçer. 
 
-Gerekçeleri farklı olmakla birlikte, vardıkları sonuç aynıdır. İfrat ve tefrit söz konusu ise *'denge'* denge bulunamaz . Ölçü bozulunca da, hemen ardından sebeplere riayetteki saygıda, eşya ve hadiseleri doğru okumada, bilimsel araştırmalarda 'kusur' edilir. Zira *'bilimin can suyu olan nedensellik'* örselenir. Oluşan bu boşluğu, aşırılığı ve katılığı en ivedi bir şekilde *'telafi'* etmek gerekir.
+Gerekçeleri farklı olmakla birlikte, vardıkları sonuç aynıdır. İfrat ve tefrit söz konusu ise *'denge'* bulunamaz . Ölçü bozulunca da, hemen ardından sebeplere riayetteki saygıda, eşya ve hadiseleri doğru okumada, bilimsel araştırmalarda 'kusur' edilir. Zira *'bilimin can suyu olan nedensellik'* örselenir. Oluşan bu boşluğu, aşırılığı ve katılığı en ivedi bir şekilde *'telafi'* etmek gerekir.
 
 ## 11. Kuantum ve Nedensellik
 
