@@ -112,9 +112,9 @@ Matematikle kurulan bu denklemler fiziki evrende, zorunludur, evrenseldir ve sü
 
 ## 8. Metafizik ve Birimler
 
- Metafizik unsurların birimleri kurulamadığından objektif bilimi de yapılamaz. Sabretmenin, niyetin, iyinin, iradenin, güzelin standart birimi tanımlanamadığından, -insanı *'aşkın'* bir meseledir- fiziksel kavramlar gibi *'birimi'* rasyonel veya empirik olarak kurulamaz.
+Metafizik unsurların birimleri kurulamadığından objektif bilimi de yapılamaz. Sabretmenin, niyetin, iyinin, iradenin, güzelin standart birimi tanımlanamadığından, -insanı *'aşkın'* bir meseledir- fiziksel kavramlar gibi *'birimi'* rasyonel veya empirik olarak kurulamaz.
 
-Matematik ile *'ruh'* ölçülemez. Fizik ile *'can'* anlaşılamaz. “Metodolojik Empirizm” paradigması ile insan iradesine bağlı tercihler, öngörülemez yani hesaplanamaz. Denklemler,*'doğru ve yanlış'* fiziksel yargılar verir. Ama *'iyi ve güzel'* yargıların denklemleri bulunamaz.
+Matematik ile *'ruh'* ölçülemez. Fizik ile *'can'* anlaşılamaz. “Metodolojik Empirizm” paradigması ile insan iradesine bağlı tercihler, öngörülemez yani hesaplanamaz. Denklemler, *'doğru ve yanlış'* fiziksel yargılar verir. Ama *'iyi ve güzel'* yargıların denklemleri bulunamaz.
 
 Hayatın hacmi, ruhun alanı, iradenin basıncı, sabrın gücü ölçülemediğinden, kısaca nesnel birimleri bilinemediğinden, matematik ve fizik, bunları metafizik yasalara bırakır. Bu makul bir sınır çizmektir ama diğerini *'yok/var'* saymak da değildir.
 
