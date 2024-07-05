@@ -15,7 +15,7 @@ Düşünme istidadı insanın en önemli özelliklerindendir. Bu kabiliyetiyle o
 
 Düşünme sistemi bir ağaca benzetilirse, çekirdek ve kökleri metafizik ilkelere dayanır. Gövdesi, mantığın esaslarıdır. Dalları ve yaprakları, düşünme türleridir. Elbette bu ağacın meyvesi rengarenk düşüncelerdir.
 
-Düşünme türlerine, aklın yörüngeleri veya aklın seyahat ederken tercih ettiği farklı yollar denilebilir. Bunların başlıca sekiz tanesi ise, analitik, bütüncül, eleştirel, lateral/alternatif, metabilişsel, özgün/yaratıcı, sistemli ve yansıtıcı düşünme metotları olarak bilinir ve öğretilir. Bu incelemenin konusu, metabilişsel (üstbilişsel) düşünme yöntemi üzerine bir incelemedir.
+Düşünme türlerine, aklın yörüngeleri veya aklın seyahat ederken tercih ettiği farklı yollar denilebilir. Bunların başlıca sekiz tanesi ise, analitik, bütüncül, eleştirel, lateral/alternatif, metabilişsel, özgün/yaratıcı, sistemli ve yansıtıcı düşünme metotları olarak bilinir ve öğretilir. Bu yazının konusu, metabilişsel (üstbilişsel) düşünme yöntemi üzerine bir incelemedir.
 
 Metabilişsel düşünme (metacognition) kavramını literatüre kazandıran Amerikalı psikolog Prof. Dr. John Hurley Flavell (1928-...) olarak bilinir. 
 
@@ -116,7 +116,7 @@ Probleme Dayalı Öğrenme (PDÖ) yöntemi ile metabilişsel düşünme arasınd
 
 Dolayısıyla eğitim uzmanları, bunu  bir model olarak almalı, akademik rekabeti azaltarak, bilgiler arasında bağlantı kurarak, uygun stratejileri anlatarak, problem çözerken yönlendirerek, düşünme süreçleri ve kaynak kullanma hakkında geribildirim vererek, işbirlikçi bir atmosfer sağlayarak ve eğitimin süresini de tüm bunları yapmaya ve yaptırmaya yetecek şekilde düzenleyerek, öğrencilerin metabilişsel becerilerinin gelişmesine katkı yapmalıdır.
 
-Sonuç olarak, Probleme dayalı Öğrenme ile ilgili yeterliğe erişebilmek için, metabilişsel düşünme kabiliyetine ihtiyaç vardır. Bu nedenle ilgili eğitim uzmanlarının bilgilendirilmesi ve teşvik edilmesi gereklidir. Metabilişsel yetilerin gelişmesi sonucunda, öğrencilere ne gibi faydalar kazanacakları hakkında bilgi verilmelidir. Profesyonel hayatları için öneminin vurgulanması, eğitimin bütünlüğü ve onları motive etmesi bakımından gereklidir.
+Sonuç olarak, Probleme Dayalı Öğrenme ile ilgili yeterliğe erişebilmek için, metabilişsel düşünme kabiliyetine ihtiyaç vardır. Bu nedenle ilgili eğitim uzmanlarının bilgilendirilmesi ve teşvik edilmesi gereklidir. Metabilişsel yetilerin gelişmesi sonucunda, öğrencilere ne gibi faydalar kazanacakları hakkında bilgi verilmelidir. Profesyonel hayatları için öneminin vurgulanması, eğitimin bütünlüğü ve onları motive etmesi bakımından gereklidir.
 
 ## Geliştirme Basamakları
 
