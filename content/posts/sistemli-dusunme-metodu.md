@@ -80,7 +80,7 @@ Nasıl ki her insanın bir karakteri vardır. Şayet bu düşünme yöntemin bir
 - Alışması zor ama başarıyı kolaylaştırır.
 - Nedensellikte, doğrusal değil döngüsel ilişkiyi esas alınır.
 - Anlama, parçalara değil bütüncül bakarak ulaşır.
-- Bütünün parça  ile olan ilişkisini analitik  incelenir.
+- Bütünün parça ile olan ilişkisi analitik incelenir.
 - Parçalar arası etkileşimi kesinlikle hesaba katar.
 - Statik, dinamik, mekanik, organik unsurları bünyesinde bulundurabilir.
 - Soyut- somut, fizik-metafizik, kavramsal-sosyal  sistem türleri olabilir.
@@ -112,7 +112,7 @@ Aksine, düşünmedeki sistemsizliğin akıbetinin hüsran olduğuna, şu acı m
 
 İnceleme ve araştırmaların sonucunda başta kâşif ve mucitler görmektedirler ki, evren ve onun herhangi bir parçasında, en küçüğünden en büyüğüne kadar, canlı/cansız, soyut/somut, fizik/metafizik, mikro/makro bütün âlemler ahenkle işleyen sistemlerle doludur.
 
-En baştan itibaren varlıktaki nizamı kabul ederek, onun içindeki alt sistemleri ve bunların birbirleriyle irtibatlarını, sebep ve sonuç ilişkilerini hikmetleriyle beraber anlama gayreti, sistemli bir yaklaşımdır. Ayrıca  ve sağlıklı ve kolay bir yöntemdir. Ama güya objektif olamama kaygısıyla, bu nizama bigâne veya tarafsız kalarak varlıktaki sırları, ahengi keşfetme çabası, diğerine kıyasla her ne kadar yorucu ve sistemsiz olsa da tabii ki bu da zor bir tercihtir.
+En baştan itibaren varlıktaki nizamı kabul ederek, onun içindeki alt sistemleri ve bunların birbirleriyle irtibatlarını, sebep ve sonuç ilişkilerini hikmetleriyle beraber anlama gayreti, sistemli bir yaklaşımdır. Ayrıca sağlıklı ve kolay bir yöntemdir. Ama güya objektif olamama kaygısıyla, bu nizama bigâne veya tarafsız kalarak varlıktaki sırları, ahengi keşfetme çabası, diğerine kıyasla her ne kadar yorucu ve sistemsiz olsa da tabii ki bu da zor bir tercihtir.
 
 Nâzım’ı kalben kabul edip-etmemek elbette bir inanç konusudur.  Ama selim akıllar, sistem de diyebileceğimiz mükemmel bu nizamı, farklı bilim dalı başlıkları altında, tekvini ayetler manzumesi olarak bilinçli veya bilinçsiz ilan ve itiraf ederler. Hâlbuki nizamları, tabiata, tesadüf veya sebeplere beyhude dayandırma çabası bu sistemleri reddetmek değil, aksine bu harikulade nizamları, kozaliteyi kabul edip, onlara haddizatında “Bir gerçek sahip” arayışı değil midir? 
 
